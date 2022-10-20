@@ -1,0 +1,13 @@
+2022-10-20 11:19:01.432 | INFO     | __main__:log_table:141 - 
+ |       | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E (TTM)   | EPS (TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|---------|------------|----------|-----------------------|----------|---------------------|--------------|-------------|-------------|------------------------|-------------------|
+| TTB   | 1.28THB | 3.23%      | 0.04THB  | Buy                   | 559.087M | 715.632M            | 119.812BTHB  | 10.21       | 0.12THB     | Finance                | +0.63%            |
+| TRUE  | 5.10THB | −0.97%     | −0.05THB | Buy                   | 274.532M | 1.4B                | 171.723BTHB  | —           | −0.09THB    | Communications         | +0.80%            |
+| SIRI  | 1.28THB | 2.40%      | 0.03THB  | Buy                   | 180.087M | 230.512M            | 18.607BTHB   | 10.18       | 0.13THB     | Finance                | +0.63%            |
+| AMARC | 3.62THB | 4.02%      | 0.14THB  | Strong Buy            | 128.271M | 464.34M             | 52.015BTHB   | 16.56       | 0.21THB     | Transportation         | +0.47%            |
+| WHA   | 3.52THB | −7.37%     | −0.28THB | —                     | 128.01M  | 450.597M            | 456MTHB      | —           | —           | Commercial Services    | +0.33%            |
+| ZIGA  | 4.34THB | 0.46%      | 0.02THB  | Sell                  | 103.072M | 447.331M            | 3.002BTHB    | 26.28       | 0.21THB     | Non-Energy Minerals    | −0.44%            |
+| UREKA | 1.71THB | 5.56%      | 0.09THB  | Buy                   | 96.933M  | 165.755M            | 2.249BTHB    | 17.18       | 0.09THB     | Producer Manufacturing | +0.93%            |
+| PJW   | 1.57THB | 1.29%      | 0.02THB  | Buy                   | 85.674M  | 134.509M            | 8.701BTHB    | —           | −3.36THB    | Consumer Services      | +0.18%            |
+| U     | 5.00THB | 0.00%      | 0.00THB  | Sell                  | 80.02M   | 400.102M            | 44.413BTHB   | 18.67       | 0.27THB     | Utilities              | +0.39%            |
+| PSG   | 3.58THB | 1.70%      | 0.06THB  | Sell                  | 78.771M  | 282M                | 38.72BTHB    | 6.90        | 0.51THB     | Health Services        | +1.07%            |

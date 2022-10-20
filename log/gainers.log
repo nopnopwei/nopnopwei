@@ -1,0 +1,13 @@
+2022-10-20 11:19:01.412 | INFO     | __main__:log_table:141 - 
+ |        | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E (TTM)   | EPS (TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|----------|------------|----------|-----------------------|----------|---------------------|--------------|-------------|-------------|------------------------|-------------------|
+| UMS    | 2.56THB  | 29.95%     | 0.59THB  | Strong Buy            | 5.964M   | 15.267M             | 2.256BTHB    | —           | −0.01THB    | Energy Minerals        | +1.34%            |
+| SMK    | 6.10THB  | 29.24%     | 1.38THB  | Buy                   | 3.427M   | 20.903M             | 944MTHB      | —           | −185.62THB  | Finance                | +0.63%            |
+| ADD    | 18.8THB  | 11.24%     | 1.9THB   | Buy                   | 1.142M   | 21.475M             | 2.704BTHB    | 32.75       | 0.52THB     | Technology Services    | −2.86%            |
+| BGT    | 1.69THB  | 11.18%     | 0.17THB  | Buy                   | 37.987M  | 64.198M             | 552.55MTHB   | —           | −0.04THB    | Retail Trade           | −0.30%            |
+| TCOAT  | 29.00THB | 10.48%     | 2.75THB  | Buy                   | 200      | 5.8K                | 275.625MTHB  | —           | −0.39THB    | Process Industries     | +0.41%            |
+| SAT    | 21.4THB  | 8.63%      | 1.7THB   | Strong Buy            | 5.413M   | 115.833M            | 8.376BTHB    | 9.70        | 2.03THB     | Producer Manufacturing | +0.93%            |
+| TRV    | 4.34THB  | 8.50%      | 0.34THB  | Strong Buy            | 37.227M  | 161.567M            | 840MTHB      | 22.05       | 0.18THB     | Producer Manufacturing | +0.93%            |
+| ABM    | 2.80THB  | 6.87%      | 0.18THB  | Strong Buy            | 63.518M  | 177.849M            | 1.048BTHB    | 29.11       | 0.09THB     | Process Industries     | +0.41%            |
+| KAMART | 6.45THB  | 6.61%      | 0.40THB  | Buy                   | 29.351M  | 189.313M            | 5.324BTHB    | 15.08       | 0.40THB     | Distribution Services  | −0.07%            |
+| KISS   | 10.00THB | 6.38%      | 0.60THB  | Buy                   | 11.203M  | 112.027M            | 5.64BTHB     | 58.60       | 0.16THB     | Commercial Services    | +0.33%            |

@@ -1,0 +1,13 @@
+2022-10-20 11:19:01.423 | INFO     | __main__:log_table:141 - 
+ |       | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E (TTM)   | EPS (TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|----------|------------|----------|-----------------------|----------|---------------------|--------------|-------------|-------------|------------------------|-------------------|
+| DELTA | 53.00THB | −9.40%     | −5.50THB | Sell                  | 2.15M    | 113.972M            | 41.328BTHB   | 135.76      | 0.43THB     | Technology Services    | −2.86%            |
+| JTS   | 612THB   | −8.66%     | −58THB   | Sell                  | 6.221M   | 3.807B              | 835.746BTHB  | 80.90       | 8.28THB     | Electronic Technology  | −5.52%            |
+| AMARC | 3.52THB  | −7.37%     | −0.28THB | —                     | 128.01M  | 450.597M            | 456MTHB      | —           | —           | Commercial Services    | +0.33%            |
+| UMI   | 2.92THB  | −7.01%     | −0.22THB | Buy                   | 58.898M  | 171.981M            | 1.486BTHB    | 26.72       | 0.13THB     | Producer Manufacturing | +0.93%            |
+| III   | 1.64THB  | −6.29%     | −0.11THB | Strong Sell           | 242.1K   | 397.044K            | 1.794BTHB    | 53.85       | 0.03THB     | Finance                | +0.63%            |
+| PRG   | 1.18THB  | −5.60%     | −0.07THB | Sell                  | 8.829M   | 10.418M             | 937.968MTHB  | 32.72       | 0.04THB     | Retail Trade           | −0.30%            |
+| NINE  | 9.7THB   | −4.90%     | −0.5THB  | Sell                  | 3.307M   | 32.076M             | 7.997BTHB    | 16.63       | 0.61THB     | Consumer Non-Durables  | +0.74%            |
+| BC    | 238THB   | −4.80%     | −12THB   | Sell                  | 2.112K   | 502.656K            | 2.5BTHB      | 3.45        | 72.53THB    | Finance                | +0.63%            |
+| MORE  | 16.4THB  | −4.65%     | −0.8THB  | Strong Sell           | 2.983M   | 48.92M              | 11.18BTHB    | 11.84       | 1.45THB     | Process Industries     | +0.41%            |
+| KWM   | 25.75THB | −4.63%     | −1.25THB | Strong Sell           | 996.416K | 25.658M             | 14.884BTHB   | 26.68       | 1.01THB     | Finance                | +0.63%            |
