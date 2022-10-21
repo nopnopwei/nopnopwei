@@ -70,6 +70,10 @@ def get_top_data(category: str) -> tuple[list[str], pd.DataFrame]:
 
 def sector_change_percentage(sector: str) -> str:
 
+    # Exit if no sector found.
+    if len(sector) <= 1:
+        return "-"
+
     # Initiate soup class instance.
     url_sector: str = sector.replace(" ", "_")
     soup_sector_change: BEAUTIFUL_SOUP = BEAUTIFUL_SOUP(
@@ -108,11 +112,6 @@ def create_table(data: list[tuple[list[str], pd.DataFrame]]) -> list[str]:
         category_table_data: pd.DataFrame = datum[1].head(10)
 
         # Change dataframe indexes.
-        # tickers_and_names: list[str] = []
-        # stock_company_names: list[str] = list(category_table_data["Ticker"])
-        # for ticker, names in zip(stock_ticker, stock_company_names):
-        #     clean_string: str = f"{ticker} - {names}"
-        #     tickers_and_names.append(clean_string)
         category_table_data.index = stock_ticker  # type: ignore
         category_table_data = category_table_data.drop("Ticker", axis=1).drop(
             "Employees", axis=1
