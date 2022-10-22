@@ -24,3 +24,16 @@
 | STECH  | 2.26THB  | 4.63%      | 0.10THB  | Buy                   | 1.031M   | 2.329M              | 1.566BTHB    | 13.78       | 0.16THB     | Non-Energy Minerals   | +0.08%            |
 | MIPF   | 13.6THB  | 4.62%      | 0.6THB   | Sell                  | 100      | 1.36K               | 2.47BTHB     | 46.02       | 0.28THB     | Finance               | −0.54%            |
 | MPIC   | 1.71THB  | 4.27%      | 0.07THB  | Neutral               | 343.4K   | 587.214K            | 2.132BTHB    | 165.66      | 0.01THB     | Consumer Services     | −0.30%            |
+2022-10-22 11:16:09.443 | INFO     | __main__:log_table:140 - 
+ |        | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E (TTM)   | EPS (TTM)   | Sector                | Sector Chg % 1D   |
+|--------|----------|------------|----------|-----------------------|----------|---------------------|--------------|-------------|-------------|-----------------------|-------------------|
+| SMK    | 7.90THB  | 29.51%     | 1.80THB  | Strong Buy            | 4.084M   | 32.263M             | 1.58BTHB     | —           | −185.62THB  | Finance               | −0.54%            |
+| PTC    | 3.16THB  | 16.18%     | 0.44THB  | Buy                   | 116.471M | 368.049M            | 1.296BTHB    | 12.45       | 0.22THB     | Industrial Services   | +0.01%            |
+| ARIP   | 1.09THB  | 15.96%     | 0.15THB  | Strong Buy            | 75.205M  | 81.973M             | 507.94MTHB   | 35.88       | 0.03THB     | Commercial Services   | +0.13%            |
+| CHARAN | 29.25THB | 6.36%      | 1.75THB  | Strong Buy            | 3.7K     | 108.225K            | 351MTHB      | —           | −3.29THB    | Finance               | −0.54%            |
+| ABICO  | 5.70THB  | 5.56%      | 0.30THB  | Buy                   | 381.613K | 2.175M              | 1.393BTHB    | 27.58       | 0.20THB     | Consumer Non-Durables | −0.35%            |
+| CIVIL  | 3.20THB  | 5.26%      | 0.16THB  | Buy                   | 39.265M  | 125.646M            | 2.24BTHB     | 14.14       | 0.22THB     | Industrial Services   | +0.01%            |
+| TPCH   | 7.50THB  | 4.90%      | 0.35THB  | Sell                  | 1.062M   | 7.964M              | 3.009BTHB    | 38.30       | 0.19THB     | Utilities             | +0.15%            |
+| STECH  | 2.26THB  | 4.63%      | 0.10THB  | Buy                   | 1.031M   | 2.329M              | 1.638BTHB    | 13.78       | 0.16THB     | Non-Energy Minerals   | +0.08%            |
+| MIPF   | 13.6THB  | 4.62%      | 0.6THB   | Sell                  | 100      | 1.36K               | 2.584BTHB    | 46.02       | 0.28THB     | Finance               | −0.54%            |
+| MPIC   | 1.71THB  | 4.27%      | 0.07THB  | Neutral               | 343.4K   | 587.214K            | 2.223BTHB    | 165.66      | 0.01THB     | Consumer Services     | −0.30%            |
