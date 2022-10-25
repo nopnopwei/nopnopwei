@@ -63,3 +63,16 @@
 | STECH  | 2.26THB  | 4.63%      | 0.10THB  | Buy                   | 1.031M   | 2.329M              | 1.638BTHB    | 13.78       | 0.16THB     | Non-Energy Minerals   | +0.10%            |
 | MIPF   | 13.6THB  | 4.62%      | 0.6THB   | Sell                  | 100      | 1.36K               | 2.584BTHB    | 46.02       | 0.28THB     | Finance               | −0.53%            |
 | MPIC   | 1.71THB  | 4.27%      | 0.07THB  | Neutral               | 343.4K   | 587.214K            | 2.223BTHB    | 165.66      | 0.01THB     | Consumer Services     | −0.28%            |
+2022-10-25 11:18:26.187 | INFO     | __main__:log_table:140 - 
+ |       | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E (TTM)   | EPS (TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|----------|------------|----------|-----------------------|----------|---------------------|--------------|-------------|-------------|------------------------|-------------------|
+| TMC   | 2.24THB  | 12.00%     | 0.24THB  | Strong Buy            | 13.827M  | 30.973M             | 917.547MTHB  | —           | −0.03THB    | Producer Manufacturing | −0.46%            |
+| SALEE | 1.40THB  | 12.00%     | 0.15THB  | Strong Buy            | 64.058M  | 89.681M             | 1.901BTHB    | 36.98       | 0.03THB     | Producer Manufacturing | −0.46%            |
+| SNNP  | 20.8THB  | 8.33%      | 1.6THB   | Strong Buy            | 22.136M  | 460.425M            | 18.432BTHB   | 45.39       | 0.42THB     | Consumer Non-Durables  | +1.31%            |
+| NSI   | 198.0THB | 7.32%      | 13.5THB  | Buy                   | 125.175K | 24.785M             | 2.565BTHB    | 20.32       | 9.08THB     | Finance                | +0.17%            |
+| THRE  | 1.10THB  | 6.80%      | 0.07THB  | Sell                  | 10.784M  | 11.863M             | 4.341BTHB    | —           | −0.16THB    | Finance                | +0.17%            |
+| DELTA | 666THB   | 6.39%      | 40THB    | Strong Buy            | 6.122M   | 4.077B              | 780.861BTHB  | 75.59       | 8.28THB     | Electronic Technology  | +2.29%            |
+| FPI   | 3.70THB  | 6.32%      | 0.22THB  | Strong Buy            | 15.084M  | 55.811M             | 5.126BTHB    | 12.30       | 0.28THB     | Producer Manufacturing | −0.46%            |
+| TPIPL | 1.76THB  | 6.02%      | 0.10THB  | Strong Buy            | 45.64M   | 80.327M             | 31.75BTHB    | 4.55        | 0.37THB     | Non-Energy Minerals    | +1.17%            |
+| ICHI  | 10.50THB | 5.53%      | 0.55THB  | Strong Buy            | 13.194M  | 138.539M            | 12.935BTHB   | 25.00       | 0.40THB     | Consumer Non-Durables  | +1.31%            |
+| CHIC  | 1.00THB  | 5.26%      | 0.05THB  | Buy                   | 25.358M  | 25.358M             | —            | —           | —           | Distribution Services  | −0.12%            |
