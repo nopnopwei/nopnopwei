@@ -76,3 +76,16 @@
 | TPIPL | 1.76THB  | 6.02%      | 0.10THB  | Strong Buy            | 45.64M   | 80.327M             | 31.75BTHB    | 4.55        | 0.37THB     | Non-Energy Minerals    | +1.17%            |
 | ICHI  | 10.50THB | 5.53%      | 0.55THB  | Strong Buy            | 13.194M  | 138.539M            | 12.935BTHB   | 25.00       | 0.40THB     | Consumer Non-Durables  | +1.31%            |
 | CHIC  | 1.00THB  | 5.26%      | 0.05THB  | Buy                   | 25.358M  | 25.358M             | —            | —           | —           | Distribution Services  | −0.12%            |
+2022-10-26 11:15:29.629 | INFO     | __main__:log_table:140 - 
+ |        | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E (TTM)   | EPS (TTM)   | Sector                | Sector Chg % 1D   |
+|--------|----------|------------|----------|-----------------------|----------|---------------------|--------------|-------------|-------------|-----------------------|-------------------|
+| JKN    | 4.46THB  | 17.37%     | 0.66THB  | Buy                   | 296.895M | 1.324B              | 2.447BTHB    | 27.74       | 0.18THB     | Consumer Services     | +1.98%            |
+| MNIT2  | 4.98THB  | 7.79%      | 0.36THB  | Buy                   | 4.802K   | 23.914K             | 464.171MTHB  | 31.28       | 0.15THB     | Finance               | +0.38%            |
+| GUNKUL | 5.36THB  | 7.00%      | 0.36THB  | Strong Buy            | 144.071M | 770.779M            | 44.413BTHB   | 18.67       | 0.27THB     | Utilities             | +0.92%            |
+| NPK    | 15.9THB  | 6.71%      | 1.0THB   | Strong Buy            | 2K       | 31.8K               | 149MTHB      | —           | −3.67THB    | Consumer Non-Durables | −0.29%            |
+| INSURE | 242THB   | 6.61%      | 15THB    | Sell                  | 720      | 174.24K             | 2.27BTHB     | 3.13        | 72.53THB    | Finance               | +0.38%            |
+| TPS    | 3.56THB  | 6.59%      | 0.22THB  | Strong Buy            | 6.5M     | 23.139M             | 1.122BTHB    | 21.47       | 0.16THB     | Distribution Services | −0.38%            |
+| BCT    | 61.25THB | 6.52%      | 3.75THB  | Strong Buy            | 53.798K  | 3.295M              | 17.25BTHB    | 3.36        | 17.12THB    | Process Industries    | −0.54%            |
+| AP     | 10.20THB | 6.25%      | 0.60THB  | Strong Buy            | 44.07M   | 449.519M            | 30.201BTHB   | 5.67        | 1.69THB     | Consumer Durables     | +1.42%            |
+| AIT    | 6.30THB  | 5.88%      | 0.35THB  | Buy                   | 25.103M  | 158.149M            | 6.138BTHB    | 16.81       | 0.42THB     | Technology Services   | +0.20%            |
+| CWT    | 2.92THB  | 5.80%      | 0.16THB  | Buy                   | 24.267M  | 70.86M              | 1.739BTHB    | 7.25        | 0.38THB     | Process Industries    | −0.54%            |
