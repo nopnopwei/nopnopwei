@@ -89,3 +89,16 @@
 | SPACK | 3.94THB | −4.83%     | −0.20THB | Buy                   | 6.133M   | 24.165M             | 1.242BTHB    | 36.93       | 0.11THB     | Commercial Services    | −0.91%            |
 | UEC   | 1.58THB | −4.82%     | −0.08THB | Strong Sell           | 1.373M   | 2.17M               | 947.048MTHB  | —           | −0.12THB    | Producer Manufacturing | −0.13%            |
 | STP   | 14.2THB | −4.70%     | −0.7THB  | Strong Sell           | 871.57K  | 12.376M             | 1.49BTHB     | —           | —           | Commercial Services    | −0.91%            |
+2022-10-27 11:15:27.045 | INFO     | __main__:log_table:140 - 
+ |        | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E (TTM)   | EPS (TTM)   | Sector                | Sector Chg % 1D   |
+|--------|----------|------------|----------|-----------------------|----------|---------------------|--------------|-------------|-------------|-----------------------|-------------------|
+| DELTA  | 19.9THB  | −7.87%     | −1.7THB  | Buy                   | 37.695M  | 750.129M            | 22.032BTHB   | 37.02       | 0.58THB     | Transportation        | +0.36%            |
+| DPAINT | 558THB   | −7.62%     | −46THB   | Sell                  | 9.333M   | 5.208B              | 753.418BTHB  | 56.87       | 10.62THB    | Electronic Technology | −4.43%            |
+| JWD    | 11.1THB  | −6.72%     | −0.8THB  | Buy                   | 8.249M   | 91.561M             | 2.737BTHB    | 52.06       | 0.23THB     | Process Industries    | +0.16%            |
+| SMK    | 2.58THB  | −6.52%     | −0.18THB | Buy                   | 47.879M  | 123.528M            | 1.104BTHB    | 30.67       | 0.09THB     | Process Industries    | +0.16%            |
+| AS     | 9.35THB  | −6.50%     | −0.65THB | Sell                  | 16.792M  | 157.001M            | 6.2BTHB      | —           | —           | Finance               | +0.70%            |
+| KCC    | 2.82THB  | −6.00%     | −0.18THB | Sell                  | 1.094M   | 3.084M              | 1.32BTHB     | 70.09       | 0.04THB     | Process Industries    | +0.16%            |
+| TOA    | 5.80THB  | −5.69%     | −0.35THB | Buy                   | 1.048M   | 6.078M              | 1.23BTHB     | —           | −185.62THB  | Finance               | +0.70%            |
+| ABM    | 31.25THB | −5.30%     | −1.75THB | Sell                  | 1.637M   | 51.142M             | 66.957BTHB   | 44.09       | 0.75THB     | Process Industries    | +0.16%            |
+| TCOAT  | 16.8THB  | −5.08%     | −0.9THB  | Strong Sell           | 5.542M   | 93.102M             | 8.313BTHB    | 18.25       | 1.04THB     | Technology Services   | +0.14%            |
+| NINE   | 6.80THB  | −4.90%     | −0.35THB | Sell                  | 1.325M   | 9.013M              | 11.365BTHB   | —           | −0.15THB    | Consumer Services     | +0.34%            |

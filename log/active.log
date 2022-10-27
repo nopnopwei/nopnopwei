@@ -89,3 +89,16 @@
 | ZIGA   | 4.42THB  | 3.27%      | 0.14THB  | Buy                   | 112.704M | 498.152M            | 2.975BTHB    | 26.03       | 0.21THB     | Non-Energy Minerals   | +0.43%            |
 | BANPU  | 12.5THB  | 0.81%      | 0.1THB   | Sell                  | 78.744M  | 984.301M            | 83.9BTHB     | 3.28        | 4.50THB     | Energy Minerals       | +0.12%            |
 | OR     | 24.75THB | −4.08%     | −1.00THB | Strong Sell           | 76.159M  | 1.881B              | 309BTHB      | 21.08       | 1.22THB     | Distribution Services | −0.38%            |
+2022-10-27 11:15:27.050 | INFO     | __main__:log_table:140 - 
+ |       | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E (TTM)   | EPS (TTM)   | Sector                | Sector Chg % 1D   |
+|-------|---------|------------|----------|-----------------------|----------|---------------------|--------------|-------------|-------------|-----------------------|-------------------|
+| TTB   | 1.36THB | −1.45%     | −0.02THB | Buy                   | 686.342M | 933.426M            | 133.34BTHB   | 10.21       | 0.14THB     | Finance               | +0.70%            |
+| JKN   | 5.60THB | 25.56%     | 1.14THB  | Strong Buy            | 285.427M | 1.598B              | 2.872BTHB    | 32.55       | 0.18THB     | Consumer Services     | +0.34%            |
+| WHA   | 3.86THB | 3.21%      | 0.12THB  | Strong Buy            | 170.326M | 657.459M            | 55.901BTHB   | 17.80       | 0.21THB     | Transportation        | +0.36%            |
+| PCC   | 3.48THB | 8.07%      | 0.26THB  | —                     | 143.626M | 499.818M            | —            | —           | —           | Electronic Technology | −4.43%            |
+| SENAJ | 1.24THB | −0.80%     | −0.01THB | Buy                   | 141.779M | 175.806M            | 5.25BTHB     | —           | −0.09THB    | Finance               | +0.70%            |
+| OR    | 24.1THB | −2.43%     | −0.6THB  | Strong Sell           | 130.352M | 3.141B              | 296.4BTHB    | 20.22       | 1.22THB     | Distribution Services | −0.44%            |
+| AAV   | 3.18THB | 6.71%      | 0.20THB  | Strong Buy            | 129.171M | 410.765M            | 34.547BTHB   | —           | −1.16THB    | Transportation        | +0.36%            |
+| U     | 1.60THB | 3.90%      | 0.06THB  | Buy                   | 117.214M | 187.543M            | 8.645BTHB    | —           | −3.36THB    | Consumer Services     | +0.34%            |
+| SIRI  | 1.30THB | 0.00%      | 0.00THB  | Buy                   | 102.791M | 133.628M            | 19.352BTHB   | 10.59       | 0.13THB     | Finance               | +0.70%            |
+| TGE   | 2.02THB | 3.59%      | 0.07THB  | Strong Buy            | 102.707M | 207.467M            | 4.29BTHB     | 19.86       | 0.10THB     | Utilities             | +1.45%            |
