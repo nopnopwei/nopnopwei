@@ -102,3 +102,16 @@
 | ABM    | 31.25THB | −5.30%     | −1.75THB | Sell                  | 1.637M   | 51.142M             | 66.957BTHB   | 44.09       | 0.75THB     | Process Industries    | +0.16%            |
 | TCOAT  | 16.8THB  | −5.08%     | −0.9THB  | Strong Sell           | 5.542M   | 93.102M             | 8.313BTHB    | 18.25       | 1.04THB     | Technology Services   | +0.14%            |
 | NINE   | 6.80THB  | −4.90%     | −0.35THB | Sell                  | 1.325M   | 9.013M              | 11.365BTHB   | —           | −0.15THB    | Consumer Services     | +0.34%            |
+2022-10-28 11:16:03.263 | INFO     | __main__:log_table:140 - 
+ |        | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|---------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| GLORY  | 3.36THB | −15.58%    | −0.62THB | Strong Sell           | 4.441M   | 14.92M              | 1.075BTHB    | —          | —          | Retail Trade           | −0.15%            |
+| JKN    | 4.80THB | −13.93%    | −0.80THB | Buy                   | 349.903M | 1.687B              | 3.606BTHB    | 40.88      | 0.18THB    | Consumer Services      | −0.46%            |
+| JWD    | 18.4THB | −7.54%     | −1.5THB  | Neutral               | 40.804M  | 750.795M            | 20.298BTHB   | 34.10      | 0.58THB    | Transportation         | −0.29%            |
+| RBF    | 11.1THB | −6.72%     | −0.8THB  | Strong Sell           | 6.365M   | 70.65M              | 23.8BTHB     | 46.20      | 0.26THB    | Consumer Non-Durables  | −1.03%            |
+| KAMART | 6.05THB | −5.47%     | −0.35THB | Buy                   | 10.386M  | 62.834M             | 5.632BTHB    | 15.96      | 0.40THB    | Distribution Services  | −0.27%            |
+| UMI    | 1.90THB | −5.00%     | −0.10THB | Neutral               | 12.474M  | 23.7M               | 1.673BTHB    | 17.35      | 0.12THB    | Producer Manufacturing | −0.22%            |
+| BIS    | 9.40THB | −4.57%     | −0.45THB | Strong Sell           | 1.347M   | 12.666M             | 3.093BTHB    | 24.00      | 0.41THB    | Health Technology      | +0.33%            |
+| CH     | 4.30THB | −4.02%     | −0.18THB | Strong Sell           | 18.023M  | 77.497M             | 3.584BTHB    | —          | —          | Consumer Non-Durables  | −1.03%            |
+| SAT    | 5.15THB | −3.74%     | −0.20THB | Sell                  | 629.414K | 3.241M              | 1.96BTHB     | 11.71      | 0.46THB    | Retail Trade           | −0.15%            |
+| IT     | 20.6THB | −3.74%     | −0.8THB  | Buy                   | 3.089M   | 63.633M             | 9.099BTHB    | 10.54      | 2.03THB    | Producer Manufacturing | −0.22%            |
