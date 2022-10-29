@@ -115,3 +115,16 @@
 | SIRI  | 1.29THB | −0.77%     | −0.01THB | Buy                   | 88.474M  | 114.132M            | 19.352BTHB   | 10.59      | 0.13THB    | Finance             | −0.47%            |
 | LDC   | 1.33THB | −1.48%     | −0.02THB | Neutral               | 80.946M  | 107.659M            | 810MTHB      | 34.62      | 0.04THB    | Health Services     | −0.27%            |
 | TGE   | 2.02THB | 0.00%      | 0.00THB  | Buy                   | 73.554M  | 148.579M            | 4.444BTHB    | 20.57      | 0.10THB    | Utilities           | −0.40%            |
+2022-10-29 11:14:27.219 | INFO     | __main__:log_table:140 - 
+ |       | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector              | Sector Chg % 1D   |
+|-------|---------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|---------------------|-------------------|
+| JKN   | 4.80THB | −13.93%    | −0.80THB | Buy                   | 349.903M | 1.687B              | 3.104BTHB    | 40.88      | 0.18THB    | Consumer Services   | −0.65%            |
+| U     | 1.62THB | 1.25%      | 0.02THB  | Strong Buy            | 237.514M | 384.773M            | 9.094BTHB    | —          | −3.36THB   | Consumer Services   | −0.65%            |
+| PSG   | 1.41THB | 4.44%      | 0.06THB  | Buy                   | 223.652M | 315.349M            | 91.639BTHB   | 794.12     | 0.00THB    | Industrial Services | +1.48%            |
+| WHA   | 3.92THB | 1.55%      | 0.06THB  | Strong Buy            | 171.599M | 672.669M            | 58.592BTHB   | 18.37      | 0.21THB    | Transportation      | −0.31%            |
+| TTB   | 1.35THB | −0.74%     | −0.01THB | Buy                   | 161.494M | 218.016M            | 130.441BTHB  | 10.06      | 0.14THB    | Finance             | −0.32%            |
+| ITNS  | 4.28THB | 8.08%      | 0.32THB  | —                     | 104.005M | 445.14M             | —            | —          | —          | Technology Services | −1.35%            |
+| SPACK | 4.52THB | 14.72%     | 0.58THB  | Strong Buy            | 103.17M  | 466.328M            | 1.356BTHB    | 35.15      | 0.11THB    | Commercial Services | −1.60%            |
+| SIRI  | 1.29THB | −0.77%     | −0.01THB | Buy                   | 88.474M  | 114.132M            | 19.203BTHB   | 10.59      | 0.13THB    | Finance             | −0.32%            |
+| LDC   | 1.33THB | −1.48%     | −0.02THB | Neutral               | 80.946M  | 107.659M            | 798MTHB      | 34.62      | 0.04THB    | Health Services     | +0.05%            |
+| TGE   | 2.02THB | 0.00%      | 0.00THB  | Buy                   | 73.554M  | 148.579M            | 4.444BTHB    | 20.57      | 0.10THB    | Utilities           | −0.35%            |
