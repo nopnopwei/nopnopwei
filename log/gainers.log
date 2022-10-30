@@ -128,3 +128,16 @@
 | OHTL   | 456THB  | 7.04%      | 30THB    | Strong Buy            | 4.625K   | 2.109M              | 6.885BTHB    | —          | −30.99THB  | Consumer Services     | −0.65%            |
 | SRICHA | 10.9THB | 6.86%      | 0.7THB   | Buy                   | 3.007M   | 32.775M             | 3.378BTHB    | 3090.91    | 0.00THB    | Industrial Services   | +1.48%            |
 | DELTA  | 594THB  | 6.45%      | 36THB    | Neutral               | 4.751M   | 2.822B              | 740.945BTHB  | 52.53      | 10.62THB   | Electronic Technology | +4.16%            |
+2022-10-30 11:14:19.915 | INFO     | __main__:log_table:140 - 
+ |        | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| CMO    | 5.00THB | 22.55%     | 0.92THB  | Buy                   | 30.328M  | 151.64M             | 1.405BTHB    | —          | −0.31THB   | Commercial Services   | −1.54%            |
+| SPACK  | 4.52THB | 14.72%     | 0.58THB  | Strong Buy            | 103.17M  | 466.328M            | 1.356BTHB    | 35.15      | 0.11THB    | Commercial Services   | −1.54%            |
+| SMK    | 6.45THB | 11.21%     | 0.65THB  | Buy                   | 4.212M   | 27.165M             | 1.29BTHB     | —          | −185.62THB | Finance               | −0.30%            |
+| SICT   | 8.40THB | 9.09%      | 0.70THB  | Strong Buy            | 14.104M  | 118.476M            | 3.36BTHB     | 35.93      | 0.21THB    | Electronic Technology | +4.25%            |
+| MBK    | 18.2THB | 8.98%      | 1.5THB   | Strong Buy            | 20.608M  | 375.069M            | 24.516BTHB   | —          | −0.47THB   | Finance               | −0.30%            |
+| SA     | 9.30THB | 8.77%      | 0.75THB  | Buy                   | 3.262M   | 30.334M             | 11.027BTHB   | 94.48      | 0.09THB    | Finance               | −0.30%            |
+| ITNS   | 4.28THB | 8.08%      | 0.32THB  | —                     | 104.005M | 445.14M             | —            | —          | —          | Technology Services   | −1.33%            |
+| OHTL   | 456THB  | 7.04%      | 30THB    | Strong Buy            | 4.625K   | 2.109M              | 6.885BTHB    | —          | −30.99THB  | Consumer Services     | −0.62%            |
+| SRICHA | 10.9THB | 6.86%      | 0.7THB   | Buy                   | 3.007M   | 32.775M             | 3.378BTHB    | 3090.91    | 0.00THB    | Industrial Services   | +1.58%            |
+| DELTA  | 594THB  | 6.45%      | 36THB    | Neutral               | 4.751M   | 2.822B              | 740.945BTHB  | 52.53      | 10.62THB   | Electronic Technology | +4.25%            |
