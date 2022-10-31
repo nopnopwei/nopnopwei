@@ -141,3 +141,16 @@
 | CH     | 4.30THB | −4.02%     | −0.18THB | Strong Sell           | 18.023M  | 77.497M             | 3.44BTHB     | —          | —          | Consumer Non-Durables  | −0.93%            |
 | SAT    | 5.15THB | −3.74%     | −0.20THB | Sell                  | 629.414K | 3.241M              | 1.887BTHB    | 11.71      | 0.46THB    | Retail Trade           | +0.67%            |
 | IT     | 20.6THB | −3.74%     | −0.8THB  | Buy                   | 3.089M   | 63.633M             | 8.759BTHB    | 10.54      | 2.03THB    | Producer Manufacturing | −0.34%            |
+2022-10-31 11:16:30.130 | INFO     | __main__:log_table:140 - 
+ |        | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|----------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| MATI   | 7.25THB  | −15.70%    | −1.35THB | Strong Sell           | 7.5K     | 54.375K             | 1.594BTHB    | 16.79      | 0.51THB    | Consumer Services      | −0.22%            |
+| YGG    | 8.05THB  | −8.00%     | −0.70THB | Strong Sell           | 7.937M   | 63.891M             | 5.267BTHB    | 28.05      | 0.31THB    | Consumer Services      | −0.22%            |
+| TGE    | 1.86THB  | −7.92%     | −0.16THB | Sell                  | 113.426M | 210.972M            | 4.444BTHB    | 20.57      | 0.10THB    | Utilities              | −0.52%            |
+| SINGER | 36.25THB | −6.45%     | −2.50THB | Strong Sell           | 8.83M    | 320.083M            | 31.428BTHB   | 30.24      | 1.30THB    | Distribution Services  | −0.27%            |
+| RCL    | 26.50THB | −6.19%     | −1.75THB | Sell                  | 9.989M   | 264.708M            | 23.412BTHB   | 0.85       | 33.09THB   | Transportation         | +0.14%            |
+| SAWANG | 12.2THB  | −6.15%     | −0.8THB  | Buy                   | 9.9K     | 120.78K             | 312MTHB      | —          | −1.30THB   | Consumer Durables      | +0.13%            |
+| W      | 1.94THB  | −5.83%     | −0.12THB | Strong Sell           | 38.257M  | 74.219M             | 1.677BTHB    | —          | −0.42THB   | Consumer Services      | −0.22%            |
+| PSL    | 13.1THB  | −5.76%     | −0.8THB  | Strong Sell           | 20.497M  | 268.504M            | 21.674BTHB   | 3.48       | 3.99THB    | Transportation         | +0.14%            |
+| ACC    | 1.34THB  | −4.96%     | −0.07THB | Strong Sell           | 16.48M   | 22.084M             | 1.894BTHB    | 12.84      | 0.11THB    | Utilities              | −0.52%            |
+| TKT    | 2.70THB  | −4.93%     | −0.14THB | Neutral               | 9.647M   | 26.047M             | 675.295MTHB  | 40.11      | 0.07THB    | Producer Manufacturing | +0.44%            |

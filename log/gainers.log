@@ -141,3 +141,16 @@
 | OHTL   | 456THB  | 7.04%      | 30THB    | Strong Buy            | 4.625K   | 2.109M              | 6.885BTHB    | —          | −30.99THB  | Consumer Services     | −0.62%            |
 | SRICHA | 10.9THB | 6.86%      | 0.7THB   | Buy                   | 3.007M   | 32.775M             | 3.378BTHB    | 3090.91    | 0.00THB    | Industrial Services   | +1.58%            |
 | DELTA  | 594THB  | 6.45%      | 36THB    | Neutral               | 4.751M   | 2.822B              | 740.945BTHB  | 52.53      | 10.62THB   | Electronic Technology | +4.25%            |
+2022-10-31 11:16:30.124 | INFO     | __main__:log_table:140 - 
+ |        | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|----------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| PDJ    | 3.54THB  | 22.07%     | 0.64THB  | Strong Buy            | 144.027M | 509.856M            | 1.563BTHB    | 7.43       | 0.39THB    | Consumer Durables      | +0.13%            |
+| BBIK   | 128.0THB | 8.02%      | 9.5THB   | Strong Buy            | 1.276M   | 163.307M            | 11.85BTHB    | 122.53     | 0.97THB    | Commercial Services    | +0.63%            |
+| SABUY  | 12.7THB  | 7.63%      | 0.9THB   | Neutral               | 26.929M  | 341.995M            | 16.888BTHB   | 26.16      | 0.47THB    | Distribution Services  | −0.27%            |
+| MORE   | 2.60THB  | 7.44%      | 0.18THB  | Buy                   | 133.971M | 348.325M            | 15.805BTHB   | 13.56      | 0.18THB    | Distribution Services  | −0.27%            |
+| DPAINT | 11.9THB  | 7.21%      | 0.8THB   | Strong Buy            | 7.528M   | 89.579M             | 2.553BTHB    | 48.56      | 0.23THB    | Process Industries     | +0.11%            |
+| BRR    | 7.50THB  | 7.14%      | 0.50THB  | Neutral               | 5.352M   | 40.14M              | 5.685BTHB    | 9.17       | 0.76THB    | Process Industries     | +0.11%            |
+| SITHAI | 1.65THB  | 6.45%      | 0.10THB  | Strong Buy            | 46.467M  | 76.67M              | 4.2BTHB      | 16.18      | 0.10THB    | Producer Manufacturing | +0.44%            |
+| JWD    | 19.5THB  | 5.98%      | 1.1THB   | Buy                   | 37.787M  | 736.845M            | 18.768BTHB   | 31.53      | 0.58THB    | Transportation         | +0.14%            |
+| ROCK   | 8.50THB  | 5.59%      | 0.45THB  | Buy                   | 100      | 850                 | 161MTHB      | —          | −2.01THB   | Producer Manufacturing | +0.44%            |
+| HPT    | 1.17THB  | 5.41%      | 0.06THB  | Strong Buy            | 68.805M  | 80.502M             | 734.908MTHB  | 21.14      | 0.05THB    | Consumer Durables      | +0.13%            |
