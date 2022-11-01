@@ -154,3 +154,16 @@
 | PSL    | 13.1THB  | −5.76%     | −0.8THB  | Strong Sell           | 20.497M  | 268.504M            | 21.674BTHB   | 3.48       | 3.99THB    | Transportation         | +0.14%            |
 | ACC    | 1.34THB  | −4.96%     | −0.07THB | Strong Sell           | 16.48M   | 22.084M             | 1.894BTHB    | 12.84      | 0.11THB    | Utilities              | −0.52%            |
 | TKT    | 2.70THB  | −4.93%     | −0.14THB | Neutral               | 9.647M   | 26.047M             | 675.295MTHB  | 40.11      | 0.07THB    | Producer Manufacturing | +0.44%            |
+2022-11-01 11:15:46.045 | INFO     | __main__:log_table:140 - 
+ |        | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|----------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| KCC    | 8.30THB  | −11.70%    | −1.10THB | Sell                  | 25.816M  | 214.27M             | 5.828BTHB    | —          | —          | Finance                | +0.63%            |
+| URBNPF | 2.20THB  | −5.98%     | −0.14THB | Strong Sell           | 5K       | 11K                 | 168.48MTHB   | —          | −0.14THB   | Finance                | +0.63%            |
+| NSL    | 21.5THB  | −5.70%     | −1.3THB  | Sell                  | 4.218M   | 90.688M             | 6.84BTHB     | 31.05      | 0.73THB    | Consumer Non-Durables  | +0.36%            |
+| TNPF   | 1.80THB  | −5.26%     | −0.10THB | Strong Sell           | 17.5K    | 31.5K               | 278.225MTHB  | —          | −0.22THB   | Finance                | +0.63%            |
+| ROCK   | 8.10THB  | −4.71%     | −0.40THB | Strong Sell           | 700      | 5.67K               | 170MTHB      | —          | −2.01THB   | Producer Manufacturing | +0.26%            |
+| IIG    | 41.50THB | −4.60%     | −2.00THB | Sell                  | 714.542K | 29.653M             | 4.35BTHB     | 44.18      | 0.98THB    | Commercial Services    | +1.57%            |
+| PDJ    | 3.38THB  | −4.52%     | −0.16THB | Buy                   | 35.297M  | 119.303M            | 1.908BTHB    | 9.07       | 0.39THB    | Consumer Durables      | +0.23%            |
+| JKN    | 4.90THB  | −2.97%     | −0.15THB | Buy                   | 62.473M  | 306.12M             | 3.252BTHB    | 36.86      | 0.18THB    | Consumer Services      | +1.11%            |
+| FORTH  | 51.50THB | −2.83%     | −1.50THB | Sell                  | 2.343M   | 120.667M            | 49.575BTHB   | 68.83      | 0.77THB    | Electronic Technology  | +3.42%            |
+| SCM    | 6.90THB  | −2.82%     | −0.20THB | Sell                  | 3.153M   | 21.754M             | 4.26BTHB     | 19.16      | 0.37THB    | Retail Trade           | +0.63%            |
