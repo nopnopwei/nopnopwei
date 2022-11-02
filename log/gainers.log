@@ -167,3 +167,16 @@
 | BC     | 1.51THB | 6.34%      | 0.09THB  | Buy                   | 217.3K   | 328.123K            | 808.004MTHB  | —          | −0.28THB   | Consumer Services     | +1.11%            |
 | MORE   | 2.76THB | 6.15%      | 0.16THB  | Strong Buy            | 181.789M | 501.739M            | 16.98BTHB    | 14.57      | 0.18THB    | Distribution Services | +0.87%            |
 | PSL    | 13.9THB | 6.11%      | 0.8THB   | Sell                  | 25.506M  | 354.532M            | 20.427BTHB   | 3.28       | 3.99THB    | Transportation        | +0.55%            |
+2022-11-02 11:16:42.950 | INFO     | __main__:log_table:140 - 
+ |        | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|---------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| NFC    | 5.90THB | 13.46%     | 0.70THB  | Buy                   | 22.144M  | 130.65M             | 5.657BTHB    | 14.90      | 0.35THB    | Distribution Services  | +0.15%            |
+| AJ     | 13.6THB | 8.80%      | 1.1THB   | Buy                   | 2.218M   | 30.158M             | 5.5BTHB      | 13.01      | 0.96THB    | Process Industries     | +0.40%            |
+| UOBKH  | 5.80THB | 7.41%      | 0.40THB  | Buy                   | 575.506K | 3.338M              | 2.713BTHB    | 8.55       | 0.63THB    | Finance                | +0.08%            |
+| KWM    | 2.88THB | 5.88%      | 0.16THB  | Buy                   | 142.571M | 410.605M            | 1.287BTHB    | 23.15      | 0.13THB    | Producer Manufacturing | +0.02%            |
+| KCAR   | 9.35THB | 5.65%      | 0.50THB  | Strong Buy            | 676.583K | 6.326M              | 2.213BTHB    | 9.38       | 0.94THB    | Finance                | +0.08%            |
+| URBNPF | 2.32THB | 5.45%      | 0.12THB  | Sell                  | 300      | 696                 | 168.48MTHB   | —          | −0.14THB   | Finance                | +0.08%            |
+| MBAX   | 5.30THB | 4.95%      | 0.25THB  | Buy                   | 1.229M   | 6.516M              | 969.071MTHB  | 7.28       | 0.69THB    | Process Industries     | +0.40%            |
+| BEYOND | 12.8THB | 4.92%      | 0.6THB   | Strong Buy            | 1.201M   | 15.369M             | 3.524BTHB    | 6.18       | 1.97THB    | Consumer Services      | +1.11%            |
+| Q-CON  | 5.50THB | 4.76%      | 0.25THB  | Buy                   | 4.656M   | 25.608M             | 2.1BTHB      | 14.07      | 0.37THB    | Non-Energy Minerals    | −0.02%            |
+| WPH    | 3.56THB | 4.71%      | 0.16THB  | Buy                   | 17.193M  | 61.207M             | 2.04BTHB     | 6.02       | 0.56THB    | Health Services        | +0.86%            |

@@ -167,3 +167,16 @@
 | JKN    | 4.90THB  | −2.97%     | −0.15THB | Buy                   | 62.473M  | 306.12M             | 3.252BTHB    | 36.86      | 0.18THB    | Consumer Services      | +1.11%            |
 | FORTH  | 51.50THB | −2.83%     | −1.50THB | Sell                  | 2.343M   | 120.667M            | 49.575BTHB   | 68.83      | 0.77THB    | Electronic Technology  | +3.42%            |
 | SCM    | 6.90THB  | −2.82%     | −0.20THB | Sell                  | 3.153M   | 21.754M             | 4.26BTHB     | 19.16      | 0.37THB    | Retail Trade           | +0.63%            |
+2022-11-02 11:16:42.957 | INFO     | __main__:log_table:140 - 
+ |       | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|----------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| KCC   | 8.60THB  | −13.57%    | −1.35THB | Sell                  | 25.127M  | 216.092M            | 5.97BTHB     | 62.03      | 0.16THB    | Commercial Services    | −0.94%            |
+| AAI   | 7.85THB  | −11.80%    | −1.05THB | —                     | 410.487M | 3.222B              | —            | —          | —          | —                      | -                 |
+| NEW   | 7.35THB  | −11.45%    | −0.95THB | Strong Sell           | 35.243M  | 259.037M            | 5.828BTHB    | —          | —          | Finance                | +0.08%            |
+| OHTL  | 6.00THB  | −7.69%     | −0.50THB | Sell                  | 4.245M   | 25.472M             | 1.963BTHB    | 167.10     | 0.04THB    | Health Services        | +0.86%            |
+| FORTH | 15.8THB  | −6.51%     | −1.1THB  | Strong Sell           | 1.784M   | 28.189M             | 5.372BTHB    | 3595.74    | 0.00THB    | Consumer Non-Durables  | −0.00%            |
+| TFG   | 48.25THB | −6.31%     | −3.25THB | Sell                  | 5.39M    | 260.086M            | 48.172BTHB   | 66.88      | 0.77THB    | Electronic Technology  | +3.13%            |
+| SSF   | 2.42THB  | −6.20%     | −0.16THB | Buy                   | 7.998M   | 19.354M             | 1.032BTHB    | 28.67      | 0.09THB    | Process Industries     | +0.40%            |
+| TC    | 5.30THB  | −6.19%     | −0.35THB | Sell                  | 23.454M  | 124.309M            | 31.945BTHB   | 20.73      | 0.27THB    | Process Industries     | +0.40%            |
+| BTNC  | 61.00THB | −6.15%     | −4.00THB | Sell                  | 304      | 18.544K             | 650MTHB      | 11.23      | 5.79THB    | Health Services        | +0.86%            |
+| JTS   | 2.24THB  | −5.88%     | −0.14THB | Buy                   | 3.906M   | 8.75M               | 1.092BTHB    | —          | −0.03THB   | Producer Manufacturing | +0.02%            |
