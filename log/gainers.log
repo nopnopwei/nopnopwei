@@ -180,3 +180,16 @@
 | BEYOND | 12.8THB | 4.92%      | 0.6THB   | Strong Buy            | 1.201M   | 15.369M             | 3.524BTHB    | 6.18       | 1.97THB    | Consumer Services      | +1.11%            |
 | Q-CON  | 5.50THB | 4.76%      | 0.25THB  | Buy                   | 4.656M   | 25.608M             | 2.1BTHB      | 14.07      | 0.37THB    | Non-Energy Minerals    | −0.02%            |
 | WPH    | 3.56THB | 4.71%      | 0.16THB  | Buy                   | 17.193M  | 61.207M             | 2.04BTHB     | 6.02       | 0.56THB    | Health Services        | +0.86%            |
+2022-11-03 11:14:33.445 | INFO     | __main__:log_table:140 - 
+ |        | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|----------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| INSURE | 309THB   | 29.83%     | 71THB    | Strong Buy            | 16.356K  | 5.054M              | 2.38BTHB     | 3.28       | 72.53THB   | Finance                | +0.27%            |
+| 24CS   | 4.24THB  | 14.59%     | 0.54THB  | Neutral               | 162.486M | 688.941M            | 1.634BTHB    | —          | —          | Distribution Services  | +0.19%            |
+| TEGH   | 4.72THB  | 13.46%     | 0.56THB  | Strong Buy            | 101.275M | 478.016M            | 4.579BTHB    | —          | —          | Producer Manufacturing | −0.28%            |
+| MNIT   | 1.78THB  | 12.66%     | 0.20THB  | Strong Buy            | 10.9K    | 19.402K             | 218.04MTHB   | 26.16      | 0.06THB    | Finance                | +0.27%            |
+| LPN    | 4.60THB  | 9.52%      | 0.40THB  | Strong Buy            | 69.013M  | 317.46M             | 6.108BTHB    | 15.37      | 0.27THB    | Finance                | +0.27%            |
+| VNG    | 6.30THB  | 7.69%      | 0.45THB  | Buy                   | 3.756M   | 23.663M             | 10.151BTHB   | 6.76       | 0.87THB    | Distribution Services  | +0.19%            |
+| STARK  | 3.42THB  | 7.55%      | 0.24THB  | Sell                  | 132.901M | 454.522M            | 37.862BTHB   | 12.29      | 0.26THB    | Finance                | +0.27%            |
+| KWI    | 4.20THB  | 7.14%      | 0.28THB  | Strong Buy            | 42.544M  | 178.685M            | 8.014BTHB    | —          | −0.09THB   | Finance                | +0.27%            |
+| NEW    | 65.25THB | 6.97%      | 4.25THB  | Strong Buy            | 1.301K   | 84.89K              | 610MTHB      | 10.54      | 5.79THB    | Health Services        | −0.34%            |
+| YONG   | 2.10THB  | 6.60%      | 0.13THB  | Buy                   | 11.979M  | 25.156M             | 360MTHB      | —          | —          | Non-Energy Minerals    | −0.01%            |

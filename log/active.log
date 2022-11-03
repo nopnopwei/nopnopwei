@@ -180,3 +180,16 @@
 | WHA   | 3.88THB  | 1.04%      | 0.04THB  | Buy                   | 95.924M  | 372.187M            | 57.396BTHB   | 18.28      | 0.21THB    | Transportation         | +0.44%            |
 | PSG   | 1.36THB  | −3.55%     | −0.05THB | Sell                  | 87.891M  | 119.532M            | 91.639BTHB   | 829.41     | 0.00THB    | Industrial Services    | −0.12%            |
 | SENAJ | 1.26THB  | 1.61%      | 0.02THB  | Strong Buy            | 86.305M  | 108.745M            | 5.208BTHB    | —          | −0.09THB   | Finance                | +0.08%            |
+2022-11-03 11:14:33.460 | INFO     | __main__:log_table:140 - 
+ |        | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|---------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| MORE   | 2.94THB | 2.08%      | 0.06THB  | Strong Buy            | 497.571M | 1.463B              | 18.809BTHB   | 16.13      | 0.18THB    | Distribution Services  | +0.19%            |
+| TTB    | 1.39THB | 1.46%      | 0.02THB  | Strong Buy            | 401.396M | 557.94M             | 132.373BTHB  | 10.13      | 0.14THB    | Finance                | +0.27%            |
+| 24CS   | 4.24THB | 14.59%     | 0.54THB  | Neutral               | 162.486M | 688.941M            | 1.634BTHB    | —          | —          | Distribution Services  | +0.19%            |
+| AAI    | 8.20THB | 4.46%      | 0.35THB  | —                     | 145.658M | 1.194B              | —            | —          | —          | Consumer Non-Durables  | +0.02%            |
+| SIRI   | 1.32THB | −0.75%     | −0.01THB | Buy                   | 142.578M | 188.203M            | 19.798BTHB   | 10.83      | 0.13THB    | Finance                | +0.27%            |
+| STARK  | 3.42THB | 7.55%      | 0.24THB  | Sell                  | 132.901M | 454.522M            | 37.862BTHB   | 12.29      | 0.26THB    | Finance                | +0.27%            |
+| TEGH   | 4.72THB | 13.46%     | 0.56THB  | Strong Buy            | 101.275M | 478.016M            | 4.579BTHB    | —          | —          | Producer Manufacturing | −0.28%            |
+| TAKUNI | 3.56THB | −5.32%     | −0.20THB | Neutral               | 89.774M  | 319.597M            | 3.008BTHB    | 32.11      | 0.12THB    | Retail Trade           | −0.27%            |
+| CHG    | 3.66THB | 2.81%      | 0.10THB  | Buy                   | 80.55M   | 294.814M            | 39.16BTHB    | 6.98       | 0.51THB    | Health Services        | −0.34%            |
+| LPN    | 4.60THB | 9.52%      | 0.40THB  | Strong Buy            | 69.013M  | 317.46M             | 6.108BTHB    | 15.37      | 0.27THB    | Finance                | +0.27%            |
