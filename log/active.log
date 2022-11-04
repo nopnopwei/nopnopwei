@@ -193,3 +193,16 @@
 | TAKUNI | 3.56THB | −5.32%     | −0.20THB | Neutral               | 89.774M  | 319.597M            | 3.008BTHB    | 32.11      | 0.12THB    | Retail Trade           | −0.27%            |
 | CHG    | 3.66THB | 2.81%      | 0.10THB  | Buy                   | 80.55M   | 294.814M            | 39.16BTHB    | 6.98       | 0.51THB    | Health Services        | −0.34%            |
 | LPN    | 4.60THB | 9.52%      | 0.40THB  | Strong Buy            | 69.013M  | 317.46M             | 6.108BTHB    | 15.37      | 0.27THB    | Finance                | +0.27%            |
+2022-11-04 11:14:46.816 | INFO     | __main__:log_table:140 - 
+ |       | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|----------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| TTB   | 1.37THB  | −1.44%     | −0.02THB | Buy                   | 220.426M | 301.984M            | 132.373BTHB  | 10.28      | 0.14THB    | Finance               | +0.59%            |
+| MORE  | 2.92THB  | −0.68%     | −0.02THB | Buy                   | 207.141M | 604.851M            | 18.809BTHB   | 16.47      | 0.18THB    | Distribution Services | +0.78%            |
+| PCC   | 3.66THB  | 2.81%      | 0.10THB  | Strong Buy            | 184.166M | 674.047M            | —            | —          | —          | Electronic Technology | +2.59%            |
+| BANPU | 12.9THB  | 2.38%      | 0.3THB   | Buy                   | 120.346M | 1.552B              | 84.576BTHB   | 3.33       | 4.50THB    | Energy Minerals       | +1.90%            |
+| AAI   | 7.85THB  | −4.27%     | −0.35THB | —                     | 119.768M | 940.178M            | —            | —          | —          | Consumer Non-Durables | −0.25%            |
+| IRPC  | 3.20THB  | 0.63%      | 0.02THB  | Neutral               | 99.55M   | 318.559M            | 65.314BTHB   | 6.70       | 0.47THB    | Energy Minerals       | +1.90%            |
+| VGI   | 3.90THB  | 4.28%      | 0.16THB  | Buy                   | 73.496M  | 286.633M            | 41.867BTHB   | —          | −0.01THB   | Commercial Services   | +2.32%            |
+| PJW   | 5.05THB  | 0.00%      | 0.00THB  | Buy                   | 72.805M  | 367.664M            | 3.044BTHB    | 24.33      | 0.22THB    | Process Industries    | −0.17%            |
+| U     | 1.60THB  | 1.27%      | 0.02THB  | Buy                   | 68.758M  | 110.013M            | 8.87BTHB     | —          | −3.36THB   | Consumer Services     | −0.89%            |
+| PTT   | 36.00THB | 0.70%      | 0.25THB  | Buy                   | 60.733M  | 2.186B              | 1.028TTHB    | 8.82       | 4.05THB    | Energy Minerals       | +1.90%            |

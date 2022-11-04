@@ -193,3 +193,16 @@
 | SELIC  | 3.08THB  | −4.35%     | −0.14THB | Neutral               | 39.472M  | 121.573M            | 1.616BTHB    | 36.30      | 0.09THB    | Process Industries    | −0.00%            |
 | CENTEL | 47.75THB | −4.02%     | −2.00THB | Sell                  | 15.613M  | 745.522M            | 67.163BTHB   | —          | −0.50THB   | Consumer Services     | −1.05%            |
 | FORTH  | 46.50THB | −3.63%     | −1.75THB | Sell                  | 3.26M    | 151.594M            | 45.132BTHB   | 62.66      | 0.77THB    | Electronic Technology | −1.21%            |
+2022-11-04 11:14:46.810 | INFO     | __main__:log_table:140 - 
+ |        | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|----------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| NPK    | 13.5THB  | −15.63%    | −2.5THB  | Strong Sell           | 633      | 8.546K              | 158MTHB      | —          | −3.67THB   | Consumer Non-Durables  | −0.25%            |
+| BTNC   | 3.70THB  | −5.13%     | −0.20THB | Strong Sell           | 2.052M   | 7.593M              | 2.139BTHB    | 15.54      | 0.25THB    | Producer Manufacturing | +0.60%            |
+| ASEFA  | 7.85THB  | −4.27%     | −0.35THB | —                     | 119.768M | 940.178M            | —            | —          | —          | Consumer Non-Durables  | −0.25%            |
+| MNIT   | 1.36THB  | −4.23%     | −0.06THB | Strong Sell           | 29.3K    | 39.848K             | 933.846MTHB  | —          | −0.06THB   | Producer Manufacturing | +0.60%            |
+| SR     | 1.71THB  | −3.93%     | −0.07THB | Strong Buy            | 13.6K    | 23.256K             | 218.04MTHB   | 29.47      | 0.06THB    | Finance                | +0.59%            |
+| TRV    | 5.10THB  | −3.77%     | −0.20THB | Sell                  | 77.4K    | 394.74K             | 3.196BTHB    | 23.61      | 0.22THB    | Commercial Services    | +2.32%            |
+| ADVANC | 4.24THB  | −3.64%     | −0.16THB | Buy                   | 1.098M   | 4.655M              | 928.2MTHB    | 24.26      | 0.18THB    | Producer Manufacturing | +0.60%            |
+| BA     | 480THB   | −3.61%     | −18THB   | Buy                   | 1.702K   | 816.96K             | 7.549BTHB    | —          | −30.99THB  | Consumer Services      | −0.89%            |
+| INTUCH | 148.5THB | −2.94%     | −4.5THB  | Sell                  | 266.642K | 39.596M             | 44.998BTHB   | 11.70      | 13.07THB   | Non-Energy Minerals    | +0.46%            |
+| MORE   | 300THB   | −2.91%     | −9THB    | Buy                   | 28.64K   | 8.592M              | 2.38BTHB     | 4.26       | 72.53THB   | Finance                | +0.59%            |

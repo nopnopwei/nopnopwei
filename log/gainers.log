@@ -193,3 +193,16 @@
 | KWI    | 4.20THB  | 7.14%      | 0.28THB  | Strong Buy            | 42.544M  | 178.685M            | 8.014BTHB    | —          | −0.09THB   | Finance                | +0.27%            |
 | NEW    | 65.25THB | 6.97%      | 4.25THB  | Strong Buy            | 1.301K   | 84.89K              | 610MTHB      | 10.54      | 5.79THB    | Health Services        | −0.34%            |
 | YONG   | 2.10THB  | 6.60%      | 0.13THB  | Buy                   | 11.979M  | 25.156M             | 360MTHB      | —          | —          | Non-Energy Minerals    | −0.01%            |
+2022-11-04 11:14:46.804 | INFO     | __main__:log_table:140 - 
+ |       | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|----------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| PMTA  | 11.00THB | 10.00%     | 1.00THB  | Buy                   | 361.492K | 3.976M              | 1.007BTHB    | 9.63       | 1.04THB    | Process Industries    | −0.17%            |
+| W     | 2.24THB  | 9.80%      | 0.20THB  | Buy                   | 47.65M   | 106.736M            | 1.644BTHB    | —          | −0.42THB   | Consumer Services     | −0.89%            |
+| PROEN | 8.50THB  | 6.25%      | 0.50THB  | Strong Buy            | 9.811M   | 83.397M             | 2.496BTHB    | 66.61      | 0.12THB    | Technology Services   | +0.91%            |
+| PTECH | 23.5THB  | 5.86%      | 1.3THB   | Buy                   | 5.971K   | 140.319K            | 5.71BTHB     | —          | −1.40THB   | Commercial Services   | +2.32%            |
+| NSL   | 22.0THB  | 5.77%      | 1.2THB   | Neutral               | 1.665M   | 36.64M              | 6.3BTHB      | 28.33      | 0.73THB    | Consumer Non-Durables | −0.25%            |
+| SCAP  | 27.50THB | 5.77%      | 1.50THB  | Buy                   | 384.273K | 10.568M             | 14.47BTHB    | 25.69      | 1.01THB    | Finance               | +0.59%            |
+| IT    | 5.45THB  | 4.81%      | 0.25THB  | Buy                   | 3.976M   | 21.669M             | 1.887BTHB    | 11.38      | 0.46THB    | Retail Trade          | +0.74%            |
+| PLANB | 7.70THB  | 4.76%      | 0.35THB  | Strong Buy            | 42.411M  | 326.562M            | 31.453BTHB   | 80.95      | 0.09THB    | Commercial Services   | +2.32%            |
+| SQ    | 1.99THB  | 4.74%      | 0.09THB  | Buy                   | 8.677M   | 17.268M             | 2.194BTHB    | 6.32       | 0.30THB    | Finance               | +0.59%            |
+| BEC   | 10.20THB | 4.62%      | 0.45THB  | Neutral               | 14.724M  | 150.189M            | 19.7BTHB     | 24.84      | 0.39THB    | Consumer Services     | −0.89%            |
