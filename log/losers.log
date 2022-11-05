@@ -206,3 +206,16 @@
 | BA     | 480THB   | −3.61%     | −18THB   | Buy                   | 1.702K   | 816.96K             | 7.549BTHB    | —          | −30.99THB  | Consumer Services      | −0.89%            |
 | INTUCH | 148.5THB | −2.94%     | −4.5THB  | Sell                  | 266.642K | 39.596M             | 44.998BTHB   | 11.70      | 13.07THB   | Non-Energy Minerals    | +0.46%            |
 | MORE   | 300THB   | −2.91%     | −9THB    | Buy                   | 28.64K   | 8.592M              | 2.38BTHB     | 4.26       | 72.53THB   | Finance                | +0.59%            |
+2022-11-05 11:13:09.604 | INFO     | __main__:log_table:140 - 
+ |        | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|----------|------------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| NPK    | 13.5THB  | −15.63%    | −2.5THB  | Strong Sell           | 633      | 8.546K              | 160MTHB      | —          | −3.67THB   | Consumer Non-Durables  | +0.64%            |
+| ASEFA  | 3.70THB  | −5.13%     | −0.20THB | Strong Sell           | 2.052M   | 7.593M              | 2.128BTHB    | 20.24      | 0.19THB    | Producer Manufacturing | +0.79%            |
+| AAI    | 7.85THB  | −4.27%     | −0.35THB | —                     | 119.768M | 940.178M            | —            | —          | —          | Consumer Non-Durables  | +0.64%            |
+| SR     | 1.36THB  | −4.23%     | −0.06THB | Strong Sell           | 29.3K    | 39.848K             | 960.914MTHB  | —          | −0.06THB   | Producer Manufacturing | +0.79%            |
+| MNIT   | 1.71THB  | −3.93%     | −0.07THB | Strong Buy            | 13.6K    | 23.256K             | 245.64MTHB   | 29.47      | 0.06THB    | Finance                | −0.24%            |
+| STI    | 5.10THB  | −3.77%     | −0.20THB | Sell                  | 77.4K    | 394.74K             | 3.196BTHB    | 23.61      | 0.22THB    | Commercial Services    | +1.23%            |
+| TRV    | 4.24THB  | −3.64%     | −0.16THB | Buy                   | 1.098M   | 4.655M              | 924MTHB      | 24.26      | 0.18THB    | Producer Manufacturing | +0.79%            |
+| OHTL   | 480THB   | −3.61%     | −18THB   | Buy                   | 1.702K   | 816.96K             | 7.519BTHB    | —          | −30.99THB  | Consumer Services      | +0.68%            |
+| SCCC   | 148.5THB | −2.94%     | −4.5THB  | Sell                  | 266.642K | 39.596M             | 45.594BTHB   | 11.70      | 13.07THB   | Non-Energy Minerals    | −0.09%            |
+| INSURE | 300THB   | −2.91%     | −9THB    | Buy                   | 28.64K   | 8.592M              | 3.09BTHB     | 4.26       | 72.53THB   | Finance                | −0.24%            |
