@@ -232,3 +232,16 @@
 | PLANB | 7.70THB  | 4.76%      | 0.35THB  | Strong Buy            | 42.411M  | 326.562M            | 32.951BTHB   | 80.95      | 0.09THB    | Commercial Services   | +1.28%            |
 | SQ    | 1.99THB  | 4.74%      | 0.09THB  | Buy                   | 8.677M   | 17.268M             | 2.286BTHB    | 6.32       | 0.30THB    | Finance               | −0.23%            |
 | BEC   | 10.20THB | 4.62%      | 0.45THB  | Neutral               | 14.724M  | 150.189M            | 20.4BTHB     | 24.84      | 0.39THB    | Consumer Services     | +0.70%            |
+2022-11-07 11:15:01.115 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|---------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| DEMCO  | 11.47%     | 4.86THB | 0.50THB  | Strong Buy            | 18.865M  | 91.685M             | 3.184BTHB    | —          | −0.01THB   | Industrial Services    | +2.05%            |
+| NPK    | 11.11%     | 15.0THB | 1.5THB   | Sell                  | 300      | 4.5K                | 135MTHB      | —          | −3.67THB   | Consumer Non-Durables  | −0.45%            |
+| INSURE | 9.67%      | 329THB  | 29THB    | Strong Buy            | 9.46K    | 3.112M              | 3BTHB        | 4.14       | 72.53THB   | Finance                | −0.06%            |
+| TEAMG  | 7.19%      | 17.9THB | 1.2THB   | Strong Buy            | 11.255M  | 201.458M            | 11.356BTHB   | 118.78     | 0.14THB    | Commercial Services    | −1.61%            |
+| NCL    | 6.90%      | 3.10THB | 0.20THB  | Buy                   | 8.663M   | 26.855M             | 1.532BTHB    | 13.00      | 0.22THB    | Transportation         | −0.40%            |
+| TPBI   | 6.82%      | 4.70THB | 0.30THB  | Strong Buy            | 11.095M  | 52.147M             | 1.834BTHB    | 16.65      | 0.26THB    | Process Industries     | +0.84%            |
+| TSR    | 6.32%      | 4.04THB | 0.24THB  | Buy                   | 23.096M  | 93.306M             | 2.079BTHB    | 81.72      | 0.05THB    | Producer Manufacturing | −0.08%            |
+| BBGI   | 6.25%      | 6.80THB | 0.40THB  | Buy                   | 12.878M  | 87.571M             | 9.254BTHB    | 4.69       | 1.37THB    | Process Industries     | +0.84%            |
+| PRINC  | 5.47%      | 6.75THB | 0.35THB  | Strong Buy            | 21.725M  | 146.645M            | 24.375BTHB   | 25.63      | 0.25THB    | Health Services        | −0.65%            |
+| OHTL   | 5.42%      | 506THB  | 26THB    | Strong Buy            | 2.856K   | 1.445M              | 7.247BTHB    | —          | −30.99THB  | Consumer Services      | +0.29%            |

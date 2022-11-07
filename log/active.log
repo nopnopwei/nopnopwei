@@ -232,3 +232,16 @@
 | PJW   | 5.05THB  | 0.00%      | 0.00THB  | Buy                   | 72.805M  | 367.664M            | 3.044BTHB    | 24.33      | 0.22THB    | Process Industries    | +0.25%            |
 | U     | 1.60THB  | 1.27%      | 0.02THB  | Buy                   | 68.758M  | 110.013M            | 8.982BTHB    | —          | −3.36THB   | Consumer Services     | +0.70%            |
 | PTT   | 36.00THB | 0.70%      | 0.25THB  | Buy                   | 60.733M  | 2.186B              | 1.028TTHB    | 8.82       | 4.05THB    | Energy Minerals       | +1.55%            |
+2022-11-07 11:15:01.133 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| TTB    | 200.07M  | 1.36THB | −0.73%     | −0.01THB | Buy                   | 272.095M            | 132.373BTHB  | 10.13      | 0.14THB    | Finance               | −0.06%            |
+| WHA    | 176.759M | 3.94THB | 1.55%      | 0.06THB  | Strong Buy            | 696.43M             | 57.994BTHB   | 18.47      | 0.21THB    | Transportation        | −0.40%            |
+| BANPU  | 151.871M | 13.0THB | 0.78%      | 0.1THB   | Buy                   | 1.974B              | 87.283BTHB   | 3.41       | 4.50THB    | Energy Minerals       | +0.20%            |
+| KLINIQ | 143.84M  | 41.5THB | —          | —        | —                     | 5.969B              | —            | —          | —          | —                     | -                 |
+| U      | 121.923M | 1.53THB | −4.38%     | −0.07THB | Neutral               | 186.542M            | 8.982BTHB    | —          | −3.36THB   | Consumer Services     | +0.29%            |
+| PSG    | 120.31M  | 1.45THB | 5.07%      | 0.07THB  | Strong Buy            | 174.45M             | 89.69BTHB    | 811.76     | 0.00THB    | Industrial Services   | +2.05%            |
+| IRPC   | 97.038M  | 3.24THB | 1.25%      | 0.04THB  | Buy                   | 314.403M            | 65.314BTHB   | 6.75       | 0.47THB    | Energy Minerals       | +0.20%            |
+| ZIGA   | 93.053M  | 4.54THB | 2.25%      | 0.10THB  | Buy                   | 422.462M            | 3.086BTHB    | 27.01      | 0.21THB    | Non-Energy Minerals   | +0.41%            |
+| AAI    | 91.465M  | 7.40THB | −5.73%     | −0.45THB | —                     | 676.838M            | —            | —          | —          | Consumer Non-Durables | −0.45%            |
+| SIRI   | 82.683M  | 1.35THB | 2.27%      | 0.03THB  | Strong Buy            | 111.622M            | 19.649BTHB   | 10.75      | 0.13THB    | Finance               | −0.06%            |
