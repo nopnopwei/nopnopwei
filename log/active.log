@@ -245,3 +245,16 @@
 | ZIGA   | 93.053M  | 4.54THB | 2.25%      | 0.10THB  | Buy                   | 422.462M            | 3.086BTHB    | 27.01      | 0.21THB    | Non-Energy Minerals   | +0.41%            |
 | AAI    | 91.465M  | 7.40THB | −5.73%     | −0.45THB | —                     | 676.838M            | —            | —          | —          | Consumer Non-Durables | −0.45%            |
 | SIRI   | 82.683M  | 1.35THB | 2.27%      | 0.03THB  | Strong Buy            | 111.622M            | 19.649BTHB   | 10.75      | 0.13THB    | Finance               | −0.06%            |
+2022-11-08 11:14:34.823 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| THCOM  | 94.795M  | 11.4THB | −7.32%     | −0.9THB  | Sell                  | 1.081B              | 13.482BTHB   | 31.11      | 0.40THB    | Communications         | −0.97%            |
+| TTB    | 93.228M  | 1.36THB | 0.00%      | 0.00THB  | Buy                   | 126.79M             | 131.407BTHB  | 10.06      | 0.14THB    | Finance                | +0.08%            |
+| WHA    | 93.169M  | 3.84THB | −2.54%     | −0.10THB | Buy                   | 357.77M             | 58.891BTHB   | 18.75      | 0.21THB    | Transportation         | +0.35%            |
+| AAI    | 91.266M  | 7.05THB | −4.73%     | −0.35THB | —                     | 643.426M            | —            | —          | —          | Consumer Non-Durables  | +0.40%            |
+| SITHAI | 90.668M  | 1.68THB | 3.70%      | 0.06THB  | Strong Buy            | 152.322M            | 4.39BTHB     | 16.91      | 0.10THB    | Producer Manufacturing | +0.53%            |
+| SVI    | 89.959M  | 9.10THB | 10.98%     | 0.90THB  | Strong Buy            | 818.631M            | 17.656BTHB   | 9.93       | 0.83THB    | Electronic Technology  | +0.82%            |
+| TEGH   | 81.699M  | 4.78THB | −2.85%     | −0.14THB | Buy                   | 390.522M            | 5.314BTHB    | —          | —          | Producer Manufacturing | +0.53%            |
+| PSG    | 78.578M  | 1.43THB | −1.38%     | −0.02THB | Buy                   | 112.367M            | 94.239BTHB   | 852.94     | 0.00THB    | Industrial Services    | +0.24%            |
+| BANPU  | 76.199M  | 12.9THB | −0.77%     | −0.1THB  | Buy                   | 982.972M            | 87.959BTHB   | 3.44       | 4.50THB    | Energy Minerals        | −0.52%            |
+| IRPC   | 73.295M  | 3.24THB | 0.00%      | 0.00THB  | Buy                   | 237.476M            | 66.13BTHB    | 6.83       | 0.47THB    | Energy Minerals        | −0.52%            |

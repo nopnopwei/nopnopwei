@@ -245,3 +245,16 @@
 | AAI    | −5.04%     | 61.25THB | −3.25THB | Strong Sell           | 19.07M   | 1.168B              | 94.106BTHB   | 53.10      | 1.23THB    | Commercial Services    | −1.61%            |
 | U      | −4.59%     | 5.20THB  | −0.25THB | Strong Sell           | 1.123M   | 5.838M              | 1.997BTHB    | 11.93      | 0.46THB    | Retail Trade           | −0.64%            |
 | ASIAN  | −4.52%     | 1.48THB  | −0.07THB | Sell                  | 11.898M  | 17.609M             | 1.175BTHB    | —          | −0.30THB   | Finance                | −0.06%            |
+2022-11-08 11:14:34.817 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| D      | −8.62%     | 5.30THB  | −0.50THB | Strong Sell           | 9.033M   | 47.873M             | 1.751BTHB    | 149.10     | 0.04THB    | Health Services        | +0.75%            |
+| VNG    | −8.15%     | 2.48THB  | −0.22THB | Sell                  | 8.079M   | 20.035M             | 642.006MTHB  | 38.14      | 0.07THB    | Producer Manufacturing | +0.53%            |
+| TKT    | −7.32%     | 11.4THB  | −0.9THB  | Sell                  | 94.795M  | 1.081B              | 13.482BTHB   | 31.11      | 0.40THB    | Communications         | −0.97%            |
+| THCOM  | −7.20%     | 5.80THB  | −0.45THB | Strong Sell           | 3.502M   | 20.312M             | 10.845BTHB   | 7.22       | 0.87THB    | Distribution Services  | +1.06%            |
+| RJH    | −4.82%     | 39.50THB | −2.00THB | —                     | 29.108M  | 1.15B               | —            | —          | —          | —                      | -                 |
+| BTNC   | −4.80%     | 2.38THB  | −0.12THB | Sell                  | 2.629M   | 6.257M              | 1BTHB        | 27.78      | 0.09THB    | Process Industries     | +0.53%            |
+| CHIC   | −4.73%     | 7.05THB  | −0.35THB | —                     | 91.266M  | 643.426M            | —            | —          | —          | Consumer Non-Durables  | +0.40%            |
+| LDC    | −4.55%     | 1.26THB  | −0.06THB | Strong Sell           | 24.487M  | 30.854M             | 792MTHB      | 33.85      | 0.04THB    | Health Services        | +0.75%            |
+| ASIAN  | −4.52%     | 2.96THB  | −0.14THB | Sell                  | 8.892M   | 26.321M             | 1.638BTHB    | 13.90      | 0.22THB    | Transportation         | +0.35%            |
+| TIDLOR | −4.44%     | 12.9THB  | −0.6THB  | Sell                  | 2.887M   | 37.239M             | 4.455BTHB    | 21.64      | 0.62THB    | Consumer Non-Durables  | +0.40%            |
