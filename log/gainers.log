@@ -258,3 +258,16 @@
 | NEW     | 7.46%      | 72.00THB | 5.00THB  | Strong Buy            | 2.422K   | 174.384K            | 670MTHB      | 11.58      | 5.79THB    | Health Services        | +0.75%            |
 | MSC     | 7.45%      | 10.10THB | 0.70THB  | Strong Buy            | 2.988M   | 30.181M             | 3.384BTHB    | 13.61      | 0.69THB    | Technology Services    | +4.46%            |
 | SMT     | 6.85%      | 5.30THB  | 0.34THB  | Strong Buy            | 14.817M  | 78.529M             | 4.174BTHB    | 15.85      | 0.33THB    | Electronic Technology  | +0.82%            |
+2022-11-09 11:15:52.045 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| TNR    | 29.23%     | 12.60THB | 2.85THB  | Strong Buy            | 7.915M   | 99.727M             | 2.925BTHB    | —          | −1.35THB   | Producer Manufacturing | −2.07%            |
+| KLINIQ | 13.29%     | 44.75THB | 5.25THB  | —                     | 32.453M  | 1.452B              | —            | —          | —          | Health Services        | +0.58%            |
+| CTW    | 12.61%     | 6.70THB  | 0.75THB  | Buy                   | 1.549M   | 10.381M             | 2.368BTHB    | —          | −1.16THB   | Producer Manufacturing | −2.07%            |
+| CPH    | 10.42%     | 39.75THB | 3.75THB  | Strong Buy            | 6.918M   | 275.006M            | 1.44BTHB     | 7.21       | 5.00THB    | Consumer Non-Durables  | −0.25%            |
+| SVT    | 8.33%      | 3.90THB  | 0.30THB  | Buy                   | 65.828M  | 256.728M            | 2.52BTHB     | 37.46      | 0.10THB    | Consumer Non-Durables  | −0.25%            |
+| KDH    | 7.62%      | 91.75THB | 6.50THB  | Strong Buy            | 7.802K   | 715.834K            | 1.653BTHB    | 22.79      | 3.74THB    | Health Services        | +0.58%            |
+| ROCK   | 7.41%      | 8.70THB  | 0.60THB  | Buy                   | 3.8K     | 33.06K              | 162MTHB      | —          | −0.80THB   | Producer Manufacturing | −2.07%            |
+| TPCH   | 6.67%      | 8.00THB  | 0.50THB  | Buy                   | 2.353M   | 18.827M             | 3.009BTHB    | 40.17      | 0.19THB    | Utilities              | −0.89%            |
+| SAWANG | 6.11%      | 13.9THB  | 0.8THB   | Strong Buy            | 5.8K     | 80.62K              | 314.4MTHB    | —          | −1.30THB   | Consumer Durables      | −0.45%            |
+| AAI    | 5.67%      | 7.45THB  | 0.40THB  | —                     | 57.676M  | 429.687M            | —            | —          | —          | Consumer Non-Durables  | −0.25%            |

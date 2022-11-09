@@ -258,3 +258,16 @@
 | PSG    | 78.578M  | 1.43THB | −1.38%     | −0.02THB | Buy                   | 112.367M            | 94.239BTHB   | 852.94     | 0.00THB    | Industrial Services    | +0.24%            |
 | BANPU  | 76.199M  | 12.9THB | −0.77%     | −0.1THB  | Buy                   | 982.972M            | 87.959BTHB   | 3.44       | 4.50THB    | Energy Minerals        | −0.52%            |
 | IRPC   | 73.295M  | 3.24THB | 0.00%      | 0.00THB  | Buy                   | 237.476M            | 66.13BTHB    | 6.83       | 0.47THB    | Energy Minerals        | −0.52%            |
+2022-11-09 11:15:52.060 | INFO     | __main__:log_table:140 - 
+ |       | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| TTB   | 277.545M | 1.36THB | 0.00%      | 0.00THB  | Buy                   | 377.461M            | 131.407BTHB  | 10.06      | 0.14THB    | Finance               | −0.73%            |
+| IRPC  | 185.807M | 3.08THB | −4.94%     | −0.16THB | Strong Sell           | 572.286M            | 66.13BTHB    | 6.83       | 0.47THB    | Energy Minerals       | −1.06%            |
+| MORE  | 124.538M | 2.78THB | 0.72%      | 0.02THB  | Strong Buy            | 346.215M            | 18.025BTHB   | 15.46      | 0.18THB    | Distribution Services | −1.33%            |
+| SIRI  | 100.576M | 1.36THB | 1.49%      | 0.02THB  | Strong Buy            | 136.783M            | 19.947BTHB   | 10.91      | 0.13THB    | Finance               | −0.73%            |
+| U     | 71.551M  | 1.55THB | 1.31%      | 0.02THB  | Neutral               | 110.904M            | 8.589BTHB    | —          | −3.36THB   | Consumer Services     | −0.89%            |
+| BANPU | 68.16M   | 12.6THB | −2.33%     | −0.3THB  | Sell                  | 858.822M            | 87.283BTHB   | 3.41       | 4.50THB    | Energy Minerals       | −1.06%            |
+| OR    | 67.46M   | 24.3THB | −2.41%     | −0.6THB  | Sell                  | 1.639B              | 298.8BTHB    | 20.38      | 1.22THB    | Distribution Services | −1.33%            |
+| SVT   | 65.828M  | 3.90THB | 8.33%      | 0.30THB  | Buy                   | 256.728M            | 2.52BTHB     | 37.46      | 0.10THB    | Consumer Non-Durables | −0.25%            |
+| SENAJ | 63.779M  | 1.26THB | 0.00%      | 0.00THB  | Buy                   | 80.361M             | 5.292BTHB    | —          | −0.09THB   | Finance               | −0.73%            |
+| QH    | 62.657M  | 2.22THB | 2.78%      | 0.06THB  | Buy                   | 139.098M            | 23.143BTHB   | 12.46      | 0.17THB    | Finance               | −0.73%            |

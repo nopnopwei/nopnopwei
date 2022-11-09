@@ -258,3 +258,16 @@
 | LDC    | −4.55%     | 1.26THB  | −0.06THB | Strong Sell           | 24.487M  | 30.854M             | 792MTHB      | 33.85      | 0.04THB    | Health Services        | +0.75%            |
 | ASIAN  | −4.52%     | 2.96THB  | −0.14THB | Sell                  | 8.892M   | 26.321M             | 1.638BTHB    | 13.90      | 0.22THB    | Transportation         | +0.35%            |
 | TIDLOR | −4.44%     | 12.9THB  | −0.6THB  | Sell                  | 2.887M   | 37.239M             | 4.455BTHB    | 21.64      | 0.62THB    | Consumer Non-Durables  | +0.40%            |
+2022-11-09 11:15:52.052 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| SCM   | −14.71%    | 5.80THB  | −1.00THB | Strong Sell           | 16.783M  | 97.342M             | 4.08BTHB     | 18.35      | 0.37THB    | Retail Trade           | −0.57%            |
+| JTS   | −11.93%    | 48.00THB | −6.50THB | Strong Sell           | 3.876M   | 186.063M            | 38.502BTHB   | 126.48     | 0.43THB    | Technology Services    | −4.17%            |
+| STGT  | −11.30%    | 10.2THB  | −1.3THB  | Strong Sell           | 53.063M  | 541.244M            | 32.95BTHB    | 4.10       | 2.81THB    | Producer Manufacturing | −2.07%            |
+| PROS  | −10.62%    | 2.02THB  | −0.24THB | Strong Sell           | 3.784M   | 7.644M              | 1.22BTHB     | —          | −0.19THB   | Industrial Services    | −0.28%            |
+| MTC   | −7.95%     | 34.75THB | −3.00THB | Strong Sell           | 43.93M   | 1.527B              | 80.03BTHB    | 15.83      | 2.39THB    | Finance                | −0.73%            |
+| AMARC | −7.51%     | 3.20THB  | −0.26THB | Strong Sell           | 14.692M  | 47.016M             | 1.487BTHB    | —          | —          | Commercial Services    | −1.08%            |
+| ICC   | −7.25%     | 32.00THB | −2.50THB | Buy                   | 6.079K   | 194.528K            | 10.027BTHB   | 45.45      | 0.76THB    | Distribution Services  | −1.33%            |
+| SABUY | −7.09%     | 13.1THB  | −1.0THB  | Sell                  | 53.073M  | 695.257M            | 20.179BTHB   | 31.26      | 0.47THB    | Distribution Services  | −1.33%            |
+| TK    | −6.67%     | 8.40THB  | −0.60THB | Strong Sell           | 2.137M   | 17.951M             | 4.5BTHB      | 8.85       | 1.02THB    | Finance                | −0.73%            |
+| NCAP  | −6.63%     | 3.10THB  | −0.22THB | Strong Sell           | 8.479M   | 26.285M             | 4.482BTHB    | 15.30      | 0.22THB    | Finance                | −0.73%            |
