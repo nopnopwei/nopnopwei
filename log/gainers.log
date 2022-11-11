@@ -284,3 +284,16 @@
 | ICC    | 5.47%      | 33.75THB | 1.75THB  | Strong Buy            | 1.7K     | 57.375K             | 10.027BTHB   | 42.16      | 0.76THB    | Distribution Services | −0.26%            |
 | BCH    | 5.32%      | 19.8THB  | 1.0THB   | Strong Buy            | 75.618M  | 1.497B              | 46.882BTHB   | 5.48       | 3.43THB    | Health Services       | +1.48%            |
 | AMA    | 4.92%      | 6.40THB  | 0.30THB  | Strong Buy            | 5.204M   | 33.305M             | 3.185BTHB    | 18.52      | 0.33THB    | Transportation        | −0.11%            |
+2022-11-11 11:15:13.814 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| CSR    | 9.63%      | 74.00THB | 6.50THB  | Strong Buy            | 200      | 14.8K               | 1.384BTHB    | 37.83      | 1.78THB    | Consumer Services     | +1.64%            |
+| RCL    | 9.57%      | 31.50THB | 2.75THB  | Buy                   | 21.348M  | 672.468M            | 23.827BTHB   | 0.87       | 33.09THB   | Transportation        | +0.90%            |
+| SFP    | 9.43%      | 133.5THB | 11.5THB  | Strong Buy            | 300      | 40.05K              | 2.562BTHB    | 9.62       | 12.68THB   | Consumer Non-Durables | +0.80%            |
+| TFG    | 9.00%      | 5.46THB  | 0.46THB  | Neutral               | 48.078M  | 262.025M            | 28.27BTHB    | 18.34      | 0.27THB    | Process Industries    | +1.12%            |
+| TIDLOR | 7.92%      | 27.25THB | 2.00THB  | Buy                   | 34.53M   | 940.941M            | 63.059BTHB   | 17.00      | 1.49THB    | Finance               | +0.27%            |
+| CPANEL | 7.50%      | 8.60THB  | 0.60THB  | Strong Buy            | 3.913M   | 33.651M             | 1.28BTHB     | 31.13      | 0.26THB    | Non-Energy Minerals   | −0.24%            |
+| SPA    | 7.27%      | 11.8THB  | 0.8THB   | Strong Buy            | 6.121M   | 72.226M             | 9.405BTHB    | —          | −0.25THB   | Consumer Services     | +1.64%            |
+| BGRIM  | 7.19%      | 37.25THB | 2.50THB  | Strong Buy            | 54.749M  | 2.039B              | 90.59BTHB    | 1241.07    | 0.03THB    | Utilities             | +2.46%            |
+| NTV    | 6.49%      | 41.00THB | 2.50THB  | Strong Buy            | 423.361K | 17.358M             | 6.16BTHB     | 32.31      | 1.19THB    | Health Services       | +0.45%            |
+| DITTO  | 6.41%      | 74.75THB | 4.50THB  | Buy                   | 6.058M   | 452.811M            | 37.092BTHB   | 150.20     | 0.47THB    | Distribution Services | −0.24%            |
