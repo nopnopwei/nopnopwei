@@ -310,3 +310,16 @@
 | KWI   | −9.80%     | 3.68THB | −0.40THB | Sell                  | 11.232M  | 41.335M             | 8.341BTHB    | —          | −0.09THB   | Finance                | +0.49%            |
 | AMA   | −9.38%     | 5.80THB | −0.60THB | Neutral               | 8.257M   | 47.889M             | 3.315BTHB    | 19.43      | 0.33THB    | Transportation         | +1.16%            |
 | QHOP  | −8.46%     | 2.38THB | −0.22THB | Buy                   | 22.8K    | 54.264K             | 497.38MTHB   | —          | −0.25THB   | Finance                | +0.49%            |
+2022-11-13 11:14:11.993 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|------------|---------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| MORE  | −29.74%    | 1.37THB | −0.58THB | Strong Sell           | 97.764M  | 133.937M            | 8.947BTHB    | 10.92      | 0.18THB    | Distribution Services  | +0.90%            |
+| TVI   | −15.04%    | 11.3THB | −2.0THB  | Strong Sell           | 4.339M   | 49.034M             | 3.424BTHB    | 17.76      | 0.75THB    | Finance                | +0.54%            |
+| PROUD | −14.35%    | 1.86THB | −0.32THB | Sell                  | 15.537M  | 28.743M             | 1.187BTHB    | —          | −0.19THB   | Finance                | +0.54%            |
+| PERM  | −13.28%    | 1.11THB | −0.17THB | Strong Sell           | 4.749M   | 5.271M              | 838.442MTHB  | 6.99       | 0.20THB    | Non-Energy Minerals    | +0.37%            |
+| NFC   | −12.86%    | 6.10THB | −0.90THB | Buy                   | 11.508M  | 70.197M             | 6.636BTHB    | 18.01      | 0.39THB    | Distribution Services  | +0.90%            |
+| TRU   | −10.81%    | 6.60THB | −0.80THB | Sell                  | 12.035M  | 79.434M             | 3.935BTHB    | 21.07      | 0.36THB    | Consumer Services      | +1.72%            |
+| SALEE | −9.93%     | 1.27THB | −0.14THB | Sell                  | 44.092M  | 55.996M             | 1.931BTHB    | 41.72      | 0.03THB    | Producer Manufacturing | +0.01%            |
+| KWI   | −9.80%     | 3.68THB | −0.40THB | Sell                  | 11.232M  | 41.335M             | 7.523BTHB    | —          | −0.09THB   | Finance                | +0.54%            |
+| AMA   | −9.38%     | 5.80THB | −0.60THB | Neutral               | 8.257M   | 47.889M             | 3.004BTHB    | 19.43      | 0.33THB    | Transportation         | +1.17%            |
+| QHOP  | −8.46%     | 2.38THB | −0.22THB | Buy                   | 22.8K    | 54.264K             | 455.294MTHB  | —          | −0.25THB   | Finance                | +0.54%            |
