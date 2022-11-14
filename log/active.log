@@ -323,3 +323,16 @@
 | TKN    | 83.44M   | 9.35THB  | 0.00%      | 0.00THB  | Strong Buy            | 780.163M            | 12.903BTHB   | 54.39      | 0.17THB    | Consumer Non-Durables | +1.57%            |
 | IRPC   | 81.131M  | 3.08THB  | 0.65%      | 0.02THB  | Sell                  | 249.884M            | 62.865BTHB   | 12.54      | 0.24THB    | Energy Minerals       | +1.01%            |
 | WHA    | 77.775M  | 3.86THB  | 0.52%      | 0.02THB  | Buy                   | 300.212M            | 57.695BTHB   | 18.28      | 0.21THB    | Transportation        | +1.17%            |
+2022-11-14 11:15:28.656 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| SENAJ  | 367.323M | 1.27THB  | 0.79%      | 0.01THB  | Strong Buy            | 466.5M              | 5.292BTHB    | —          | −0.09THB   | Finance               | −1.46%            |
+| U      | 126.234M | 1.44THB  | −7.10%     | −0.11THB | Strong Sell           | 181.777M            | 8.701BTHB    | —          | −3.36THB   | Consumer Services     | −1.57%            |
+| TTB    | 119.903M | 1.35THB  | −0.74%     | −0.01THB | Buy                   | 161.869M            | 131.407BTHB  | 10.06      | 0.14THB    | Finance               | −1.46%            |
+| WHA    | 107.289M | 3.76THB  | −2.59%     | −0.10THB | Neutral               | 403.406M            | 57.695BTHB   | 18.37      | 0.21THB    | Transportation        | −0.62%            |
+| PTT    | 102.717M | 34.00THB | −2.16%     | −0.75THB | Strong Sell           | 3.492B              | 992.564BTHB  | 9.82       | 3.54THB    | Energy Minerals       | −0.78%            |
+| BEM    | 71.818M  | 9.50THB  | 1.06%      | 0.10THB  | Buy                   | 682.272M            | 143.679BTHB  | 97.41      | 0.10THB    | Transportation        | −0.62%            |
+| BANPU  | 68.594M  | 12.7THB  | −0.78%     | −0.1THB  | Sell                  | 871.146M            | 86.606BTHB   | 3.38       | 4.50THB    | Energy Minerals       | −0.78%            |
+| PRAPAT | 60.697M  | 1.52THB  | 9.35%      | 0.13THB  | Strong Buy            | 92.26M              | 519.86MTHB   | —          | −0.03THB   | Consumer Non-Durables | +1.57%            |
+| W      | 57.114M  | 2.20THB  | 0.00%      | 0.00THB  | Buy                   | 125.65M             | 1.791BTHB    | —          | −0.42THB   | Consumer Services     | −1.57%            |
+| GUNKUL | 54.856M  | 5.20THB  | −1.89%     | −0.10THB | Neutral               | 285.254M            | 47.077BTHB   | 19.79      | 0.27THB    | Utilities             | −0.40%            |

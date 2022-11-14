@@ -323,3 +323,16 @@
 | BGRIM  | 7.19%      | 37.25THB | 2.50THB  | Strong Buy            | 54.749M  | 2.039B              | 97.107BTHB   | 1241.07    | 0.03THB    | Utilities             | +2.41%            |
 | NTV    | 6.49%      | 41.00THB | 2.50THB  | Strong Buy            | 423.361K | 17.358M             | 6.56BTHB     | 32.31      | 1.19THB    | Health Services       | +0.42%            |
 | DITTO  | 6.41%      | 74.75THB | 4.50THB  | Buy                   | 6.058M   | 452.811M            | 39.468BTHB   | 150.20     | 0.47THB    | Distribution Services | +0.90%            |
+2022-11-14 11:15:28.643 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| NC     | 14.14%     | 11.30THB | 1.40THB  | Strong Buy            | 12.805K  | 144.697K            | 148.015MTHB  | —          | −1.09THB   | Retail Trade           | −0.20%            |
+| PRAPAT | 9.35%      | 1.52THB  | 0.13THB  | Strong Buy            | 60.697M  | 92.26M              | 519.86MTHB   | —          | −0.03THB   | Consumer Non-Durables  | +1.57%            |
+| TSR    | 9.09%      | 4.08THB  | 0.34THB  | Buy                   | 22.001M  | 89.763M             | 2.046BTHB    | 29.08      | 0.13THB    | Producer Manufacturing | −1.08%            |
+| IMH    | 8.26%      | 11.8THB  | 0.9THB   | Buy                   | 1.623M   | 19.149M             | 2.337BTHB    | 4.45       | 2.45THB    | Health Services        | −1.38%            |
+| M-STOR | 6.50%      | 6.55THB  | 0.40THB  | Strong Buy            | 35.005K  | 229.283K            | 373.92MTHB   | —          | −0.04THB   | Miscellaneous          | −0.59%            |
+| TEAM   | 6.25%      | 4.76THB  | 0.28THB  | Strong Buy            | 17.713M  | 84.312M             | 2.854BTHB    | 12.71      | 0.35THB    | Electronic Technology  | +0.47%            |
+| PRM    | 6.02%      | 7.05THB  | 0.40THB  | Strong Buy            | 42.566M  | 300.089M            | 16.625BTHB   | 15.57      | 0.43THB    | Distribution Services  | −0.46%            |
+| ROCK   | 5.59%      | 8.50THB  | 0.45THB  | Buy                   | 2.3K     | 19.55K              | 161MTHB      | —          | −0.80THB   | Producer Manufacturing | −1.08%            |
+| TC     | 5.51%      | 13.4THB  | 0.7THB   | Strong Buy            | 8.776M   | 117.593M            | 4.191BTHB    | 20.36      | 0.62THB    | Consumer Non-Durables  | +1.57%            |
+| CMAN   | 5.00%      | 2.10THB  | 0.10THB  | Buy                   | 15.445M  | 32.434M             | 1.92BTHB     | 26.56      | 0.08THB    | Non-Energy Minerals    | −1.48%            |
