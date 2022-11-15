@@ -336,3 +336,16 @@
 | ROCK   | 5.59%      | 8.50THB  | 0.45THB  | Buy                   | 2.3K     | 19.55K              | 161MTHB      | —          | −0.80THB   | Producer Manufacturing | −1.08%            |
 | TC     | 5.51%      | 13.4THB  | 0.7THB   | Strong Buy            | 8.776M   | 117.593M            | 4.191BTHB    | 20.36      | 0.62THB    | Consumer Non-Durables  | +1.57%            |
 | CMAN   | 5.00%      | 2.10THB  | 0.10THB  | Buy                   | 15.445M  | 32.434M             | 1.92BTHB     | 26.56      | 0.08THB    | Non-Energy Minerals    | −1.48%            |
+2022-11-15 11:13:29.790 | INFO     | __main__:log_table:140 - 
+ |         | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|---------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| TC      | 21.64%     | 16.3THB  | 2.9THB   | Strong Buy            | 28.97M   | 472.218M            | 4.422BTHB    | 21.48      | 0.62THB    | Consumer Non-Durables | +0.04%            |
+| S&amp;J | 15.83%     | 34.75THB | 4.75THB  | Strong Buy            | 703      | 24.429K             | 4.498BTHB    | 10.12      | 2.96THB    | Consumer Non-Durables | +0.04%            |
+| HANA    | 13.46%     | 44.25THB | 5.25THB  | Buy                   | 30.506M  | 1.35B               | 31.39BTHB    | 28.09      | 1.39THB    | Electronic Technology | +1.19%            |
+| TVI     | 11.02%     | 13.1THB  | 1.3THB   | Sell                  | 3.018M   | 39.53M              | 3.575BTHB    | 15.76      | 0.75THB    | Finance               | +0.32%            |
+| NCH     | 10.13%     | 1.74THB  | 0.16THB  | Strong Buy            | 16.949M  | 29.492M             | 1.968BTHB    | 6.17       | 0.26THB    | Finance               | +0.32%            |
+| VGI     | 9.84%      | 4.24THB  | 0.38THB  | Buy                   | 150.168M | 636.71M             | 43.211BTHB   | —          | −0.01THB   | Commercial Services   | +1.64%            |
+| IMH     | 8.47%      | 12.8THB  | 1.0THB   | Buy                   | 1.497M   | 19.167M             | 2.53BTHB     | 4.82       | 2.45THB    | Health Services       | +1.03%            |
+| AH      | 8.20%      | 33.00THB | 2.50THB  | Strong Buy            | 13.264M  | 437.705M            | 10.823BTHB   | 9.21       | 3.31THB    | Consumer Durables     | −0.72%            |
+| JKN     | 7.83%      | 4.96THB  | 0.36THB  | Buy                   | 90.276M  | 447.771M            | 2.962BTHB    | 33.58      | 0.18THB    | Consumer Services     | −1.63%            |
+| VL      | 7.05%      | 1.67THB  | 0.11THB  | Buy                   | 29.655M  | 49.524M             | 1.589BTHB    | 229.41     | 0.01THB    | Transportation        | +0.65%            |

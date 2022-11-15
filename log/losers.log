@@ -336,3 +336,16 @@
 | BLESS  | −8.85%     | 1.03THB  | −0.10THB | Strong Sell           | 4.223M   | 4.35M               | 904MTHB      | 13.45      | 0.08THB    | Finance                | −1.46%            |
 | TEKA   | −8.19%     | 3.14THB  | −0.28THB | Strong Sell           | 4.525M   | 14.207M             | 1.026BTHB    | —          | —          | Industrial Services    | −0.31%            |
 | CPH    | −8.18%     | 36.50THB | −3.25THB | Neutral               | 2.542M   | 92.786M             | 1.59BTHB     | 7.96       | 5.00THB    | Consumer Non-Durables  | +1.57%            |
+2022-11-15 11:13:29.796 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| KLINIQ | −14.74%    | 33.25THB | −5.75THB | —                     | 22.828M  | 759.04M             | 8.58BTHB     | —          | —          | Health Services        | +1.03%            |
+| NINE   | −8.16%     | 6.75THB  | −0.60THB | Sell                  | 2.6K     | 17.55K              | 11.683BTHB   | —          | −0.14THB   | Consumer Services      | −1.63%            |
+| WFX    | −8.09%     | 4.32THB  | −0.38THB | Sell                  | 6.807M   | 29.406M             | 2.182BTHB    | 6.06       | 0.78THB    | Producer Manufacturing | +0.75%            |
+| URBNPF | −7.89%     | 2.10THB  | −0.18THB | Strong Sell           | 600      | 1.26K               | 164.16MTHB   | —          | −0.14THB   | Finance                | +0.32%            |
+| NC     | −7.08%     | 10.5THB  | −0.8THB  | Buy                   | 2.8K     | 29.4K               | 168.946MTHB  | —          | −1.09THB   | Retail Trade           | +0.55%            |
+| PROEN  | −6.71%     | 6.95THB  | −0.50THB | Strong Sell           | 6.882M   | 47.829M             | 2.354BTHB    | 62.03      | 0.12THB    | Technology Services    | −3.60%            |
+| COMAN  | −6.54%     | 5.00THB  | −0.35THB | Strong Sell           | 205.4K   | 1.027M              | 716.9MTHB    | —          | −0.14THB   | Technology Services    | −3.60%            |
+| IP     | −5.70%     | 14.9THB  | −0.9THB  | Strong Sell           | 5.981M   | 89.116M             | 4.709BTHB    | 38.35      | 0.41THB    | Health Technology      | −0.17%            |
+| TEAMG  | −5.65%     | 16.7THB  | −1.0THB  | Neutral               | 12.039M  | 201.05M             | 12.036BTHB   | 125.89     | 0.14THB    | Commercial Services    | +1.64%            |
+| LDC    | −5.47%     | 1.21THB  | −0.07THB | Strong Sell           | 31.054M  | 37.575M             | 768MTHB      | 32.82      | 0.04THB    | Health Services        | +1.03%            |
