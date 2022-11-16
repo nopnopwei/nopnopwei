@@ -349,3 +349,16 @@
 | AH      | 8.20%      | 33.00THB | 2.50THB  | Strong Buy            | 13.264M  | 437.705M            | 10.823BTHB   | 9.21       | 3.31THB    | Consumer Durables     | −0.72%            |
 | JKN     | 7.83%      | 4.96THB  | 0.36THB  | Buy                   | 90.276M  | 447.771M            | 2.962BTHB    | 33.58      | 0.18THB    | Consumer Services     | −1.63%            |
 | VL      | 7.05%      | 1.67THB  | 0.11THB  | Buy                   | 29.655M  | 49.524M             | 1.589BTHB    | 229.41     | 0.01THB    | Transportation        | +0.65%            |
+2022-11-16 11:13:47.853 | INFO     | __main__:log_table:140 - 
+ |         | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|---------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| KAMART  | 9.38%      | 7.00THB  | 0.60THB  | Strong Buy            | 26.146M  | 183.024M            | 5.632BTHB    | 15.96      | 0.40THB    | Distribution Services | −0.72%            |
+| S&amp;J | 9.35%      | 38.00THB | 3.25THB  | Buy                   | 6.024K   | 228.912K            | 4.498BTHB    | 11.73      | 2.96THB    | Consumer Non-Durables | +0.58%            |
+| NINE    | 8.15%      | 7.30THB  | 0.55THB  | Strong Buy            | 9.5K     | 69.35K              | 10.729BTHB   | —          | −0.14THB   | Consumer Services     | −0.68%            |
+| STP     | 8.05%      | 16.1THB  | 1.2THB   | Strong Buy            | 3.301M   | 53.14M              | 1.49BTHB     | —          | —          | Commercial Services   | −0.23%            |
+| TC      | 7.36%      | 17.5THB  | 1.2THB   | Strong Buy            | 20.194M  | 353.391M            | 5.379BTHB    | 26.13      | 0.62THB    | Consumer Non-Durables | +0.58%            |
+| TMW     | 7.19%      | 37.25THB | 2.50THB  | Strong Buy            | 136.503K | 5.085M              | 1.387BTHB    | 14.17      | 2.45THB    | Process Industries    | −0.52%            |
+| URBNPF  | 6.67%      | 2.24THB  | 0.14THB  | Sell                  | 200      | 448                 | 151.2MTHB    | —          | −0.14THB   | Finance               | −0.58%            |
+| KISS    | 5.92%      | 8.95THB  | 0.50THB  | Buy                   | 6.363M   | 56.947M             | 5.07BTHB     | 52.68      | 0.16THB    | Commercial Services   | −0.23%            |
+| CHOTI   | 5.63%      | 159.5THB | 8.5THB   | Strong Buy            | 15.301K  | 2.441M              | 1.133BTHB    | 9.39       | 16.09THB   | Distribution Services | −0.72%            |
+| OCC     | 5.31%      | 11.9THB  | 0.6THB   | Strong Buy            | 200      | 2.38K               | 678MTHB      | 50.20      | 0.23THB    | Consumer Non-Durables | +0.58%            |

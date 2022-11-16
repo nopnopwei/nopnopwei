@@ -349,3 +349,16 @@
 | IP     | −5.70%     | 14.9THB  | −0.9THB  | Strong Sell           | 5.981M   | 89.116M             | 4.709BTHB    | 38.35      | 0.41THB    | Health Technology      | −0.17%            |
 | TEAMG  | −5.65%     | 16.7THB  | −1.0THB  | Neutral               | 12.039M  | 201.05M             | 12.036BTHB   | 125.89     | 0.14THB    | Commercial Services    | +1.64%            |
 | LDC    | −5.47%     | 1.21THB  | −0.07THB | Strong Sell           | 31.054M  | 37.575M             | 768MTHB      | 32.82      | 0.04THB    | Health Services        | +1.03%            |
+2022-11-16 11:13:47.859 | INFO     | __main__:log_table:140 - 
+ |         | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|---------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| SMK     | −15.15%    | 28.00THB | −5.00THB | Sell                  | 147.551K | 4.131M              | 581.602MTHB  | 210.59     | 0.16THB    | Consumer Non-Durables  | +0.58%            |
+| F&amp;D | −10.43%    | 5.15THB  | −0.60THB | Sell                  | 573.985K | 2.956M              | 1.15BTHB     | —          | −185.62THB | Finance                | −0.58%            |
+| CSR     | −8.45%     | 67.75THB | −6.25THB | Buy                   | 1.505K   | 101.964K            | 1.517BTHB    | 41.48      | 1.78THB    | Consumer Services      | −0.68%            |
+| W       | −7.81%     | 11.8THB  | −1.0THB  | Buy                   | 700      | 8.26K               | 153.6MTHB    | —          | −1.04THB   | Retail Trade           | −0.53%            |
+| MNIT    | −7.14%     | 1.56THB  | −0.12THB | Strong Sell           | 6K       | 9.36K               | 231.84MTHB   | 28.57      | 0.06THB    | Finance                | −0.58%            |
+| PJW     | −5.66%     | 3.00THB  | −0.18THB | Strong Sell           | 2.911M   | 8.733M              | 976.583MTHB  | 17.68      | 0.24THB    | Commercial Services    | −0.23%            |
+| SR      | −5.04%     | 1.32THB  | −0.07THB | Strong Sell           | 579.414K | 764.826K            | 689.675MTHB  | 3.17       | 0.44THB    | Non-Energy Minerals    | +0.98%            |
+| MVP     | −4.74%     | 4.42THB  | −0.22THB | Sell                  | 7.799M   | 34.472M             | 2.797BTHB    | 22.35      | 0.22THB    | Process Industries     | −0.52%            |
+| HEMP    | −4.69%     | 6.10THB  | −0.30THB | Strong Sell           | 37.802K  | 230.592K            | 639.374MTHB  | —          | −0.07THB   | Producer Manufacturing | +0.75%            |
+| ASN     | −4.50%     | 2.12THB  | −0.10THB | Sell                  | 11.27M   | 23.892M             | 1.807BTHB    | —          | −0.42THB   | Consumer Services      | −0.68%            |

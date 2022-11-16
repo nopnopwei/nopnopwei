@@ -349,3 +349,16 @@
 | BANPU | 79.794M  | 1.40THB  | −2.78%     | −0.04THB | Strong Sell           | 111.712M            | 8.084BTHB    | —          | −3.36THB   | Consumer Services     | −1.63%            |
 | AAI   | 75.009M  | 3.06THB  | −1.92%     | −0.06THB | Sell                  | 229.527M            | 36.17BTHB    | —          | −1.16THB   | Transportation        | +0.65%            |
 | WHA   | 65.939M  | 7.90THB  | 5.33%      | 0.40THB  | Strong Buy            | 520.915M            | —            | —          | —          | Consumer Non-Durables | +0.04%            |
+2022-11-16 11:13:47.865 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector              | Sector Chg % 1D   |
+|--------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|---------------------|-------------------|
+| POLY   | 292.147M | 7.30THB  | —          | —        | —                     | 2.133B              | —            | —          | —          | —                   | -                 |
+| POLY.R | 292.146M | 7.30THB  | —          | —        | —                     | 2.133B              | —            | —          | —          | —                   | -                 |
+| TTB    | 280.169M | 1.37THB  | 0.74%      | 0.01THB  | Buy                   | 383.832M            | 131.407BTHB  | 10.06      | 0.14THB    | Finance             | −0.58%            |
+| SIRI   | 125.862M | 1.35THB  | −1.46%     | −0.02THB | Buy                   | 169.913M            | 20.394BTHB   | 11.16      | 0.13THB    | Finance             | −0.58%            |
+| BANPU  | 119.252M | 12.5THB  | 0.00%      | 0.0THB   | Sell                  | 1.491B              | 84.576BTHB   | 2.37       | 6.54THB    | Energy Minerals     | +0.63%            |
+| JAS    | 112.619M | 2.50THB  | −1.57%     | −0.04THB | Buy                   | 281.547M            | 21.826BTHB   | —          | −0.09THB   | Communications      | +0.29%            |
+| MONO   | 69.319M  | 1.52THB  | 2.01%      | 0.03THB  | Buy                   | 105.364M            | 5.172BTHB    | 103.47     | 0.01THB    | Consumer Services   | −0.68%            |
+| JASIF  | 69.085M  | 8.65THB  | 3.59%      | 0.30THB  | Buy                   | 597.583M            | 66.8BTHB     | 9.62       | 0.87THB    | Miscellaneous       | +0.55%            |
+| PLANB  | 62.195M  | 8.10THB  | 2.53%      | 0.20THB  | Strong Buy            | 503.783M            | 33.807BTHB   | 87.00      | 0.09THB    | Commercial Services | −0.23%            |
+| BDMS   | 60.878M  | 30.25THB | −3.20%     | −1.00THB | Buy                   | 1.842B              | 496.625BTHB  | 44.13      | 0.71THB    | Health Services     | −1.27%            |
