@@ -362,3 +362,16 @@
 | MVP     | −4.74%     | 4.42THB  | −0.22THB | Sell                  | 7.799M   | 34.472M             | 2.797BTHB    | 22.35      | 0.22THB    | Process Industries     | −0.52%            |
 | HEMP    | −4.69%     | 6.10THB  | −0.30THB | Strong Sell           | 37.802K  | 230.592K            | 639.374MTHB  | —          | −0.07THB   | Producer Manufacturing | +0.75%            |
 | ASN     | −4.50%     | 2.12THB  | −0.10THB | Sell                  | 11.27M   | 23.892M             | 1.807BTHB    | —          | −0.42THB   | Consumer Services      | −0.68%            |
+2022-11-17 11:13:19.062 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| TH     | −9.57%     | 3.40THB  | −0.36THB | Strong Sell           | 86.645M  | 294.593M            | 3.629BTHB    | 20.54      | 0.18THB    | Finance                | −0.61%            |
+| SVI    | −7.14%     | 9.10THB  | −0.70THB | Buy                   | 14.74M   | 134.13M             | 21.101BTHB   | 11.37      | 0.86THB    | Electronic Technology  | −0.31%            |
+| BH     | −6.99%     | 213THB   | −16THB   | Sell                  | 12.38M   | 2.637B              | 181.991BTHB  | 49.60      | 5.04THB    | Health Services        | −2.81%            |
+| THG    | −6.67%     | 70.00THB | −5.00THB | Neutral               | 11.157M  | 780.972M            | 63.164BTHB   | 31.76      | 2.36THB    | Health Services        | −2.81%            |
+| TPS    | −6.63%     | 3.38THB  | −0.24THB | Sell                  | 5.538M   | 18.717M             | 1.216BTHB    | 23.26      | 0.16THB    | Distribution Services  | −0.68%            |
+| FVC    | −5.73%     | 1.48THB  | −0.09THB | Strong Sell           | 3.15M    | 4.662M              | 887.274MTHB  | 23.54      | 0.07THB    | Producer Manufacturing | −0.35%            |
+| CH     | −4.78%     | 3.98THB  | −0.20THB | Strong Sell           | 10.383M  | 41.326M             | 3.344BTHB    | —          | —          | Consumer Non-Durables  | +0.53%            |
+| SINGER | −4.48%     | 32.00THB | −1.50THB | Strong Sell           | 9.792M   | 313.342M            | 27.17BTHB    | 26.21      | 1.29THB    | Distribution Services  | −0.68%            |
+| ICC    | −4.44%     | 32.25THB | −1.50THB | Buy                   | 2.4K     | 77.4K               | 9.809BTHB    | 44.47      | 0.76THB    | Distribution Services  | −0.68%            |
+| PIMO   | −4.38%     | 3.06THB  | −0.14THB | Strong Sell           | 7.721M   | 23.625M             | 2.137BTHB    | 18.83      | 0.19THB    | Producer Manufacturing | −0.35%            |

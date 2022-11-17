@@ -362,3 +362,16 @@
 | JASIF  | 69.085M  | 8.65THB  | 3.59%      | 0.30THB  | Buy                   | 597.583M            | 66.8BTHB     | 9.62       | 0.87THB    | Miscellaneous       | +0.55%            |
 | PLANB  | 62.195M  | 8.10THB  | 2.53%      | 0.20THB  | Strong Buy            | 503.783M            | 33.807BTHB   | 87.00      | 0.09THB    | Commercial Services | −0.23%            |
 | BDMS   | 60.878M  | 30.25THB | −3.20%     | −1.00THB | Buy                   | 1.842B              | 496.625BTHB  | 44.13      | 0.71THB    | Health Services     | −1.27%            |
+2022-11-17 11:13:19.068 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector          | Sector Chg % 1D   |
+|--------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------|-------------------|
+| POLY   | 114.603M | 7.40THB  | 1.37%      | 0.10THB  | —                     | 848.059M            | —            | —          | —          | —               | -                 |
+| POLY.R | 114.602M | 7.40THB  | 1.37%      | 0.10THB  | —                     | 848.054M            | —            | —          | —          | —               | -                 |
+| BDMS   | 114.387M | 29.00THB | −4.13%     | −1.25THB | Sell                  | 3.317B              | 480.733BTHB  | 39.64      | 0.76THB    | Health Services | −2.81%            |
+| TTB    | 106.251M | 1.36THB  | −0.73%     | −0.01THB | Buy                   | 144.501M            | 132.373BTHB  | 10.13      | 0.14THB    | Finance         | −0.61%            |
+| SIRI   | 104.104M | 1.39THB  | 2.96%      | 0.04THB  | Buy                   | 144.705M            | 20.096BTHB   | 10.99      | 0.13THB    | Finance         | −0.61%            |
+| TH     | 86.645M  | 3.40THB  | −9.57%     | −0.36THB | Strong Sell           | 294.593M            | 3.629BTHB    | 20.54      | 0.18THB    | Finance         | −0.61%            |
+| PTT    | 71.709M  | 33.00THB | −1.49%     | −0.50THB | Strong Sell           | 2.366B              | 956.86BTHB   | 9.47       | 3.54THB    | Energy Minerals | −1.19%            |
+| BANPU  | 63.959M  | 12.5THB  | 0.00%      | 0.0THB   | Sell                  | 799.482M            | 84.576BTHB   | 2.37       | 6.54THB    | Energy Minerals | −1.19%            |
+| LH     | 63.454M  | 9.35THB  | 1.63%      | 0.15THB  | Buy                   | 593.296M            | 109.937BTHB  | 13.19      | 0.70THB    | Finance         | −0.61%            |
+| TRUE   | 58.455M  | 4.94THB  | 1.65%      | 0.08THB  | Buy                   | 288.767M            | 162.053BTHB  | —          | −0.15THB   | Communications  | +0.25%            |

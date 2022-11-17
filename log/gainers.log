@@ -362,3 +362,16 @@
 | KISS    | 5.92%      | 8.95THB  | 0.50THB  | Buy                   | 6.363M   | 56.947M             | 5.07BTHB     | 52.68      | 0.16THB    | Commercial Services   | −0.23%            |
 | CHOTI   | 5.63%      | 159.5THB | 8.5THB   | Strong Buy            | 15.301K  | 2.441M              | 1.133BTHB    | 9.39       | 16.09THB   | Distribution Services | −0.72%            |
 | OCC     | 5.31%      | 11.9THB  | 0.6THB   | Strong Buy            | 200      | 2.38K               | 678MTHB      | 50.20      | 0.23THB    | Consumer Non-Durables | +0.58%            |
+2022-11-17 11:13:19.057 | INFO     | __main__:log_table:140 - 
+ |         | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|---------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| F&amp;D | 10.71%     | 31.00THB | 3.00THB  | Neutral               | 51.613K  | 1.6M                | 493.481MTHB  | 32.29      | 0.87THB    | Consumer Non-Durables | +0.53%            |
+| WPH     | 9.47%      | 3.70THB  | 0.32THB  | Strong Buy            | 15.391M  | 56.946M             | 2.028BTHB    | 6.47       | 0.52THB    | Health Services       | −2.81%            |
+| MNIT    | 7.05%      | 1.67THB  | 0.11THB  | Strong Buy            | 33.4K    | 55.778K             | 215.28MTHB   | 26.53      | 0.06THB    | Finance               | −0.61%            |
+| BTNC    | 6.78%      | 12.6THB  | 0.8THB   | Strong Buy            | 400      | 5.04K               | 141.6MTHB    | —          | −1.04THB   | Retail Trade          | −0.58%            |
+| NFC     | 6.56%      | 6.50THB  | 0.40THB  | Strong Buy            | 11.618M  | 75.518M             | 6.636BTHB    | 15.70      | 0.39THB    | Distribution Services | −0.68%            |
+| KLINIQ  | 6.47%      | 37.00THB | 2.25THB  | Strong Sell           | 12.218M  | 452.065M            | 7.645BTHB    | 38.37      | 0.91THB    | Health Services       | −2.81%            |
+| DEMCO   | 5.83%      | 5.45THB  | 0.30THB  | Strong Buy            | 25.287M  | 137.814M            | 3.761BTHB    | —          | −0.01THB   | Industrial Services   | −0.15%            |
+| NEW     | 5.63%      | 75.00THB | 4.00THB  | Strong Buy            | 300      | 22.5K               | 710MTHB      | 12.27      | 5.79THB    | Health Services       | −2.81%            |
+| XO      | 5.47%      | 13.5THB  | 0.7THB   | Buy                   | 2.985M   | 40.3M               | 5.437BTHB    | 14.01      | 0.92THB    | Consumer Non-Durables | +0.53%            |
+| A5      | 5.15%      | 2.86THB  | 0.14THB  | Strong Buy            | 39.248M  | 112.249M            | 3.29BTHB     | 29.25      | 0.09THB    | Finance               | −0.61%            |
