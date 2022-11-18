@@ -375,3 +375,16 @@
 | NEW     | 5.63%      | 75.00THB | 4.00THB  | Strong Buy            | 300      | 22.5K               | 710MTHB      | 12.27      | 5.79THB    | Health Services       | −2.81%            |
 | XO      | 5.47%      | 13.5THB  | 0.7THB   | Buy                   | 2.985M   | 40.3M               | 5.437BTHB    | 14.01      | 0.92THB    | Consumer Non-Durables | +0.53%            |
 | A5      | 5.15%      | 2.86THB  | 0.14THB  | Strong Buy            | 39.248M  | 112.249M            | 3.29BTHB     | 29.25      | 0.09THB    | Finance               | −0.61%            |
+2022-11-18 11:13:40.070 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| HANA  | 12.85%     | 50.50THB | 5.75THB  | Strong Buy            | 54.63M   | 2.759B              | 36.018BTHB   | 37.13      | 1.21THB    | Electronic Technology | +2.98%            |
+| SPACK | 9.28%      | 4.24THB  | 0.36THB  | Buy                   | 33.126M  | 140.453M            | 1.164BTHB    | 73.07      | 0.05THB    | Commercial Services   | −1.44%            |
+| PTECH | 8.70%      | 25.0THB  | 2.0THB   | Strong Buy            | 3.703K   | 92.575K             | 5.636BTHB    | 19.02      | 1.21THB    | Commercial Services   | −1.44%            |
+| SMT   | 8.49%      | 5.75THB  | 0.45THB  | Strong Buy            | 23.635M  | 135.901M            | 4.46BTHB     | 16.93      | 0.33THB    | Electronic Technology | +2.98%            |
+| KCE   | 7.33%      | 51.25THB | 3.50THB  | Buy                   | 43.895M  | 2.25B               | 56.43BTHB    | 22.42      | 2.13THB    | Electronic Technology | +2.98%            |
+| TEAM  | 6.85%      | 5.30THB  | 0.34THB  | Strong Buy            | 16.532M  | 87.618M             | 3.16BTHB     | 13.03      | 0.38THB    | Electronic Technology | +2.98%            |
+| POLY  | 6.76%      | 7.90THB  | 0.50THB  | —                     | 41.751M  | 329.834M            | —            | —          | —          | —                     | -                 |
+| NUSA  | 6.32%      | 1.01THB  | 0.06THB  | Buy                   | 47.792M  | 48.27M              | 11.059BTHB   | —          | −0.06THB   | Finance               | −0.38%            |
+| PRIME | 6.15%      | 1.38THB  | 0.08THB  | Neutral               | 1.698M   | 2.343M              | 5.531BTHB    | 135.42     | 0.01THB    | Utilities             | −0.36%            |
+| CCET  | 6.14%      | 2.42THB  | 0.14THB  | Buy                   | 15.33M   | 37.099M             | 12.277BTHB   | 33.33      | 0.07THB    | Electronic Technology | +2.98%            |

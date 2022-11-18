@@ -375,3 +375,16 @@
 | BANPU  | 63.959M  | 12.5THB  | 0.00%      | 0.0THB   | Sell                  | 799.482M            | 84.576BTHB   | 2.37       | 6.54THB    | Energy Minerals | −1.19%            |
 | LH     | 63.454M  | 9.35THB  | 1.63%      | 0.15THB  | Buy                   | 593.296M            | 109.937BTHB  | 13.19      | 0.70THB    | Finance         | −0.61%            |
 | TRUE   | 58.455M  | 4.94THB  | 1.65%      | 0.08THB  | Buy                   | 288.767M            | 162.053BTHB  | —          | −0.15THB   | Communications  | +0.25%            |
+2022-11-18 11:13:40.086 | INFO     | __main__:log_table:140 - 
+ |      | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   |   P/E(TTM) | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| SIRI | 162.319M | 1.40THB  | 0.72%      | 0.01THB  | Strong Buy            | 227.247M            | 20.691BTHB   |       8.36 | 0.17THB    | Finance               | −0.38%            |
+| IRPC | 104.867M | 3.00THB  | −0.66%     | −0.02THB | Sell                  | 314.602M            | 61.64BTHB    |      12.38 | 0.24THB    | Energy Minerals       | +0.82%            |
+| TTB  | 92.259M  | 1.36THB  | 0.00%      | 0.00THB  | Buy                   | 125.472M            | 131.407BTHB  |      10.06 | 0.14THB    | Finance               | −0.38%            |
+| TH   | 89.236M  | 2.98THB  | −12.35%    | −0.42THB | Strong Sell           | 265.923M            | 3.281BTHB    |      18.57 | 0.18THB    | Finance               | −0.38%            |
+| PTT  | 71.045M  | 33.50THB | 1.52%      | 0.50THB  | Sell                  | 2.38B               | 942.579BTHB  |       9.33 | 3.54THB    | Energy Minerals       | +0.82%            |
+| PSG  | 70.11M   | 1.30THB  | −2.99%     | −0.04THB | Sell                  | 91.143M             | 87.09BTHB    |     181.08 | 0.01THB    | Industrial Services   | −1.36%            |
+| WHA  | 69.6M    | 3.82THB  | 1.06%      | 0.04THB  | Buy                   | 265.874M            | 56.499BTHB   |      17.44 | 0.22THB    | Transportation        | −0.64%            |
+| HANA | 54.63M   | 50.50THB | 12.85%     | 5.75THB  | Strong Buy            | 2.759B              | 36.018BTHB   |      37.13 | 1.21THB    | Electronic Technology | +2.98%            |
+| CHG  | 54.302M  | 3.44THB  | −0.58%     | −0.02THB | Sell                  | 186.8M              | 38.06BTHB    |       8.84 | 0.39THB    | Health Services       | +0.21%            |
+| MONO | 53.089M  | 1.51THB  | −1.95%     | −0.03THB | Neutral               | 80.164M             | 5.345BTHB    |      39.79 | 0.04THB    | Consumer Services     | −1.28%            |

@@ -375,3 +375,16 @@
 | SINGER | −4.48%     | 32.00THB | −1.50THB | Strong Sell           | 9.792M   | 313.342M            | 27.17BTHB    | 26.21      | 1.29THB    | Distribution Services  | −0.68%            |
 | ICC    | −4.44%     | 32.25THB | −1.50THB | Buy                   | 2.4K     | 77.4K               | 9.809BTHB    | 44.47      | 0.76THB    | Distribution Services  | −0.68%            |
 | PIMO   | −4.38%     | 3.06THB  | −0.14THB | Strong Sell           | 7.721M   | 23.625M             | 2.137BTHB    | 18.83      | 0.19THB    | Producer Manufacturing | −0.35%            |
+2022-11-18 11:13:40.078 | INFO     | __main__:log_table:140 - 
+ |         | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|---------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| OCC     | −16.96%    | 9.6THB   | −2.0THB  | Strong Sell           | 100      | 955                 | 690MTHB      | 51.09      | 0.23THB    | Consumer Non-Durables  | −0.05%            |
+| TH      | −12.35%    | 2.98THB  | −0.42THB | Strong Sell           | 89.236M  | 265.923M            | 3.281BTHB    | 18.57      | 0.18THB    | Finance                | −0.38%            |
+| S&amp;J | −12.33%    | 32.00THB | −4.50THB | Neutral               | 1.907K   | 61.024K             | 5.697BTHB    | 12.32      | 2.96THB    | Consumer Non-Durables  | −0.05%            |
+| CPR     | −10.08%    | 5.35THB  | −0.60THB | Strong Sell           | 1.447M   | 7.741M              | 1.184BTHB    | 18.92      | 0.31THB    | Producer Manufacturing | −0.68%            |
+| SFP     | −8.81%     | 119.0THB | −11.5THB | Sell                  | 300      | 35.7K               | 2.741BTHB    | 10.29      | 12.68THB   | Consumer Non-Durables  | −0.05%            |
+| FORTH   | −8.48%     | 37.75THB | −3.50THB | Strong Sell           | 10.659M  | 402.39M             | 38.584BTHB   | 47.96      | 0.86THB    | Electronic Technology  | +2.98%            |
+| IIG     | −6.75%     | 38.00THB | −2.75THB | Strong Sell           | 745.233K | 28.319M             | 4.075BTHB    | 41.39      | 0.98THB    | Commercial Services    | −1.44%            |
+| TAKUNI  | −6.47%     | 3.18THB  | −0.22THB | Sell                  | 41.374M  | 131.571M            | 2.72BTHB     | 27.11      | 0.13THB    | Retail Trade           | +1.03%            |
+| TVI     | −6.35%     | 11.8THB  | −0.8THB  | Strong Sell           | 1.728M   | 20.386M             | 3.818BTHB    | 16.83      | 0.75THB    | Finance                | −0.38%            |
+| BGT     | −6.21%     | 1.36THB  | −0.09THB | Strong Sell           | 2.971M   | 4.041M              | 527.104MTHB  | —          | −0.04THB   | Retail Trade           | +1.03%            |
