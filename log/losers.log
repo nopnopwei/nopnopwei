@@ -388,3 +388,16 @@
 | TAKUNI  | −6.47%     | 3.18THB  | −0.22THB | Sell                  | 41.374M  | 131.571M            | 2.72BTHB     | 27.11      | 0.13THB    | Retail Trade           | +1.03%            |
 | TVI     | −6.35%     | 11.8THB  | −0.8THB  | Strong Sell           | 1.728M   | 20.386M             | 3.818BTHB    | 16.83      | 0.75THB    | Finance                | −0.38%            |
 | BGT     | −6.21%     | 1.36THB  | −0.09THB | Strong Sell           | 2.971M   | 4.041M              | 527.104MTHB  | —          | −0.04THB   | Retail Trade           | +1.03%            |
+2022-11-19 11:12:45.442 | INFO     | __main__:log_table:140 - 
+ |         | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|---------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| OCC     | −16.96%    | 9.6THB   | −2.0THB  | Strong Sell           | 100      | 955                 | 573MTHB      | 51.09      | 0.23THB    | Consumer Non-Durables  | −0.05%            |
+| TH      | −12.35%    | 2.98THB  | −0.42THB | Strong Sell           | 89.236M  | 265.923M            | 2.876BTHB    | 18.57      | 0.18THB    | Finance                | −0.37%            |
+| S&amp;J | −12.33%    | 32.00THB | −4.50THB | Neutral               | 1.907K   | 61.024K             | 5.472BTHB    | 11.34      | 3.22THB    | Consumer Non-Durables  | −0.05%            |
+| CPR     | −10.08%    | 5.35THB  | −0.60THB | Strong Sell           | 1.447M   | 7.741M              | 1.065BTHB    | 18.92      | 0.31THB    | Producer Manufacturing | −0.62%            |
+| SFP     | −8.81%     | 119.0THB | −11.5THB | Sell                  | 300      | 35.7K               | 2.499BTHB    | 9.38       | 12.68THB   | Consumer Non-Durables  | −0.05%            |
+| FORTH   | −8.48%     | 37.75THB | −3.50THB | Strong Sell           | 10.659M  | 402.39M             | 35.31BTHB    | 47.96      | 0.86THB    | Electronic Technology  | +2.98%            |
+| IIG     | −6.75%     | 38.00THB | −2.75THB | Strong Sell           | 745.233K | 28.319M             | 3.8BTHB      | 41.39      | 0.98THB    | Commercial Services    | −1.44%            |
+| TAKUNI  | −6.47%     | 3.18THB  | −0.22THB | Sell                  | 41.374M  | 131.571M            | 2.544BTHB    | 27.11      | 0.13THB    | Retail Trade           | +1.03%            |
+| TVI     | −6.35%     | 11.8THB  | −0.8THB  | Strong Sell           | 1.728M   | 20.386M             | 3.575BTHB    | 16.83      | 0.75THB    | Finance                | −0.37%            |
+| BGT     | −6.21%     | 1.36THB  | −0.09THB | Strong Sell           | 2.971M   | 4.041M              | 494.387MTHB  | —          | −0.04THB   | Retail Trade           | +1.03%            |
