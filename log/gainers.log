@@ -414,3 +414,16 @@
 | NUSA  | 6.32%      | 1.01THB  | 0.06THB  | Buy                   | 47.792M  | 48.27M              | 11.758BTHB   | —          | −0.06THB   | Finance               | −0.37%            |
 | PRIME | 6.15%      | 1.38THB  | 0.08THB  | Neutral               | 1.698M   | 2.343M              | 5.871BTHB    | 135.42     | 0.01THB    | Utilities             | −0.35%            |
 | CCET  | 6.14%      | 2.42THB  | 0.14THB  | Buy                   | 15.33M   | 37.099M             | 13.031BTHB   | 33.33      | 0.07THB    | Electronic Technology | +3.07%            |
+2022-11-21 11:13:41.757 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| POLY   | 29.11%     | 10.20THB | 2.30THB  | —                     | 81.333M  | 829.595M            | —            | —          | —          | Process Industries     | −0.01%            |
+| TEAM   | 18.87%     | 6.30THB  | 1.00THB  | Strong Buy            | 69.872M  | 440.192M            | 3.376BTHB    | 13.92      | 0.38THB    | Electronic Technology  | −1.63%            |
+| TKN    | 13.57%     | 11.30THB | 1.35THB  | Strong Buy            | 53.919M  | 609.286M            | 13.731BTHB   | 34.50      | 0.29THB    | Consumer Non-Durables  | +0.77%            |
+| CH     | 9.42%      | 4.18THB  | 0.36THB  | Sell                  | 41.236M  | 172.368M            | 3.056BTHB    | —          | —          | Consumer Non-Durables  | +0.77%            |
+| UREKA  | 7.69%      | 1.40THB  | 0.10THB  | Sell                  | 63.034M  | 88.247M             | 1.805BTHB    | 16.95      | 0.08THB    | Producer Manufacturing | −0.72%            |
+| PRAPAT | 7.24%      | 1.63THB  | 0.11THB  | Strong Buy            | 16.595M  | 27.05M              | 568.48MTHB   | 82.61      | 0.02THB    | Consumer Non-Durables  | +0.77%            |
+| OCC    | 6.81%      | 10.20THB | 0.65THB  | Sell                  | 3.432K   | 35.006K             | 573MTHB      | 42.43      | 0.23THB    | Consumer Non-Durables  | +0.77%            |
+| SAWANG | 6.30%      | 13.5THB  | 0.8THB   | Buy                   | 1.3K     | 17.55K              | 304.8MTHB    | —          | −1.33THB   | Consumer Durables      | −0.47%            |
+| AMARC  | 5.56%      | 3.04THB  | 0.16THB  | Sell                  | 10.395M  | 31.601M             | 1.21BTHB     | —          | —          | Commercial Services    | +1.08%            |
+| IRCP   | 5.45%      | 1.16THB  | 0.06THB  | Sell                  | 2.774M   | 3.217M              | 464.268MTHB  | 6.65       | 0.17THB    | Technology Services    | −2.83%            |

@@ -414,3 +414,16 @@
 | HANA | 54.63M   | 50.50THB | 12.85%     | 5.75THB  | Strong Buy            | 2.759B              | 40.646BTHB   |      37.13 | 1.21THB    | Electronic Technology | +3.07%            |
 | CHG  | 54.302M  | 3.44THB  | −0.58%     | −0.02THB | Sell                  | 186.8M              | 37.84BTHB    |       8.84 | 0.39THB    | Health Services       | +0.22%            |
 | MONO | 53.089M  | 1.51THB  | −1.95%     | −0.03THB | Neutral               | 80.164M             | 5.241BTHB    |      39.79 | 0.04THB    | Consumer Services     | −1.27%            |
+2022-11-21 11:13:41.768 | INFO     | __main__:log_table:140 - 
+ |       | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| SIRI  | 494.822M | 1.44THB  | 2.86%      | 0.04THB  | Strong Buy            | 712.544M            | 20.84BTHB    | 8.42       | 0.17THB    | Finance               | +0.75%            |
+| AAI   | 301.947M | 8.15THB  | 1.24%      | 0.10THB  | Buy                   | 2.461B              | —            | —          | —          | Consumer Non-Durables | +0.77%            |
+| TRUE  | 165.628M | 4.98THB  | 0.81%      | 0.04THB  | Strong Buy            | 824.828M            | 164.72BTHB   | —          | −0.15THB   | Communications        | −0.23%            |
+| TH    | 105.831M | 2.54THB  | −14.77%    | −0.44THB | Strong Sell           | 268.812M            | 2.876BTHB    | 16.28      | 0.18THB    | Finance               | +0.75%            |
+| TPIPL | 93.746M  | 1.84THB  | 4.55%      | 0.08THB  | Strong Buy            | 172.493M            | 33.663BTHB   | 4.30       | 0.41THB    | Non-Energy Minerals   | +0.65%            |
+| POLY  | 81.333M  | 10.20THB | 29.11%     | 2.30THB  | —                     | 829.595M            | —            | —          | —          | Process Industries    | −0.01%            |
+| STARK | 81.287M  | 3.28THB  | 3.80%      | 0.12THB  | Sell                  | 266.622M            | 37.624BTHB   | 12.04      | 0.26THB    | Finance               | +0.75%            |
+| TTB   | 78.327M  | 1.36THB  | 0.00%      | 0.00THB  | Buy                   | 106.524M            | 131.407BTHB  | 10.06      | 0.14THB    | Finance               | +0.75%            |
+| TEAM  | 69.872M  | 6.30THB  | 18.87%     | 1.00THB  | Strong Buy            | 440.192M            | 3.376BTHB    | 13.92      | 0.38THB    | Electronic Technology | −1.63%            |
+| JAS   | 69.816M  | 2.34THB  | −4.10%     | −0.10THB | Strong Sell           | 163.369M            | 20.966BTHB   | —          | −0.09THB   | Communications        | −0.23%            |

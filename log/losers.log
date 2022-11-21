@@ -414,3 +414,16 @@
 | TAKUNI  | −6.47%     | 3.18THB  | −0.22THB | Sell                  | 41.374M  | 131.571M            | 2.544BTHB    | 27.11      | 0.13THB    | Retail Trade           | +1.06%            |
 | TVI     | −6.35%     | 11.8THB  | −0.8THB  | Strong Sell           | 1.728M   | 20.386M             | 3.575BTHB    | 16.83      | 0.75THB    | Finance                | −0.37%            |
 | BGT     | −6.21%     | 1.36THB  | −0.09THB | Strong Sell           | 2.971M   | 4.041M              | 494.387MTHB  | —          | −0.04THB   | Retail Trade           | +1.06%            |
+2022-11-21 11:13:41.762 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   |   P/E(TTM) | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| JTS   | −14.77%    | 2.54THB  | −0.44THB | Strong Sell           | 105.831M | 268.812M            | 2.876BTHB    |      16.28 | 0.18THB    | Finance                | +0.75%            |
+| BTNC  | −14.47%    | 32.50THB | −5.50THB | Sell                  | 5.006M   | 162.683M            | 26.845BTHB   |     130.23 | 0.29THB    | Technology Services    | −2.83%            |
+| SVH   | −10.97%    | 422THB   | −52THB   | Sell                  | 2.5K     | 1.055M              | 47.4BTHB     |      21.09 | 22.47THB   | Health Services        | +0.22%            |
+| VARO  | −9.45%     | 1.15THB  | −0.12THB | Strong Sell           | 11.434M  | 13.149M             | 832.089MTHB  |      12.54 | 0.10THB    | Producer Manufacturing | −0.72%            |
+| ASN   | −5.98%     | 11.0THB  | −0.7THB  | Strong Sell           | 37.799M  | 415.784M            | 16.745BTHB   |      15.87 | 0.76THB    | Distribution Services  | +0.43%            |
+| SIMAT | −5.71%     | 1.98THB  | −0.12THB | Strong Sell           | 8.911M   | 17.644M             | 1.362BTHB    |      23.39 | 0.10THB    | Commercial Services    | +1.08%            |
+| TWP   | −5.71%     | 231THB   | −14THB   | Sell                  | 501      | 115.731K            | 2.45BTHB     |       3.24 | 75.55THB   | Finance                | +0.75%            |
+| MVP   | −5.59%     | 1.52THB  | −0.09THB | Sell                  | 13.007M  | 19.77M              | 1.64BTHB     |      74.19 | 0.02THB    | Transportation         | +0.64%            |
+| TH    | −5.56%     | 2.04THB  | −0.12THB | Sell                  | 4.839M   | 9.871M              | 990.951MTHB  |      14.32 | 0.15THB    | Producer Manufacturing | −0.72%            |
+| SABUY | −5.48%     | 2.76THB  | −0.16THB | Strong Sell           | 409.22K  | 1.129M              | 736.224MTHB  |      28.8  | 0.10THB    | Producer Manufacturing | −0.72%            |
