@@ -427,3 +427,16 @@
 | MVP   | −5.59%     | 1.52THB  | −0.09THB | Sell                  | 13.007M  | 19.77M              | 1.64BTHB     |      74.19 | 0.02THB    | Transportation         | +0.64%            |
 | TH    | −5.56%     | 2.04THB  | −0.12THB | Sell                  | 4.839M   | 9.871M              | 990.951MTHB  |      14.32 | 0.15THB    | Producer Manufacturing | −0.72%            |
 | SABUY | −5.48%     | 2.76THB  | −0.16THB | Strong Sell           | 409.22K  | 1.129M              | 736.224MTHB  |      28.8  | 0.10THB    | Producer Manufacturing | −0.72%            |
+2022-11-22 11:13:30.883 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| COMAN | −29.84%    | 3.48THB  | −1.48THB | Strong Sell           | 2.217M   | 7.717M              | 664.64MTHB   | —          | −0.14THB   | Technology Services    | −0.83%            |
+| GSC   | −21.99%    | 2.20THB  | −0.62THB | Strong Sell           | 3.64M    | 8.009M              | 705MTHB      | —          | −0.01THB   | Commercial Services    | −2.17%            |
+| BGT   | −20.00%    | 1.04THB  | −0.26THB | Strong Sell           | 12.392M  | 12.888M             | 472.576MTHB  | —          | −0.04THB   | Retail Trade           | −0.06%            |
+| KWI   | −12.93%    | 2.56THB  | −0.38THB | Strong Sell           | 6.849M   | 17.535M             | 6.01BTHB     | —          | −0.09THB   | Finance                | +0.45%            |
+| TH    | −12.60%    | 2.22THB  | −0.32THB | Sell                  | 293.322M | 651.176M            | 2.451BTHB    | 13.87      | 0.18THB    | Finance                | +0.45%            |
+| TKT   | −11.17%    | 1.84THB  | −0.24THB | Strong Sell           | 3.93M    | 7.192M              | 489.827MTHB  | 15.30      | 0.14THB    | Producer Manufacturing | −0.33%            |
+| TC    | −10.65%    | 15.1THB  | −1.8THB  | Buy                   | 10.989M  | 165.932M            | 5.577BTHB    | 27.09      | 0.62THB    | Consumer Non-Durables  | −0.63%            |
+| DTAC  | −10.06%    | 40.25THB | −4.50THB | Strong Sell           | 41.586M  | 1.674B              | 105.96BTHB   | 44.35      | 1.01THB    | Communications         | −2.78%            |
+| HEMP  | −10.00%    | 5.40THB  | −0.60THB | Strong Sell           | 795.716K | 4.297M              | 2.134BTHB    | —          | −0.11THB   | Consumer Services      | −0.74%            |
+| TEAM  | −7.94%     | 5.80THB  | −0.50THB | Buy                   | 27.916M  | 161.914M            | 4.013BTHB    | 16.54      | 0.38THB    | Electronic Technology  | +1.94%            |

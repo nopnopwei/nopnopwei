@@ -427,3 +427,16 @@
 | TTB   | 78.327M  | 1.36THB  | 0.00%      | 0.00THB  | Buy                   | 106.524M            | 131.407BTHB  | 10.06      | 0.14THB    | Finance               | +0.75%            |
 | TEAM  | 69.872M  | 6.30THB  | 18.87%     | 1.00THB  | Strong Buy            | 440.192M            | 3.376BTHB    | 13.92      | 0.38THB    | Electronic Technology | −1.63%            |
 | JAS   | 69.816M  | 2.34THB  | −4.10%     | −0.10THB | Strong Sell           | 163.369M            | 20.966BTHB   | —          | −0.09THB   | Communications        | −0.23%            |
+2022-11-22 11:13:30.890 | INFO     | __main__:log_table:140 - 
+ |       | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| TRUE  | 389.227M | 4.60THB | −7.63%     | −0.38THB | Strong Sell           | 1.79B               | 166.054BTHB  | —          | −0.15THB   | Communications         | −2.78%            |
+| TH    | 293.322M | 2.22THB | −12.60%    | −0.32THB | Sell                  | 651.176M            | 2.451BTHB    | 13.87      | 0.18THB    | Finance                | +0.45%            |
+| KJL   | 206.494M | 17.8THB | —          | —        | —                     | 3.676B              | —            | —          | —          | Producer Manufacturing | −0.33%            |
+| KJL.R | 206.488M | 17.8THB | —          | —        | —                     | 3.675B              | —            | —          | —          | —                      | -                 |
+| SIRI  | 170.704M | 1.45THB | 0.69%      | 0.01THB  | Buy                   | 247.521M            | 21.436BTHB   | 8.66       | 0.17THB    | Finance                | +0.45%            |
+| BANPU | 151.386M | 12.8THB | 1.59%      | 0.2THB   | Buy                   | 1.938B              | 85.253BTHB   | 2.39       | 6.54THB    | Energy Minerals        | −0.43%            |
+| TTB   | 124.568M | 1.37THB | 0.74%      | 0.01THB  | Buy                   | 170.658M            | 131.407BTHB  | 10.06      | 0.14THB    | Finance                | +0.45%            |
+| AWC   | 99.922M  | 6.40THB | 4.07%      | 0.25THB  | Strong Buy            | 639.501M            | 196.805BTHB  | 57.64      | 0.11THB    | Finance                | +0.45%            |
+| POLY  | 84.258M  | 13.2THB | 29.41%     | 3.0THB   | —                     | 1.112B              | —            | —          | —          | Process Industries     | −0.76%            |
+| HENG  | 67.417M  | 2.80THB | −4.76%     | −0.14THB | Strong Sell           | 188.767M            | 11.201BTHB   | 29.08      | 0.10THB    | Finance                | +0.45%            |

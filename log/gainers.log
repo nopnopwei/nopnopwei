@@ -427,3 +427,16 @@
 | SAWANG | 6.30%      | 13.5THB  | 0.8THB   | Buy                   | 1.3K     | 17.55K              | 304.8MTHB    | —          | −1.33THB   | Consumer Durables      | −0.47%            |
 | AMARC  | 5.56%      | 3.04THB  | 0.16THB  | Sell                  | 10.395M  | 31.601M             | 1.21BTHB     | —          | —          | Commercial Services    | +1.08%            |
 | IRCP   | 5.45%      | 1.16THB  | 0.06THB  | Sell                  | 2.774M   | 3.217M              | 464.268MTHB  | 6.65       | 0.17THB    | Technology Services    | −2.83%            |
+2022-11-22 11:13:30.876 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| POLY   | 29.41%     | 13.2THB  | 3.0THB   | —                     | 84.258M  | 1.112B              | —            | —          | —          | Process Industries     | −0.76%            |
+| SNP    | 6.75%      | 17.4THB  | 1.1THB   | Strong Buy            | 359.371K | 6.253M              | 8.338BTHB    | 21.31      | 0.78THB    | Consumer Services      | −0.74%            |
+| INSURE | 5.63%      | 244THB   | 13THB    | Sell                  | 903      | 220.332K            | 2.31BTHB     | 3.06       | 75.55THB   | Finance                | +0.45%            |
+| NEW    | 5.47%      | 82.00THB | 4.25THB  | Strong Buy            | 10.225K  | 838.45K             | 777.5MTHB    | 8.49       | 9.16THB    | Health Services        | −0.08%            |
+| ETC    | 5.03%      | 3.34THB  | 0.16THB  | Buy                   | 13.703M  | 45.766M             | 7.123BTHB    | 39.70      | 0.08THB    | Utilities              | +0.39%            |
+| PLUS   | 4.35%      | 9.60THB  | 0.40THB  | Neutral               | 12.136M  | 116.507M            | 6.164BTHB    | —          | —          | Consumer Non-Durables  | −0.63%            |
+| UREKA  | 4.29%      | 1.46THB  | 0.06THB  | Neutral               | 43.422M  | 63.397M             | 1.943BTHB    | 18.25      | 0.08THB    | Producer Manufacturing | −0.33%            |
+| UP     | 4.29%      | 21.9THB  | 0.9THB   | Neutral               | 2.12K    | 46.428K             | 525MTHB      | 18.88      | 1.11THB    | Producer Manufacturing | −0.33%            |
+| LDC    | 4.17%      | 1.25THB  | 0.05THB  | Sell                  | 12.243M  | 15.304M             | 720MTHB      | 30.77      | 0.04THB    | Health Services        | −0.08%            |
+| AH     | 4.07%      | 6.40THB  | 0.25THB  | Strong Buy            | 99.922M  | 639.501M            | 196.805BTHB  | 57.64      | 0.11THB    | Finance                | +0.45%            |
