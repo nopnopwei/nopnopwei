@@ -440,3 +440,16 @@
 | AWC   | 99.922M  | 6.40THB | 4.07%      | 0.25THB  | Strong Buy            | 639.501M            | 196.805BTHB  | 57.64      | 0.11THB    | Finance                | +0.45%            |
 | POLY  | 84.258M  | 13.2THB | 29.41%     | 3.0THB   | —                     | 1.112B              | —            | —          | —          | Process Industries     | −0.76%            |
 | HENG  | 67.417M  | 2.80THB | −4.76%     | −0.14THB | Strong Sell           | 188.767M            | 11.201BTHB   | 29.08      | 0.10THB    | Finance                | +0.45%            |
+2022-11-23 11:12:37.885 | INFO     | __main__:log_table:140 - 
+ |       | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| TH    | 381.747M | 2.78THB  | 25.23%     | 0.56THB  | Sell                  | 1.061B              | 2.142BTHB    | 12.12      | 0.18THB    | Finance                | +0.06%            |
+| SIRI  | 222.474M | 1.48THB  | 2.07%      | 0.03THB  | Strong Buy            | 329.262M            | 21.584BTHB   | 8.72       | 0.17THB    | Finance                | +0.06%            |
+| TRUE  | 210.773M | 4.56THB  | −0.87%     | −0.04THB | Strong Sell           | 961.123M            | 153.383BTHB  | —          | −0.15THB   | Communications         | +0.25%            |
+| MAKRO | 194.298M | 39.25THB | 3.97%      | 1.50THB  | Strong Buy            | 7.626B              | 399.407BTHB  | 20.40      | 1.85THB    | Retail Trade           | −0.41%            |
+| TTB   | 166.693M | 1.39THB  | 1.46%      | 0.02THB  | Buy                   | 231.703M            | 132.373BTHB  | 10.13      | 0.14THB    | Finance                | +0.06%            |
+| AWC   | 123.704M | 6.30THB  | −1.56%     | −0.10THB | Strong Buy            | 779.337M            | 204.805BTHB  | 59.98      | 0.11THB    | Finance                | +0.06%            |
+| ITNS  | 119.767M | 4.78THB  | 9.13%      | 0.40THB  | Strong Buy            | 572.485M            | —            | —          | —          | Technology Services    | +1.01%            |
+| POLY  | 115.371M | 13.5THB  | 2.27%      | 0.3THB   | —                     | 1.558B              | 5.94BTHB     | —          | —          | Process Industries     | +0.00%            |
+| KJL   | 110.565M | 17.7THB  | −0.56%     | −0.1THB  | —                     | 1.957B              | 2.065BTHB    | —          | —          | Producer Manufacturing | +0.50%            |
+| KJL.R | 110.563M | 17.7THB  | −0.56%     | −0.1THB  | —                     | 1.957B              | —            | —          | —          | —                      | -                 |

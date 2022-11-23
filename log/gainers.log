@@ -440,3 +440,16 @@
 | UP     | 4.29%      | 21.9THB  | 0.9THB   | Neutral               | 2.12K    | 46.428K             | 525MTHB      | 18.88      | 1.11THB    | Producer Manufacturing | −0.33%            |
 | LDC    | 4.17%      | 1.25THB  | 0.05THB  | Sell                  | 12.243M  | 15.304M             | 720MTHB      | 30.77      | 0.04THB    | Health Services        | −0.08%            |
 | AH     | 4.07%      | 6.40THB  | 0.25THB  | Strong Buy            | 99.922M  | 639.501M            | 196.805BTHB  | 57.64      | 0.11THB    | Finance                | +0.45%            |
+2022-11-23 11:12:37.871 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|------------|---------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| COMAN | 29.89%     | 4.52THB | 1.04THB  | Sell                  | 5.499M   | 24.857M             | 466.32MTHB   | —          | −0.14THB   | Technology Services    | +1.01%            |
+| TKT   | 28.96%     | 2.36THB | 0.53THB  | Neutral               | 26.622M  | 62.828M             | 435.137MTHB  | 13.60      | 0.14THB    | Producer Manufacturing | +0.50%            |
+| TH    | 25.23%     | 2.78THB | 0.56THB  | Sell                  | 381.747M | 1.061B              | 2.142BTHB    | 12.12      | 0.18THB    | Finance                | +0.06%            |
+| TEAM  | 15.52%     | 6.70THB | 0.90THB  | Strong Buy            | 38.872M  | 260.441M            | 3.695BTHB    | 15.23      | 0.38THB    | Electronic Technology  | +0.46%            |
+| BGT   | 13.46%     | 1.18THB | 0.14THB  | Sell                  | 14.8M    | 17.463M             | 378.061MTHB  | —          | −0.04THB   | Retail Trade           | −0.41%            |
+| ITNS  | 9.13%      | 4.78THB | 0.40THB  | Strong Buy            | 119.767M | 572.485M            | —            | —          | —          | Technology Services    | +1.01%            |
+| AMARC | 8.97%      | 3.16THB | 0.26THB  | Buy                   | 21.746M  | 68.716M             | 1.218BTHB    | —          | —          | Commercial Services    | +0.80%            |
+| SSPF  | 7.80%      | 7.60THB | 0.55THB  | Strong Buy            | 1.3K     | 9.88K               | 1.177BTHB    | 35.39      | 0.20THB    | Finance                | +0.06%            |
+| ETC   | 7.19%      | 3.58THB | 0.24THB  | Strong Buy            | 23.764M  | 85.073M             | 7.482BTHB    | 41.70      | 0.08THB    | Utilities              | +0.70%            |
+| TMC   | 6.74%      | 2.06THB | 0.13THB  | Neutral               | 3.324M   | 6.847M              | 885.433MTHB  | 12.80      | 0.15THB    | Producer Manufacturing | +0.50%            |

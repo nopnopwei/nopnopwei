@@ -440,3 +440,16 @@
 | DTAC  | −10.06%    | 40.25THB | −4.50THB | Strong Sell           | 41.586M  | 1.674B              | 105.96BTHB   | 44.35      | 1.01THB    | Communications         | −2.78%            |
 | HEMP  | −10.00%    | 5.40THB  | −0.60THB | Strong Sell           | 795.716K | 4.297M              | 2.134BTHB    | —          | −0.11THB   | Consumer Services      | −0.74%            |
 | TEAM  | −7.94%     | 5.80THB  | −0.50THB | Buy                   | 27.916M  | 161.914M            | 4.013BTHB    | 16.54      | 0.38THB    | Electronic Technology  | +1.94%            |
+2022-11-23 11:12:37.879 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector              | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|---------------------|-------------------|
+| HEMP   | −25.93%    | 4.00THB  | −1.40THB | Strong Sell           | 1.921M   | 7.686M              | 1.921BTHB    | —          | −0.11THB   | Consumer Services   | −0.04%            |
+| NEW    | −5.18%     | 77.75THB | −4.25THB | Buy                   | 5.4K     | 419.85K             | 820MTHB      | 8.95       | 9.16THB    | Health Services     | +0.12%            |
+| CPL    | −4.92%     | 2.32THB  | −0.12THB | Strong Sell           | 570.7K   | 1.324M              | 1.073BTHB    | 22.63      | 0.11THB    | Process Industries  | +0.00%            |
+| QLT    | −4.92%     | 5.80THB  | −0.30THB | Strong Sell           | 305.9K   | 1.774M              | 601.268MTHB  | 14.62      | 0.42THB    | Industrial Services | +0.14%            |
+| CMO    | −4.87%     | 4.30THB  | −0.22THB | Strong Sell           | 577.016K | 2.481M              | 1.27BTHB     | —          | −0.20THB   | Commercial Services | +0.80%            |
+| NETBAY | −4.72%     | 25.25THB | −1.25THB | Strong Sell           | 1.457M   | 36.78M              | 5.3BTHB      | 34.27      | 0.77THB    | Technology Services | +1.01%            |
+| NCAP   | −4.58%     | 2.92THB  | −0.14THB | Sell                  | 9.324M   | 27.226M             | 4.131BTHB    | 18.78      | 0.16THB    | Finance             | +0.06%            |
+| JKN    | −4.10%     | 4.68THB  | −0.20THB | Sell                  | 46.916M  | 219.567M            | 3.142BTHB    | 35.62      | 0.18THB    | Consumer Services   | −0.04%            |
+| M-STOR | −3.91%     | 6.15THB  | −0.25THB | Buy                   | 3.6K     | 22.14K              | 389.12MTHB   | 20.10      | 0.32THB    | Miscellaneous       | −0.45%            |
+| IND    | −3.70%     | 1.56THB  | −0.06THB | Strong Sell           | 1.896M   | 2.958M              | 567MTHB      | 10.41      | 0.16THB    | Industrial Services | +0.14%            |
