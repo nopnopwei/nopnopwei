@@ -453,3 +453,16 @@
 | JKN    | −4.10%     | 4.68THB  | −0.20THB | Sell                  | 46.916M  | 219.567M            | 3.142BTHB    | 35.62      | 0.18THB    | Consumer Services   | −0.04%            |
 | M-STOR | −3.91%     | 6.15THB  | −0.25THB | Buy                   | 3.6K     | 22.14K              | 389.12MTHB   | 20.10      | 0.32THB    | Miscellaneous       | −0.45%            |
 | IND    | −3.70%     | 1.56THB  | −0.06THB | Strong Sell           | 1.896M   | 2.958M              | 567MTHB      | 10.41      | 0.16THB    | Industrial Services | +0.14%            |
+2022-11-24 11:12:40.517 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| TSR    | −13.37%    | 3.50THB  | −0.54THB | Sell                  | 18.163M  | 63.571M             | 2.21BTHB     | 31.42      | 0.13THB    | Producer Manufacturing | +0.28%            |
+| KJL    | −11.86%    | 15.6THB  | −2.1THB  | —                     | 25.007M  | 390.115M            | —            | —          | —          | —                      | -                 |
+| KJL.R  | −11.86%    | 15.6THB  | −2.1THB  | —                     | 25.009M  | 390.139M            | 2.053BTHB    | —          | —          | Producer Manufacturing | +0.28%            |
+| IND    | −11.54%    | 1.38THB  | −0.18THB | Strong Sell           | 6.993M   | 9.651M              | 546MTHB      | 10.03      | 0.16THB    | Industrial Services    | −2.43%            |
+| UREKA  | −11.26%    | 1.34THB  | −0.17THB | Sell                  | 81.845M  | 109.672M            | 2.096BTHB    | 19.69      | 0.08THB    | Producer Manufacturing | +0.28%            |
+| ITNS   | −8.37%     | 4.38THB  | −0.40THB | Neutral               | 68.882M  | 301.704M            | —            | —          | —          | Technology Services    | −1.74%            |
+| RCL    | −8.00%     | 28.75THB | −2.50THB | Strong Sell           | 6.425M   | 184.721M            | 25.898BTHB   | 0.86       | 36.34THB   | Transportation         | −0.36%            |
+| TEAMG  | −7.50%     | 14.8THB  | −1.2THB  | Sell                  | 13.715M  | 202.982M            | 10.88BTHB    | 104.51     | 0.15THB    | Commercial Services    | −0.52%            |
+| PSG    | −6.06%     | 1.24THB  | −0.08THB | Sell                  | 128.489M | 159.326M            | 85.79BTHB    | 178.38     | 0.01THB    | Industrial Services    | −2.43%            |
+| INSURE | −5.74%     | 230THB   | −14THB   | Sell                  | 1.702K   | 391.46K             | 2.44BTHB     | 3.23       | 75.55THB   | Finance                | +0.20%            |

@@ -453,3 +453,16 @@
 | POLY  | 115.371M | 13.5THB  | 2.27%      | 0.3THB   | —                     | 1.558B              | 5.94BTHB     | —          | —          | Process Industries     | +0.00%            |
 | KJL   | 110.565M | 17.7THB  | −0.56%     | −0.1THB  | —                     | 1.957B              | 2.065BTHB    | —          | —          | Producer Manufacturing | +0.50%            |
 | KJL.R | 110.563M | 17.7THB  | −0.56%     | −0.1THB  | —                     | 1.957B              | —            | —          | —          | —                      | -                 |
+2022-11-24 11:12:40.523 | INFO     | __main__:log_table:140 - 
+ |       | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| TH    | 206.356M | 2.70THB | −2.88%     | −0.08THB | Sell                  | 557.161M            | 2.683BTHB    | 12.00      | 0.25THB    | Finance                | +0.20%            |
+| NUSA  | 180.009M | 1.18THB | 0.85%      | 0.01THB  | Buy                   | 212.411M            | 13.62BTHB    | —          | −0.06THB   | Finance                | +0.20%            |
+| PSG   | 128.489M | 1.24THB | −6.06%     | −0.08THB | Sell                  | 159.326M            | 85.79BTHB    | 178.38     | 0.01THB    | Industrial Services    | −2.43%            |
+| BANPU | 118.33M  | 13.1THB | 0.00%      | 0.0THB   | Buy                   | 1.55B               | 88.636BTHB   | 2.48       | 6.54THB    | Energy Minerals        | −0.25%            |
+| TTB   | 110.201M | 1.39THB | 0.00%      | 0.00THB  | Buy                   | 153.18M             | 134.306BTHB  | 10.28      | 0.14THB    | Finance                | +0.20%            |
+| ANAN  | 99.565M  | 1.47THB | 10.53%     | 0.14THB  | Strong Buy            | 146.36M             | 5.541BTHB    | —          | −0.25THB   | Finance                | +0.20%            |
+| SIRI  | 98.155M  | 1.46THB | −1.35%     | −0.02THB | Buy                   | 143.307M            | 22.031BTHB   | 8.90       | 0.17THB    | Finance                | +0.20%            |
+| TRUE  | 96.95M   | 4.52THB | −0.88%     | −0.04THB | Strong Sell           | 438.212M            | 152.05BTHB   | —          | −0.15THB   | Communications         | −0.54%            |
+| TKT   | 89.143M  | 2.70THB | 14.41%     | 0.34THB  | Strong Buy            | 240.685M            | 561.161MTHB  | 17.53      | 0.14THB    | Producer Manufacturing | +0.28%            |
+| AWC   | 83.069M  | 6.25THB | −0.79%     | −0.05THB | Buy                   | 519.183M            | 201.605BTHB  | 59.04      | 0.11THB    | Finance                | +0.20%            |

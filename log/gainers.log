@@ -453,3 +453,16 @@
 | SSPF  | 7.80%      | 7.60THB | 0.55THB  | Strong Buy            | 1.3K     | 9.88K               | 1.177BTHB    | 35.39      | 0.20THB    | Finance                | +0.06%            |
 | ETC   | 7.19%      | 3.58THB | 0.24THB  | Strong Buy            | 23.764M  | 85.073M             | 7.482BTHB    | 41.70      | 0.08THB    | Utilities              | +0.70%            |
 | TMC   | 6.74%      | 2.06THB | 0.13THB  | Neutral               | 3.324M   | 6.847M              | 885.433MTHB  | 12.80      | 0.15THB    | Producer Manufacturing | +0.50%            |
+2022-11-24 11:12:40.512 | INFO     | __main__:log_table:140 - 
+ |      | Chg % 1D   | Price   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|------|------------|---------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| TKT  | 14.41%     | 2.70THB | 0.34THB  | Strong Buy            | 89.143M  | 240.685M            | 561.161MTHB  | 17.53      | 0.14THB    | Producer Manufacturing | +0.28%            |
+| HEMP | 13.50%     | 4.54THB | 0.54THB  | Sell                  | 5.191M   | 23.565M             | 1.423BTHB    | —          | −0.11THB   | Consumer Services      | +0.88%            |
+| ANAN | 10.53%     | 1.47THB | 0.14THB  | Strong Buy            | 99.565M  | 146.36M             | 5.541BTHB    | —          | −0.25THB   | Finance                | +0.20%            |
+| POLY | 10.37%     | 14.9THB | 1.4THB   | —                     | 55.394M  | 825.374M            | 6.075BTHB    | —          | —          | Process Industries     | +0.19%            |
+| WIN  | 9.38%      | 1.05THB | 0.09THB  | Sell                  | 11.349M  | 11.916M             | 538.698MTHB  | —          | −0.01THB   | Finance                | +0.20%            |
+| IMH  | 8.46%      | 14.1THB | 1.1THB   | Buy                   | 3.164M   | 44.613M             | 2.787BTHB    | 7.75       | 1.68THB    | Health Services        | +0.03%            |
+| TNPC | 7.77%      | 2.08THB | 0.15THB  | Sell                  | 2.425M   | 5.044M              | 657.779MTHB  | 16.81      | 0.11THB    | Producer Manufacturing | +0.28%            |
+| KWI  | 7.58%      | 2.84THB | 0.20THB  | Sell                  | 7.582M   | 21.533M             | 5.397BTHB    | —          | −0.08THB   | Finance                | +0.20%            |
+| ETC  | 7.26%      | 3.84THB | 0.26THB  | Strong Buy            | 45.21M   | 173.605M            | 8.019BTHB    | 44.69      | 0.08THB    | Utilities              | +0.68%            |
+| MPIC | 6.76%      | 1.58THB | 0.10THB  | Sell                  | 4.98M    | 7.868M              | 1.924BTHB    | 61.41      | 0.02THB    | Consumer Services      | +0.88%            |
