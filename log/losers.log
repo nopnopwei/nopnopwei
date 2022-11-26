@@ -479,3 +479,16 @@
 | SSC  | −3.33%     | 29.00THB | −1.00THB | Strong Sell           | 400      | 11.6K               | 7.977BTHB    | 630.25     | 0.05THB    | Consumer Non-Durables | −0.31%            |
 | CSP  | −3.25%     | 1.19THB  | −0.04THB | Strong Sell           | 204.5K   | 243.355K            | 610.288MTHB  | —          | −0.00THB   | Non-Energy Minerals   | +0.31%            |
 | LHK  | −3.25%     | 4.76THB  | −0.16THB | Sell                  | 1.225M   | 5.831M              | 1.884BTHB    | 10.63      | 0.46THB    | Non-Energy Minerals   | +0.31%            |
+2022-11-26 11:11:59.811 | INFO     | __main__:log_table:140 - 
+ |      | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| ANAN | −7.48%     | 1.36THB  | −0.11THB | Sell                  | 76.878M  | 104.554M            | 5.666BTHB    | —          | −0.25THB   | Finance               | +0.18%            |
+| JKN  | −6.79%     | 4.12THB  | −0.30THB | Strong Sell           | 70.705M  | 291.305M            | 2.653BTHB    | 24.15      | 0.24THB    | Consumer Services     | −0.19%            |
+| ADD  | −4.70%     | 14.2THB  | −0.7THB  | Strong Sell           | 428.943K | 6.091M              | 2.272BTHB    | 34.73      | 0.43THB    | Technology Services   | +9.07%            |
+| ETC  | −4.69%     | 3.66THB  | −0.18THB | Buy                   | 24.172M  | 88.469M             | 8.198BTHB    | 47.94      | 0.08THB    | Utilities             | −0.69%            |
+| MPIC | −3.80%     | 1.52THB  | −0.06THB | Strong Sell           | 474.705K | 721.552K            | 1.976BTHB    | 65.56      | 0.02THB    | Consumer Services     | −0.19%            |
+| ITNS | −3.65%     | 4.22THB  | −0.16THB | Strong Sell           | 17.499M  | 73.845M             | —            | —          | —          | Technology Services   | +9.07%            |
+| NCL  | −3.57%     | 2.70THB  | −0.10THB | Strong Sell           | 559.9K   | 1.512M              | 1.426BTHB    | 40.11      | 0.07THB    | Transportation        | −0.34%            |
+| SSC  | −3.33%     | 29.00THB | −1.00THB | Strong Sell           | 400      | 11.6K               | 7.711BTHB    | 609.24     | 0.05THB    | Consumer Non-Durables | −0.29%            |
+| LHK  | −3.25%     | 1.19THB  | −0.04THB | Strong Sell           | 204.5K   | 243.355K            | 590.441MTHB  | —          | −0.00THB   | Non-Energy Minerals   | +0.59%            |
+| CSP  | −3.25%     | 4.76THB  | −0.16THB | Sell                  | 1.225M   | 5.831M              | 1.823BTHB    | 10.63      | 0.46THB    | Non-Energy Minerals   | +0.59%            |
