@@ -492,3 +492,16 @@
 | ARIN  | 8.00%      | 5.40THB  | 0.40THB  | Neutral               | 1.745M   | 9.423M              | 3.24BTHB     | —          | −0.09THB   | Finance                | +0.18%            |
 | SABUY | 7.41%      | 11.6THB  | 0.8THB   | Sell                  | 29.396M  | 340.992M            | 16.601BTHB   | 14.65      | 0.76THB    | Distribution Services  | +0.38%            |
 | MJD   | 7.05%      | 1.67THB  | 0.11THB  | Strong Buy            | 820.91K  | 1.371M              | 1.437BTHB    | —          | −0.50THB   | Finance                | +0.18%            |
+2022-11-27 11:12:26.992 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| VARO  | 29.66%     | 7.65THB  | 1.75THB  | Strong Buy            | 936.532K | 7.164M              | 764.251MTHB  | —          | −0.41THB   | Producer Manufacturing | +0.72%            |
+| JTS   | 29.37%     | 40.75THB | 9.25THB  | Sell                  | 6.828M   | 278.248M            | 28.788BTHB   | 107.95     | 0.29THB    | Technology Services    | +9.07%            |
+| NEW   | 15.76%     | 90.00THB | 12.25THB | Strong Buy            | 700      | 63K                 | 900MTHB      | 8.49       | 9.16THB    | Health Services        | −0.89%            |
+| CRANE | 12.88%     | 1.49THB  | 0.17THB  | Strong Buy            | 19.656M  | 29.287M             | 1.13BTHB     | —          | −0.29THB   | Finance                | +0.20%            |
+| VCOM  | 11.90%     | 5.56THB  | 0.60THB  | Buy                   | 3.9M     | 21.648M             | 1.704BTHB    | 13.23      | 0.37THB    | Technology Services    | +9.07%            |
+| MFEC  | 10.81%     | 8.20THB  | 0.80THB  | Neutral               | 4.549M   | 37.305M             | 3.62BTHB     | 13.36      | 0.55THB    | Technology Services    | +9.07%            |
+| SSF   | 8.93%      | 9.15THB  | 0.75THB  | Strong Buy            | 2.9K     | 26.535K             | 2.47BTHB     | 17.30      | 0.49THB    | Consumer Non-Durables  | −0.29%            |
+| ARIN  | 8.00%      | 5.40THB  | 0.40THB  | Neutral               | 1.745M   | 9.423M              | 3.24BTHB     | —          | −0.09THB   | Finance                | +0.20%            |
+| SABUY | 7.41%      | 11.6THB  | 0.8THB   | Sell                  | 29.396M  | 340.992M            | 16.601BTHB   | 14.65      | 0.76THB    | Distribution Services  | +0.38%            |
+| MJD   | 7.05%      | 1.67THB  | 0.11THB  | Strong Buy            | 820.91K  | 1.371M              | 1.437BTHB    | —          | −0.50THB   | Finance                | +0.20%            |
