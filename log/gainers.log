@@ -505,3 +505,16 @@
 | ARIN  | 8.00%      | 5.40THB  | 0.40THB  | Neutral               | 1.745M   | 9.423M              | 3.24BTHB     | —          | −0.09THB   | Finance                | +0.20%            |
 | SABUY | 7.41%      | 11.6THB  | 0.8THB   | Sell                  | 29.396M  | 340.992M            | 16.601BTHB   | 14.65      | 0.76THB    | Distribution Services  | +0.38%            |
 | MJD   | 7.05%      | 1.67THB  | 0.11THB  | Strong Buy            | 820.91K  | 1.371M              | 1.437BTHB    | —          | −0.50THB   | Finance                | +0.20%            |
+2022-11-28 11:13:08.472 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| A5     | 16.05%     | 3.76THB  | 0.52THB  | Strong Buy            | 213.817M | 803.953M            | 3.918BTHB    | 40.81      | 0.08THB    | Finance                | −0.23%            |
+| VARO   | 10.46%     | 8.45THB  | 0.80THB  | Strong Buy            | 7.152M   | 60.431M             | 764.251MTHB  | —          | −0.41THB   | Producer Manufacturing | −0.50%            |
+| TEAM   | 8.05%      | 8.05THB  | 0.60THB  | Strong Buy            | 66.873M  | 538.324M            | 4.746BTHB    | 19.56      | 0.38THB    | Electronic Technology  | +1.02%            |
+| KAMART | 7.69%      | 7.70THB  | 0.55THB  | Strong Buy            | 16.921M  | 130.289M            | 6.292BTHB    | 23.54      | 0.30THB    | Distribution Services  | −0.66%            |
+| TKT    | 6.62%      | 2.90THB  | 0.18THB  | Strong Buy            | 42.913M  | 124.448M            | 646.762MTHB  | 20.21      | 0.14THB    | Producer Manufacturing | −0.50%            |
+| KLINIQ | 6.38%      | 37.50THB | 2.25THB  | Strong Buy            | 2.25M    | 84.376M             | 7.755BTHB    | 38.92      | 0.91THB    | Health Services        | +0.23%            |
+| COMAN  | 6.06%      | 4.90THB  | 0.28THB  | Sell                  | 415.872K | 2.038M              | 619.08MTHB   | —          | −0.29THB   | Technology Services    | +1.40%            |
+| CMR    | 6.06%      | 2.80THB  | 0.16THB  | Strong Buy            | 6.676M   | 18.693M             | 10.621BTHB   | 18.40      | 0.14THB    | Health Services        | +0.23%            |
+| POLY   | 6.00%      | 15.9THB  | 0.9THB   | Strong Buy            | 16.668M  | 265.024M            | 6.75BTHB     | —          | —          | Process Industries     | −0.05%            |
+| SC     | 5.70%      | 4.08THB  | 0.22THB  | Strong Buy            | 52.058M  | 212.398M            | 16.285BTHB   | 7.41       | 0.52THB    | Finance                | −0.23%            |

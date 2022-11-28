@@ -505,3 +505,16 @@
 | SSC  | −3.33%     | 29.00THB | −1.00THB | Strong Sell           | 400      | 11.6K               | 7.711BTHB    | 609.24     | 0.05THB    | Consumer Non-Durables | −0.29%            |
 | LHK  | −3.25%     | 4.76THB  | −0.16THB | Sell                  | 1.225M   | 5.831M              | 1.823BTHB    | 10.63      | 0.46THB    | Non-Energy Minerals   | +0.59%            |
 | CSP  | −3.25%     | 1.19THB  | −0.04THB | Strong Sell           | 204.5K   | 243.355K            | 590.441MTHB  | —          | −0.00THB   | Non-Energy Minerals   | +0.59%            |
+2022-11-28 11:13:08.479 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| SAWANG | −8.28%     | 13.3THB  | −1.2THB  | Sell                  | 14.997M  | 199.462M            | 9.86BTHB     | 94.71      | 0.15THB    | Commercial Services    | −0.03%            |
+| TEAMG  | −7.98%     | 37.50THB | −3.25THB | Sell                  | 5.767M   | 216.28M             | 28.788BTHB   | 139.65     | 0.29THB    | Technology Services    | +1.40%            |
+| JTS    | −7.22%     | 3.60THB  | −0.28THB | Sell                  | 13.802M  | 49.686M             | 1.668BTHB    | —          | —          | Distribution Services  | −0.66%            |
+| TC     | −7.05%     | 14.5THB  | −1.1THB  | Neutral               | 9.052M   | 131.256M            | 5.148BTHB    | 11.10      | 1.41THB    | Consumer Non-Durables  | −0.29%            |
+| 24CS   | −5.70%     | 3.64THB  | −0.22THB | Strong Sell           | 27.908M  | 101.586M            | 2.683BTHB    | —          | −0.07THB   | Non-Energy Minerals    | −0.26%            |
+| SSF    | −5.68%     | 3.32THB  | −0.20THB | Strong Sell           | 6.73M    | 22.343M             | 1.925BTHB    | 27.37      | 0.13THB    | Producer Manufacturing | −0.50%            |
+| KWI    | −5.48%     | 2.76THB  | −0.16THB | Strong Sell           | 7.244M   | 19.992M             | 3.942BTHB    | 17.93      | 0.16THB    | Finance                | −0.23%            |
+| DITTO  | −5.22%     | 2.54THB  | −0.14THB | Strong Sell           | 52.705M  | 133.87M             | 2.586BTHB    | 11.57      | 0.25THB    | Finance                | −0.23%            |
+| ZIGA   | −5.08%     | 11.2THB  | −0.6THB  | Buy                   | 17.457M  | 195.519M            | 16.284BTHB   | 40.92      | 0.29THB    | Consumer Non-Durables  | −0.29%            |
+| TSR    | −4.96%     | 2.68THB  | −0.14THB | Sell                  | 4.078M   | 10.929M             | 5.765BTHB    | —          | −0.08THB   | Finance                | −0.23%            |

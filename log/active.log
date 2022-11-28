@@ -505,3 +505,16 @@
 | JKN    | 70.705M  | 4.12THB | −6.79%     | −0.30THB | Strong Sell           | 291.305M            | 2.653BTHB    | 24.15      | 0.24THB    | Consumer Services   | −0.19%            |
 | TH     | 62.693M  | 2.68THB | −0.74%     | −0.02THB | Sell                  | 168.018M            | 2.586BTHB    | 11.65      | 0.25THB    | Finance             | +0.20%            |
 | GUNKUL | 61.956M  | 5.30THB | 0.00%      | 0.00THB  | Buy                   | 328.368M            | 47.077BTHB   | 14.14      | 0.37THB    | Utilities           | −0.68%            |
+2022-11-28 11:13:08.485 | INFO     | __main__:log_table:140 - 
+ |       | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| A5    | 213.817M | 3.76THB  | 16.05%     | 0.52THB  | Strong Buy            | 803.953M            | 3.918BTHB    | 40.81      | 0.08THB    | Finance               | −0.23%            |
+| TTB   | 195.589M | 1.37THB  | −0.72%     | −0.01THB | Buy                   | 267.956M            | 133.34BTHB   | 10.21      | 0.14THB    | Finance               | −0.23%            |
+| NUSA  | 185.645M | 1.25THB  | 1.63%      | 0.02THB  | Buy                   | 232.056M            | 14.319BTHB   | —          | −0.06THB   | Finance               | −0.23%            |
+| SIRI  | 166.563M | 1.47THB  | 1.38%      | 0.02THB  | Buy                   | 244.848M            | 21.584BTHB   | 8.72       | 0.17THB    | Finance               | −0.23%            |
+| PSG   | 104.887M | 1.18THB  | −4.84%     | −0.06THB | Sell                  | 123.767M            | 80.591BTHB   | 167.57     | 0.01THB    | Industrial Services   | −0.81%            |
+| CHG   | 92.759M  | 3.60THB  | 2.27%      | 0.08THB  | Buy                   | 333.932M            | 38.72BTHB    | 8.99       | 0.39THB    | Health Services       | +0.23%            |
+| TEAM  | 66.873M  | 8.05THB  | 8.05%      | 0.60THB  | Strong Buy            | 538.324M            | 4.746BTHB    | 19.56      | 0.38THB    | Electronic Technology | +1.02%            |
+| BANPU | 66.598M  | 12.7THB  | −2.31%     | −0.3THB  | Sell                  | 845.79M             | 87.959BTHB   | 2.46       | 6.54THB    | Energy Minerals       | −0.97%            |
+| PTT   | 62.651M  | 33.25THB | −1.48%     | −0.50THB | Sell                  | 2.083B              | 964.001BTHB  | 9.54       | 3.54THB    | Energy Minerals       | −0.97%            |
+| ECL   | 55.05M   | 1.98THB  | 0.00%      | 0.00THB  | Sell                  | 108.998M            | 2.196BTHB    | 10.43      | 0.19THB    | Finance               | −0.23%            |
