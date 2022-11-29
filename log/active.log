@@ -518,3 +518,16 @@
 | BANPU | 66.598M  | 12.7THB  | −2.31%     | −0.3THB  | Sell                  | 845.79M             | 87.959BTHB   | 2.46       | 6.54THB    | Energy Minerals       | −0.97%            |
 | PTT   | 62.651M  | 33.25THB | −1.48%     | −0.50THB | Sell                  | 2.083B              | 964.001BTHB  | 9.54       | 3.54THB    | Energy Minerals       | −0.97%            |
 | ECL   | 55.05M   | 1.98THB  | 0.00%      | 0.00THB  | Sell                  | 108.998M            | 2.196BTHB    | 10.43      | 0.19THB    | Finance               | −0.23%            |
+2022-11-29 11:12:50.748 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector            | Sector Chg % 1D   |
+|--------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-------------------|-------------------|
+| AURA   | 378.541M | 14.7THB | —          | —        | —                     | 5.565B              | —            | —          | —          | —                 | -                 |
+| AURA.R | 378.528M | 14.7THB | —          | —        | —                     | 5.564B              | —            | —          | —          | —                 | -                 |
+| SIRI   | 318.651M | 1.55THB | 5.44%      | 0.08THB  | Strong Buy            | 493.908M            | 21.882BTHB   | 8.84       | 0.17THB    | Finance           | +0.37%            |
+| TTB    | 193.417M | 1.38THB | 0.73%      | 0.01THB  | Buy                   | 266.915M            | 132.373BTHB  | 10.13      | 0.14THB    | Finance           | +0.37%            |
+| WHA    | 104.217M | 3.80THB | 2.15%      | 0.08THB  | Buy                   | 396.024M            | 55.602BTHB   | 17.17      | 0.22THB    | Transportation    | +0.85%            |
+| NUSA   | 100.239M | 1.25THB | 0.00%      | 0.00THB  | Buy                   | 125.298M            | 14.552BTHB   | —          | −0.06THB   | Finance           | +0.37%            |
+| AWC    | 98.089M  | 6.20THB | −0.80%     | −0.05THB | Buy                   | 608.149M            | 200.005BTHB  | 58.58      | 0.11THB    | Finance           | +0.37%            |
+| ECF    | 81.716M  | 1.84THB | 1.66%      | 0.03THB  | Strong Buy            | 150.357M            | 1.737BTHB    | 36.86      | 0.05THB    | Consumer Durables | +0.27%            |
+| TRUE   | 81.458M  | 4.54THB | −0.44%     | −0.02THB | Sell                  | 369.82M             | 152.05BTHB   | —          | −0.15THB   | Communications    | +0.61%            |
+| IRPC   | 67.801M  | 3.10THB | 1.31%      | 0.04THB  | Buy                   | 210.184M            | 62.456BTHB   | 12.54      | 0.24THB    | Energy Minerals   | +1.29%            |

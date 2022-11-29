@@ -518,3 +518,16 @@
 | DITTO  | −5.22%     | 2.54THB  | −0.14THB | Strong Sell           | 52.705M  | 133.87M             | 2.586BTHB    | 11.57      | 0.25THB    | Finance                | −0.23%            |
 | ZIGA   | −5.08%     | 11.2THB  | −0.6THB  | Buy                   | 17.457M  | 195.519M            | 16.284BTHB   | 40.92      | 0.29THB    | Consumer Non-Durables  | −0.29%            |
 | TSR    | −4.96%     | 2.68THB  | −0.14THB | Sell                  | 4.078M   | 10.929M             | 5.765BTHB    | —          | −0.08THB   | Finance                | −0.23%            |
+2022-11-29 11:12:50.742 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| MATI  | −7.47%     | 8.05THB  | −0.65THB | Strong Sell           | 100      | 805                 | 1.613BTHB    | 21.18      | 0.41THB    | Consumer Services      | −0.43%            |
+| NINE  | −5.66%     | 15.0THB  | −0.9THB  | Buy                   | 12.601M  | 189.011M            | 6.75BTHB     | —          | —          | Process Industries     | +0.12%            |
+| POLY  | −4.14%     | 2.78THB  | −0.12THB | Buy                   | 26.706M  | 74.243M             | 689.562MTHB  | 21.55      | 0.14THB    | Producer Manufacturing | +0.29%            |
+| PORT  | −4.07%     | 3.30THB  | −0.14THB | Strong Sell           | 2.418M   | 7.978M              | 928.8MTHB    | —          | —          | Retail Trade           | −0.67%            |
+| GLORY | −3.54%     | 1.91THB  | −0.07THB | Strong Sell           | 95.1K    | 181.641K            | 2.267BTHB    | —          | −0.01THB   | Energy Minerals        | +1.29%            |
+| SSF   | −3.47%     | 34.75THB | −1.25THB | Sell                  | 700      | 24.325K             | 4.32BTHB     | 52.79      | 0.68THB    | Consumer Non-Durables  | +0.40%            |
+| W     | −3.43%     | 8.45THB  | −0.30THB | Sell                  | 414.902K | 3.506M              | 2.748BTHB    | 35.96      | 0.24THB    | Health Technology      | +0.75%            |
+| TKT   | −3.10%     | 1.25THB  | −0.04THB | Strong Sell           | 272.2K   | 340.25K             | 872.943MTHB  | 79.14      | 0.02THB    | Producer Manufacturing | +0.29%            |
+| TLHPF | −3.07%     | 39.50THB | −1.25THB | Strong Sell           | 198.275K | 7.832M              | 3.667BTHB    | 7.96       | 5.12THB    | Process Industries     | +0.12%            |
+| CHOW  | −2.99%     | 3.90THB  | −0.12THB | Sell                  | 258K     | 1.006M              | 15.517BTHB   | 36.48      | 0.11THB    | Process Industries     | +0.12%            |
