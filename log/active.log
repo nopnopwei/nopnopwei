@@ -531,3 +531,16 @@
 | ECF    | 81.716M  | 1.84THB | 1.66%      | 0.03THB  | Strong Buy            | 150.357M            | 1.737BTHB    | 36.86      | 0.05THB    | Consumer Durables | +0.27%            |
 | TRUE   | 81.458M  | 4.54THB | −0.44%     | −0.02THB | Sell                  | 369.82M             | 152.05BTHB   | —          | −0.15THB   | Communications    | +0.61%            |
 | IRPC   | 67.801M  | 3.10THB | 1.31%      | 0.04THB  | Buy                   | 210.184M            | 62.456BTHB   | 12.54      | 0.24THB    | Energy Minerals   | +1.29%            |
+2022-11-30 11:12:58.762 | INFO     | __main__:log_table:140 - 
+ |       | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector              | Sector Chg % 1D   |
+|-------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|---------------------|-------------------|
+| PRI   | 407.615M | 6.30THB | 1.61%      | 0.10THB  | Strong Buy            | 2.568B              | 198.405BTHB  | 58.11      | 0.11THB    | Finance             | +0.12%            |
+| SIRI  | 221.918M | 1.57THB | 1.29%      | 0.02THB  | Strong Buy            | 348.411M            | 23.073BTHB   | 9.32       | 0.17THB    | Finance             | +0.12%            |
+| AWC   | 213.812M | 19.2THB | —          | —        | —                     | 4.105B              | —            | —          | —          | —                   | -                 |
+| NUSA  | 198.841M | 1.17THB | 0.86%      | 0.01THB  | Sell                  | 232.644M            | 75.391BTHB   | 156.76     | 0.01THB    | Industrial Services | +1.25%            |
+| CHG   | 166.91M  | 1.15THB | −8.00%     | −0.10THB | Buy                   | 191.946M            | 14.552BTHB   | —          | −0.06THB   | Finance             | +0.12%            |
+| PSG   | 166.329M | 15.0THB | −3.23%     | −0.5THB  | Strong Sell           | 2.495B              | 50.097BTHB   | 17.61      | 0.88THB    | Finance             | +0.12%            |
+| AURA  | 154.077M | 3.70THB | 3.93%      | 0.14THB  | Strong Buy            | 570.085M            | 39.16BTHB    | 9.10       | 0.39THB    | Health Services     | −0.14%            |
+| TTB   | 150.641M | 1.40THB | 1.45%      | 0.02THB  | Buy                   | 210.897M            | 133.34BTHB   | 10.21      | 0.14THB    | Finance             | +0.12%            |
+| XPG   | 108.962M | 14.2THB | −3.40%     | −0.5THB  | —                     | 1.547B              | 4.91BTHB     | —          | —          | Consumer Durables   | +0.60%            |
+| BANPU | 98.011M  | 13.1THB | 1.55%      | 0.2THB   | Buy                   | 1.284B              | 87.283BTHB   | 2.44       | 6.54THB    | Energy Minerals     | +0.08%            |

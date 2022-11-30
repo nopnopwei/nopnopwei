@@ -531,3 +531,16 @@
 | OCC    | 4.90%      | 10.7THB | 0.5THB   | Sell                  | 100      | 1.07K               | 612MTHB      | 45.31      | 0.23THB    | Consumer Non-Durables  | +0.40%            |
 | JKN    | 4.88%      | 4.30THB | 0.20THB  | Sell                  | 50.243M  | 216.045M            | 2.64BTHB     | 22.40      | 0.24THB    | Consumer Services      | −0.43%            |
 | D      | 4.72%      | 5.55THB | 0.25THB  | Neutral               | 3.193M   | 17.722M             | 1.6BTHB      | 136.25     | 0.04THB    | Health Services        | +1.07%            |
+2022-11-30 11:12:58.750 | INFO     | __main__:log_table:140 - 
+ |         | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|---------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| S&amp;J | 11.38%     | 34.25THB | 3.50THB  | Strong Buy            | 302      | 10.344K             | 4.648BTHB    | 9.55       | 3.22THB    | Consumer Non-Durables  | +0.48%            |
+| DEMCO   | 10.09%     | 6.00THB  | 0.55THB  | Strong Buy            | 44.151M  | 264.905M            | 3.98BTHB     | —          | −0.11THB   | Industrial Services    | +1.25%            |
+| MOONG   | 8.55%      | 2.54THB  | 0.20THB  | Buy                   | 9.161M   | 23.269M             | 789.622MTHB  | 21.65      | 0.11THB    | Distribution Services  | +0.25%            |
+| SR      | 8.00%      | 1.35THB  | 0.10THB  | Neutral               | 808.8K   | 1.092M              | 845.875MTHB  | 76.69      | 0.02THB    | Producer Manufacturing | +0.33%            |
+| QHOP    | 7.76%      | 2.50THB  | 0.18THB  | Strong Buy            | 57.8K    | 144.5K              | 443.816MTHB  | —          | −0.36THB   | Finance                | +0.12%            |
+| RT      | 7.25%      | 1.48THB  | 0.10THB  | Buy                   | 38.486M  | 56.96M              | 1.518BTHB    | —          | −0.08THB   | Industrial Services    | +1.25%            |
+| APCS    | 6.54%      | 5.06THB  | 0.32THB  | Buy                   | 1.712M   | 8.646M              | 3.128BTHB    | —          | −0.05THB   | Industrial Services    | +1.25%            |
+| XPG     | 6.29%      | 1.52THB  | 0.09THB  | Buy                   | 84.697M  | 128.74M             | 13.378BTHB   | —          | −0.01THB   | Finance                | +0.12%            |
+| A5      | 5.98%      | 3.90THB  | 0.22THB  | Buy                   | 55.775M  | 217.521M            | 4.451BTHB    | 46.35      | 0.08THB    | Finance                | +0.12%            |
+| THCOM   | 5.26%      | 12.0THB  | 0.6THB   | Strong Buy            | 18.094M  | 217.132M            | 12.496BTHB   | 30.58      | 0.37THB    | Communications         | −0.27%            |

@@ -531,3 +531,16 @@
 | TKT   | −3.10%     | 1.25THB  | −0.04THB | Strong Sell           | 272.2K   | 340.25K             | 872.943MTHB  | 79.14      | 0.02THB    | Producer Manufacturing | +0.29%            |
 | TLHPF | −3.07%     | 39.50THB | −1.25THB | Strong Sell           | 198.275K | 7.832M              | 3.667BTHB    | 7.96       | 5.12THB    | Process Industries     | +0.12%            |
 | CHOW  | −2.99%     | 3.90THB  | −0.12THB | Sell                  | 258K     | 1.006M              | 15.517BTHB   | 36.48      | 0.11THB    | Process Industries     | +0.12%            |
+2022-11-30 11:12:58.756 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| VARO   | −8.96%     | 63.50THB | −6.25THB | Strong Sell           | 14.938M  | 948.593M            | 58.742BTHB   | 29.53      | 2.36THB    | Health Services        | −0.14%            |
+| NUSA   | −8.00%     | 1.15THB  | −0.10THB | Buy                   | 166.91M  | 191.946M            | 14.552BTHB   | —          | −0.06THB   | Finance                | +0.12%            |
+| ZEN    | −7.22%     | 8.35THB  | −0.65THB | Buy                   | 1.139M   | 9.51M               | 899.119MTHB  | —          | −0.41THB   | Producer Manufacturing | +0.33%            |
+| POLY   | −6.04%     | 7.00THB  | −0.45THB | Sell                  | 10.6K    | 74.2K               | 11.842BTHB   | —          | −0.14THB   | Consumer Services      | +0.51%            |
+| TEGH   | −5.33%     | 14.2THB  | −0.8THB  | Sell                  | 2.874M   | 40.81M              | 6.75BTHB     | —          | —          | Process Industries     | +0.08%            |
+| JKN    | −4.65%     | 4.10THB  | −0.20THB | Sell                  | 32.935M  | 135.034M            | 2.769BTHB    | 23.50      | 0.24THB    | Consumer Services      | +0.51%            |
+| PTECH  | −4.55%     | 16.8THB  | −0.8THB  | Sell                  | 1.793M   | 30.121M             | 5.28BTHB     | 48.66      | 0.36THB    | Consumer Services      | +0.51%            |
+| MANRIN | −4.33%     | 4.42THB  | −0.20THB | Strong Sell           | 50.797M  | 224.521M            | 4.99BTHB     | —          | —          | Producer Manufacturing | +0.33%            |
+| THG    | −3.40%     | 14.2THB  | −0.5THB  | —                     | 108.962M | 1.547B              | 4.91BTHB     | —          | —          | Consumer Durables      | +0.60%            |
+| JTS    | −3.27%     | 4.14THB  | −0.14THB | Buy                   | 3.416M   | 14.143M             | 1.284BTHB    | 80.60      | 0.05THB    | Commercial Services    | +1.34%            |
