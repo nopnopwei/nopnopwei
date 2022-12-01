@@ -544,3 +544,16 @@
 | TTB   | 150.641M | 1.40THB | 1.45%      | 0.02THB  | Buy                   | 210.897M            | 133.34BTHB   | 10.21      | 0.14THB    | Finance             | +0.12%            |
 | XPG   | 108.962M | 14.2THB | −3.40%     | −0.5THB  | —                     | 1.547B              | 4.91BTHB     | —          | —          | Consumer Durables   | +0.60%            |
 | BANPU | 98.011M  | 13.1THB | 1.55%      | 0.2THB   | Buy                   | 1.284B              | 87.283BTHB   | 2.44       | 6.54THB    | Energy Minerals     | +0.08%            |
+2022-12-01 11:13:06.280 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector          | Sector Chg % 1D   |
+|--------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------|-------------------|
+| SIRI   | 1.638B   | 1.71THB  | 8.92%      | 0.14THB  | Strong Buy            | 2.802B              | 23.371BTHB   | 9.44       | 0.17THB    | Finance         | +0.47%            |
+| BANPU  | 179.525M | 1.39THB  | −0.71%     | −0.01THB | Buy                   | 249.54M             | 135.272BTHB  | 10.36      | 0.14THB    | Finance         | +0.47%            |
+| TTB    | 147.136M | 13.2THB  | 0.76%      | 0.1THB   | Strong Buy            | 1.942B              | 88.636BTHB   | 2.48       | 6.54THB    | Energy Minerals | −0.10%            |
+| BLAND  | 96.801M  | 3.82THB  | −0.52%     | −0.02THB | Buy                   | 369.779M            | 57.396BTHB   | 17.72      | 0.22THB    | Transportation  | −0.85%            |
+| WHA    | 95.171M  | 1.60THB  | 5.26%      | 0.08THB  | Buy                   | 152.274M            | 14.22BTHB    | —          | −0.01THB   | Finance         | +0.47%            |
+| NUSA   | 88.608M  | 1.15THB  | 0.00%      | 0.00THB  | Buy                   | 101.899M            | 13.388BTHB   | —          | −0.06THB   | Finance         | +0.47%            |
+| XPG    | 87.256M  | 1.08THB  | 2.86%      | 0.03THB  | Strong Buy            | 94.237M             | 18.197BTHB   | 17.92      | 0.06THB    | Finance         | +0.47%            |
+| BDMS   | 82.821M  | 29.25THB | −3.31%     | −1.00THB | Sell                  | 2.423B              | 480.733BTHB  | 39.64      | 0.76THB    | Health Services | −2.07%            |
+| GUNKUL | 75.826M  | 5.40THB  | 0.93%      | 0.05THB  | Buy                   | 409.458M            | 47.522BTHB   | 14.27      | 0.37THB    | Utilities       | +0.62%            |
+| TKT    | 69.526M  | 4.40THB  | 6.80%      | 0.28THB  | Strong Buy            | 305.914M            | 17.382BTHB   | 7.90       | 0.52THB    | Finance         | +0.47%            |

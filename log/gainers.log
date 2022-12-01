@@ -544,3 +544,16 @@
 | XPG     | 6.29%      | 1.52THB  | 0.09THB  | Buy                   | 84.697M  | 128.74M             | 13.378BTHB   | —          | −0.01THB   | Finance                | +0.12%            |
 | A5      | 5.98%      | 3.90THB  | 0.22THB  | Buy                   | 55.775M  | 217.521M            | 4.451BTHB    | 46.35      | 0.08THB    | Finance                | +0.12%            |
 | THCOM   | 5.26%      | 12.0THB  | 0.6THB   | Strong Buy            | 18.094M  | 217.132M            | 12.496BTHB   | 30.58      | 0.37THB    | Communications         | −0.27%            |
+2022-12-01 11:13:06.269 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price     | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|------------|-----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| SVI   | 13.85%     | 11.10THB  | 1.35THB  | Strong Buy            | 35.953M  | 399.08M             | 20.994BTHB   | 11.31      | 0.86THB    | Electronic Technology  | +9.88%            |
+| DELTA | 13.69%     | 764THB    | 92THB    | Strong Buy            | 10.333M  | 7.895B              | 838.24BTHB   | 63.27      | 10.62THB   | Electronic Technology  | +9.88%            |
+| TEAM  | 12.50%     | 9.00THB   | 1.00THB  | Strong Buy            | 38.63M   | 347.669M            | 5.097BTHB    | 21.01      | 0.38THB    | Electronic Technology  | +9.88%            |
+| NEW   | 9.68%      | 102.00THB | 9.00THB  | Strong Buy            | 1.7K     | 173.4K              | 930MTHB      | 10.16      | 9.16THB    | Health Services        | −2.07%            |
+| VARO  | 8.98%      | 9.10THB   | 0.75THB  | Buy                   | 4.444M   | 40.441M             | 834.183MTHB  | —          | −0.41THB   | Producer Manufacturing | −0.03%            |
+| SIRI  | 8.92%      | 1.71THB   | 0.14THB  | Strong Buy            | 1.638B   | 2.802B              | 23.371BTHB   | 9.44       | 0.17THB    | Finance                | +0.47%            |
+| HANA  | 7.73%      | 55.75THB  | 4.00THB  | Strong Buy            | 39.165M  | 2.183B              | 41.652BTHB   | 42.94      | 1.21THB    | Electronic Technology  | +9.88%            |
+| SMT   | 7.14%      | 6.00THB   | 0.40THB  | Strong Buy            | 22.179M  | 133.076M            | 4.713BTHB    | 17.89      | 0.33THB    | Electronic Technology  | +9.88%            |
+| SC    | 6.80%      | 4.40THB   | 0.28THB  | Strong Buy            | 69.526M  | 305.914M            | 17.382BTHB   | 7.90       | 0.52THB    | Finance                | +0.47%            |
+| DEMCO | 5.83%      | 6.35THB   | 0.35THB  | Strong Buy            | 29.278M  | 185.918M            | 4.382BTHB    | —          | −0.11THB   | Industrial Services    | +1.11%            |
