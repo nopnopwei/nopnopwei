@@ -557,3 +557,16 @@
 | SMT   | 7.14%      | 6.00THB   | 0.40THB  | Strong Buy            | 22.179M  | 133.076M            | 4.713BTHB    | 17.89      | 0.33THB    | Electronic Technology  | +9.88%            |
 | SC    | 6.80%      | 4.40THB   | 0.28THB  | Strong Buy            | 69.526M  | 305.914M            | 17.382BTHB   | 7.90       | 0.52THB    | Finance                | +0.47%            |
 | DEMCO | 5.83%      | 6.35THB   | 0.35THB  | Strong Buy            | 29.278M  | 185.918M            | 4.382BTHB    | —          | −0.11THB   | Industrial Services    | +1.11%            |
+2022-12-02 11:10:44.480 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|------------|---------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| NCAP   | 22.37%     | 3.72THB | 0.68THB  | Buy                   | 116.649M | 433.934M            | 4.104BTHB    | 18.66      | 0.16THB    | Finance               | −0.28%            |
+| YGG    | 10.56%     | 8.90THB | 0.85THB  | Buy                   | 11.935M  | 106.223M            | 4.846BTHB    | 27.39      | 0.29THB    | Consumer Services     | −0.19%            |
+| THCOM  | 10.00%     | 13.2THB | 1.2THB   | Strong Buy            | 75.521M  | 996.872M            | 13.153BTHB   | 32.19      | 0.37THB    | Communications        | +1.02%            |
+| A5     | 8.56%      | 4.06THB | 0.32THB  | Strong Buy            | 23.669M  | 96.097M             | 4.523BTHB    | 47.10      | 0.08THB    | Finance               | −0.28%            |
+| JWD    | 7.32%      | 22.0THB | 1.5THB   | Strong Buy            | 18.072M  | 397.574M            | 20.91BTHB    | 36.82      | 0.56THB    | Transportation        | −0.21%            |
+| RBF    | 7.26%      | 13.3THB | 0.9THB   | Strong Buy            | 14.852M  | 197.527M            | 24.8BTHB     | 50.43      | 0.25THB    | Consumer Non-Durables | +0.29%            |
+| MICRO  | 7.21%      | 4.46THB | 0.30THB  | Buy                   | 5.965M   | 26.603M             | 3.89BTHB     | 31.35      | 0.13THB    | Finance               | −0.28%            |
+| PRI    | 7.18%      | 19.4THB | 1.3THB   | —                     | 20.152M  | 390.947M            | 5.792BTHB    | —          | —          | Finance               | −0.28%            |
+| CPANEL | 6.42%      | 9.95THB | 0.60THB  | Strong Buy            | 3.063M   | 30.474M             | 1.496BTHB    | 25.11      | 0.38THB    | Non-Energy Minerals   | −0.49%            |
+| MGT    | 6.29%      | 3.72THB | 0.22THB  | Buy                   | 1.638M   | 6.094M              | 1.4BTHB      | 14.42      | 0.24THB    | Distribution Services | −0.30%            |
