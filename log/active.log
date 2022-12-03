@@ -570,3 +570,16 @@
 | BLAND | 72.844M  | 3.04THB | −0.65%     | −0.02THB | Strong Sell           | 221.446M            | 62.456BTHB   | 12.54      | 0.24THB    | Energy Minerals       | −1.23%            |
 | SC    | 56.118M  | 4.30THB | −2.27%     | −0.10THB | Buy                   | 241.308M            | 18.564BTHB   | 8.44       | 0.52THB    | Finance               | −0.28%            |
 | IRPC  | 55.404M  | 11.4THB | 2.70%      | 0.3THB   | Strong Buy            | 631.601M            | 23.901BTHB   | 12.88      | 0.86THB    | Electronic Technology | +9.88%            |
+2022-12-03 11:11:16.388 | INFO     | __main__:log_table:140 - 
+ |       | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| SIRI  | 785.204M | 1.71THB | 0.00%      | 0.00THB  | Buy                   | 1.343B              | 25.455BTHB   | 10.28      | 0.17THB    | Finance               | −0.28%            |
+| U     | 182.361M | 1.47THB | 2.08%      | 0.03THB  | Buy                   | 268.07M             | 8.252BTHB    | —          | −2.10THB   | Consumer Services     | +0.27%            |
+| NCAP  | 116.649M | 3.72THB | 22.37%     | 0.68THB  | Buy                   | 433.934M            | 5.022BTHB    | 18.66      | 0.16THB    | Finance               | −0.28%            |
+| TTB   | 115.16M  | 1.38THB | −0.72%     | −0.01THB | Buy                   | 158.921M            | 133.34BTHB   | 10.28      | 0.14THB    | Finance               | −0.28%            |
+| VL    | 106.484M | 1.71THB | 0.59%      | 0.01THB  | Strong Buy            | 182.087M            | 1.742BTHB    | 78.34      | 0.02THB    | Transportation        | −0.16%            |
+| THCOM | 75.521M  | 13.2THB | 10.00%     | 1.2THB   | Strong Buy            | 996.872M            | 14.469BTHB   | 32.19      | 0.37THB    | Communications        | −0.51%            |
+| AURA  | 75.196M  | 14.9THB | 2.05%      | 0.3THB   | —                     | 1.12B               | 19.476BTHB   | —          | —          | Consumer Durables     | −0.02%            |
+| IRPC  | 72.844M  | 3.04THB | −0.65%     | −0.02THB | Strong Sell           | 221.446M            | 62.048BTHB   | 12.54      | 0.24THB    | Energy Minerals       | −1.22%            |
+| SC    | 56.118M  | 4.30THB | −2.27%     | −0.10THB | Buy                   | 241.308M            | 18.142BTHB   | 8.44       | 0.52THB    | Finance               | −0.28%            |
+| SVI   | 55.404M  | 11.4THB | 2.70%      | 0.3THB   | Strong Buy            | 631.601M            | 24.547BTHB   | 12.88      | 0.86THB    | Electronic Technology | +0.60%            |
