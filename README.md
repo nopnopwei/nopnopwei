@@ -32,7 +32,7 @@ The tables below are data of the Thai stock market that is fetched from [Trading
 | SMT    | −5.00%     | 5.70THB  | −0.30THB | Buy                   | 21.583M  | 123.025M            | 4.797BTHB    | 19.17      | 0.33THB    | Electronic Technology | +0.61%            |
 | ADD    | −4.65%     | 12.3THB  | −0.6THB  | Strong Sell           | 882.851K | 10.859M             | 1.968BTHB    | 30.07      | 0.43THB    | Technology Services   | −0.99%            |
 | ABICO  | −4.24%     | 5.65THB  | −0.25THB | Strong Sell           | 254.879K | 1.44M               | 1.381BTHB    | 38.76      | 0.15THB    | Consumer Non-Durables | +0.20%            |
-| SPACK  | −3.92%     | 3.92THB  | −0.16THB | Sell                  | 4.285M   | 16.798M             | 1.176BTHB    | 76.84      | 0.05THB    | Commercial Services   | −0.01%            |
+| SPACK  | −3.92%     | 3.92THB  | −0.16THB | Sell                  | 4.285M   | 16.798M             | 1.176BTHB    | 76.84      | 0.05THB    | Commercial Services   | −0.03%            |
 | TPBI   | −3.92%     | 4.90THB  | −0.20THB | Buy                   | 3.388M   | 16.602M             | 2.043BTHB    | 12.66      | 0.40THB    | Process Industries    | −0.90%            |
 ### MOST ACTIVE:
 |       | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
@@ -50,7 +50,7 @@ The tables below are data of the Thai stock market that is fetched from [Trading
 <hr>
 <div align="center">
 
-README.md last auto updated on: `Sunday 04 December 2022`
+README.md last auto updated on: `Monday 05 December 2022`
 <br>
 </div>
     

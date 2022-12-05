@@ -596,3 +596,16 @@
 | ABICO  | −4.24%     | 5.65THB  | −0.25THB | Strong Sell           | 254.879K | 1.44M               | 1.381BTHB    | 38.76      | 0.15THB    | Consumer Non-Durables | +0.20%            |
 | SPACK  | −3.92%     | 3.92THB  | −0.16THB | Sell                  | 4.285M   | 16.798M             | 1.176BTHB    | 76.84      | 0.05THB    | Commercial Services   | −0.01%            |
 | TPBI   | −3.92%     | 4.90THB  | −0.20THB | Buy                   | 3.388M   | 16.602M             | 2.043BTHB    | 12.66      | 0.40THB    | Process Industries    | −0.90%            |
+2022-12-05 11:11:59.692 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| DEMCO  | −8.66%     | 5.80THB  | −0.55THB | Buy                   | 18.045M  | 104.66M             | 4.236BTHB    | —          | −0.11THB   | Industrial Services   | −0.31%            |
+| SAWANG | −6.34%     | 13.3THB  | −0.9THB  | Buy                   | 9.808K   | 130.446K            | 319.2MTHB    | —          | −1.33THB   | Consumer Durables     | +0.02%            |
+| TC     | −5.52%     | 13.7THB  | −0.8THB  | Sell                  | 7.42M    | 101.658M            | 4.521BTHB    | 10.32      | 1.41THB    | Consumer Non-Durables | +0.20%            |
+| JTS    | −5.33%     | 35.50THB | −2.00THB | Sell                  | 1.157M   | 41.083M             | 25.079BTHB   | 128.51     | 0.29THB    | Technology Services   | −0.99%            |
+| AH     | −5.00%     | 33.25THB | −1.75THB | Buy                   | 3.546M   | 117.906M            | 11.799BTHB   | 8.06       | 4.34THB    | Consumer Durables     | +0.02%            |
+| SMT    | −5.00%     | 5.70THB  | −0.30THB | Buy                   | 21.583M  | 123.025M            | 4.797BTHB    | 19.17      | 0.33THB    | Electronic Technology | +0.61%            |
+| ADD    | −4.65%     | 12.3THB  | −0.6THB  | Strong Sell           | 882.851K | 10.859M             | 1.968BTHB    | 30.07      | 0.43THB    | Technology Services   | −0.99%            |
+| ABICO  | −4.24%     | 5.65THB  | −0.25THB | Strong Sell           | 254.879K | 1.44M               | 1.381BTHB    | 38.76      | 0.15THB    | Consumer Non-Durables | +0.20%            |
+| SPACK  | −3.92%     | 3.92THB  | −0.16THB | Sell                  | 4.285M   | 16.798M             | 1.176BTHB    | 76.84      | 0.05THB    | Commercial Services   | −0.03%            |
+| TPBI   | −3.92%     | 4.90THB  | −0.20THB | Buy                   | 3.388M   | 16.602M             | 2.043BTHB    | 12.66      | 0.40THB    | Process Industries    | −0.90%            |
