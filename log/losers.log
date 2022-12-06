@@ -609,3 +609,16 @@
 | ABICO  | −4.24%     | 5.65THB  | −0.25THB | Strong Sell           | 254.879K | 1.44M               | 1.381BTHB    | 38.76      | 0.15THB    | Consumer Non-Durables | +0.20%            |
 | SPACK  | −3.92%     | 3.92THB  | −0.16THB | Sell                  | 4.285M   | 16.798M             | 1.176BTHB    | 76.84      | 0.05THB    | Commercial Services   | −0.03%            |
 | TPBI   | −3.92%     | 4.90THB  | −0.20THB | Buy                   | 3.388M   | 16.602M             | 2.043BTHB    | 12.66      | 0.40THB    | Process Industries    | −0.90%            |
+2022-12-06 11:11:57.957 | INFO     | __main__:log_table:140 - 
+ |         | Chg % 1D   | Price   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|---------|------------|---------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| A5      | −14.78%    | 3.46THB | −0.60THB | Buy                   | 99.62M   | 344.685M            | 4.91BTHB     | 51.13      | 0.08THB    | Finance                | −0.13%            |
+| TC      | −12.41%    | 12.0THB | −1.7THB  | Sell                  | 16.042M  | 192.509M            | 4.521BTHB    | 9.75       | 1.41THB    | Consumer Non-Durables  | −0.40%            |
+| ABICO   | −9.73%     | 5.10THB | −0.55THB | Strong Sell           | 633.014K | 3.228M              | 1.381BTHB    | 37.12      | 0.15THB    | Consumer Non-Durables  | −0.40%            |
+| IMH     | −9.66%     | 13.1THB | −1.4THB  | Sell                  | 3.349M   | 43.876M             | 3.109BTHB    | 8.64       | 1.68THB    | Health Services        | −0.85%            |
+| TKT     | −7.64%     | 2.66THB | −0.22THB | Buy                   | 27.685M  | 73.643M             | 684.806MTHB  | 21.40      | 0.14THB    | Producer Manufacturing | −0.37%            |
+| XPG     | −6.96%     | 1.47THB | −0.11THB | Sell                  | 63.612M  | 93.51M              | 14.781BTHB   | —          | −0.01THB   | Finance                | −0.13%            |
+| AHC     | −6.78%     | 16.5THB | −1.2THB  | Strong Sell           | 381.157K | 6.289M              | 2.653BTHB    | 8.90       | 1.99THB    | Health Services        | −0.85%            |
+| S&amp;J | −6.25%     | 2.10THB | −0.14THB | Strong Sell           | 1.952M   | 4.099M              | 1.36BTHB     | —          | −0.02THB   | Transportation         | +0.36%            |
+| KCC     | −6.07%     | 4.02THB | −0.26THB | Strong Sell           | 10.896M  | 43.801M             | 3.424BTHB    | —          | —          | Consumer Non-Durables  | −0.40%            |
+| FORTH   | −6.02%     | 7.80THB | −0.50THB | Strong Sell           | 7.937M   | 61.911M             | 5.561BTHB    | —          | —          | Consumer Non-Durables  | −0.40%            |

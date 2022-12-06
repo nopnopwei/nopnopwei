@@ -609,3 +609,16 @@
 | PRI    | 7.18%      | 19.4THB | 1.3THB   | —                     | 20.152M  | 390.947M            | 6.208BTHB    | —          | —          | Finance               | −0.26%            |
 | CPANEL | 6.42%      | 9.95THB | 0.60THB  | Strong Buy            | 3.063M   | 30.474M             | 1.592BTHB    | 25.11      | 0.38THB    | Non-Energy Minerals   | +0.38%            |
 | MGT    | 6.29%      | 3.72THB | 0.22THB  | Buy                   | 1.638M   | 6.094M              | 1.488BTHB    | 14.42      | 0.24THB    | Distribution Services | −0.27%            |
+2022-12-06 11:11:57.950 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|---------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| Q-CON  | 14.39%     | 7.55THB | 0.95THB  | Buy                   | 8.315M   | 62.777M             | 2.64BTHB     | 12.13      | 0.54THB    | Non-Energy Minerals    | −0.44%            |
+| TEAM   | 13.07%     | 9.95THB | 1.15THB  | Strong Buy            | 54.272M  | 540.005M            | 5.606BTHB    | 23.11      | 0.38THB    | Electronic Technology  | −3.45%            |
+| ABM    | 11.56%     | 2.22THB | 0.23THB  | Buy                   | 14.132M  | 31.372M             | 796MTHB      | 22.69      | 0.09THB    | Process Industries     | −0.56%            |
+| ATP30  | 8.15%      | 1.46THB | 0.11THB  | Buy                   | 9.463M   | 13.816M             | 921.119MTHB  | 23.44      | 0.06THB    | Transportation         | +0.36%            |
+| AURA   | 6.71%      | 15.9THB | 1.0THB   | —                     | 52.688M  | 837.733M            | 19.877BTHB   | —          | —          | Consumer Durables      | +0.82%            |
+| UP     | 6.64%      | 22.5THB | 1.4THB   | Buy                   | 600      | 13.5K               | 527.5MTHB    | 18.97      | 1.11THB    | Producer Manufacturing | −0.37%            |
+| KAMART | 6.00%      | 7.95THB | 0.45THB  | Strong Buy            | 9.69M    | 77.038M             | 6.6BTHB      | 24.70      | 0.30THB    | Distribution Services  | −0.12%            |
+| KWM    | 4.84%      | 2.60THB | 0.12THB  | Neutral               | 3.268M   | 8.496M              | 1.173BTHB    | 29.67      | 0.09THB    | Producer Manufacturing | −0.37%            |
+| NUSA   | 4.35%      | 1.20THB | 0.05THB  | Buy                   | 111.159M | 133.391M            | 13.388BTHB   | —          | −0.06THB   | Finance                | −0.13%            |
+| METCO  | 4.07%      | 281THB  | 11THB    | Strong Buy            | 59.081K  | 16.602M             | 5.642BTHB    | 8.01       | 33.72THB   | Distribution Services  | −0.12%            |
