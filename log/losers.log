@@ -622,3 +622,16 @@
 | S&amp;J | −6.25%     | 2.10THB | −0.14THB | Strong Sell           | 1.952M   | 4.099M              | 1.36BTHB     | —          | −0.02THB   | Transportation         | +0.36%            |
 | KCC     | −6.07%     | 4.02THB | −0.26THB | Strong Sell           | 10.896M  | 43.801M             | 3.424BTHB    | —          | —          | Consumer Non-Durables  | −0.40%            |
 | FORTH   | −6.02%     | 7.80THB | −0.50THB | Strong Sell           | 7.937M   | 61.911M             | 5.561BTHB    | —          | —          | Consumer Non-Durables  | −0.40%            |
+2022-12-07 11:12:02.253 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|------------|---------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| TEAM  | −12.56%    | 8.70THB | −1.25THB | Buy                   | 58.038M  | 504.927M            | 6.339BTHB    | 26.13      | 0.38THB    | Electronic Technology  | −3.16%            |
+| NBC   | −7.34%     | 2.02THB | −0.16THB | Sell                  | 4.916M   | 9.93M               | 2.451BTHB    | —          | −0.13THB   | Consumer Services      | −0.27%            |
+| FVC   | −6.94%     | 1.34THB | −0.10THB | Strong Sell           | 5.624M   | 7.536M              | 813.805MTHB  | 19.35      | 0.07THB    | Producer Manufacturing | −0.61%            |
+| III   | −6.57%     | 12.8THB | −0.9THB  | Strong Sell           | 4.169M   | 53.366M             | 8.779BTHB    | 19.56      | 0.79THB    | Transportation         | +0.39%            |
+| DELTA | −6.22%     | 694THB  | −46THB   | Buy                   | 2.844M   | 1.974B              | 923.062BTHB  | 69.67      | 10.62THB   | Electronic Technology  | −3.16%            |
+| SCI   | −5.80%     | 1.30THB | −0.08THB | Strong Sell           | 1.732M   | 2.251M              | 1.035BTHB    | —          | −0.21THB   | Producer Manufacturing | −0.61%            |
+| MATI  | −5.75%     | 8.20THB | −0.50THB | Sell                  | 500      | 4.1K                | 1.613BTHB    | 21.18      | 0.41THB    | Consumer Services      | −0.27%            |
+| TKT   | −5.26%     | 2.52THB | −0.14THB | Neutral               | 5.551M   | 13.988M             | 632.495MTHB  | 19.76      | 0.14THB    | Producer Manufacturing | −0.61%            |
+| SE    | −5.04%     | 1.32THB | −0.07THB | Neutral               | 8.052M   | 10.629M             | 910.712MTHB  | 13.72      | 0.10THB    | Producer Manufacturing | −0.61%            |
+| NUSA  | −5.00%     | 1.14THB | −0.06THB | Buy                   | 102.225M | 116.537M            | 13.97BTHB    | —          | −0.06THB   | Finance                | −0.02%            |

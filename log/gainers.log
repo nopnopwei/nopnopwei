@@ -622,3 +622,16 @@
 | KWM    | 4.84%      | 2.60THB | 0.12THB  | Neutral               | 3.268M   | 8.496M              | 1.173BTHB    | 29.67      | 0.09THB    | Producer Manufacturing | −0.37%            |
 | NUSA   | 4.35%      | 1.20THB | 0.05THB  | Buy                   | 111.159M | 133.391M            | 13.388BTHB   | —          | −0.06THB   | Finance                | −0.13%            |
 | METCO  | 4.07%      | 281THB  | 11THB    | Strong Buy            | 59.081K  | 16.602M             | 5.642BTHB    | 8.01       | 33.72THB   | Distribution Services  | −0.12%            |
+2022-12-07 11:12:02.247 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| A5     | 21.39%     | 4.20THB  | 0.74THB  | Strong Buy            | 82.972M  | 348.481M            | 4.184BTHB    | 43.58      | 0.08THB    | Finance               | −0.02%            |
+| Q-CON  | 11.92%     | 8.45THB  | 0.90THB  | Strong Buy            | 6.975M   | 58.94M              | 3.02BTHB     | 13.88      | 0.54THB    | Non-Energy Minerals   | +0.10%            |
+| CPANEL | 11.79%     | 10.90THB | 1.15THB  | Strong Buy            | 4.99M    | 54.387M             | 1.56BTHB     | 26.19      | 0.38THB    | Non-Energy Minerals   | +0.10%            |
+| PRAPAT | 7.64%      | 1.69THB  | 0.12THB  | Strong Buy            | 21.798M  | 36.838M             | 587.18MTHB   | 85.33      | 0.02THB    | Consumer Non-Durables | −0.20%            |
+| BRR    | 6.34%      | 7.55THB  | 0.45THB  | Strong Buy            | 12.333M  | 93.114M             | 5.766BTHB    | 6.13       | 1.16THB    | Process Industries    | −0.10%            |
+| MTW    | 6.32%      | 3.70THB  | 0.22THB  | —                     | 174.415M | 645.337M            | 1.173BTHB    | —          | —          | Consumer Non-Durables | −0.20%            |
+| NCAP   | 6.18%      | 3.78THB  | 0.22THB  | Buy                   | 35.349M  | 133.621M            | 4.806BTHB    | 21.85      | 0.16THB    | Finance               | −0.02%            |
+| SPI    | 5.97%      | 71.00THB | 4.00THB  | Buy                   | 53.8K    | 3.82M               | 38.317BTHB   | 12.66      | 5.29THB    | Finance               | −0.02%            |
+| AKP    | 5.70%      | 2.04THB  | 0.11THB  | Buy                   | 13.086M  | 26.696M             | 779.72MTHB   | 21.98      | 0.09THB    | Industrial Services   | +0.43%            |
+| SCAP   | 5.66%      | 28.00THB | 1.50THB  | Strong Buy            | 1.006M   | 28.181M             | 14.608BTHB   | 34.49      | 0.77THB    | Finance               | −0.02%            |

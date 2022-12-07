@@ -622,3 +622,16 @@
 | BANPU  | 97.581M  | 13.5THB | 1.50%      | 0.2THB   | Strong Buy            | 1.317B              | 89.989BTHB   | 2.52       | 6.54THB    | Energy Minerals       | −0.39%            |
 | IRPC   | 96.668M  | 3.00THB | −1.32%     | −0.04THB | Sell                  | 290.005M            | 62.048BTHB   | 12.46      | 0.24THB    | Energy Minerals       | −0.39%            |
 | GUNKUL | 93.348M  | 5.55THB | 1.83%      | 0.10THB  | Strong Buy            | 518.081M            | 48.41BTHB    | 14.54      | 0.37THB    | Utilities             | +0.72%            |
+2022-12-07 11:12:02.258 | INFO     | __main__:log_table:140 - 
+ |       | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| UBA   | 489.455M | 2.34THB  | —          | —        | —                     | 1.145B              | —            | —          | —          | —                     | -                 |
+| SIRI  | 473.953M | 1.70THB  | 3.66%      | 0.06THB  | Buy                   | 805.719M            | 24.413BTHB   | 9.86       | 0.17THB    | Finance               | −0.02%            |
+| TLI   | 220.388M | 15.1THB  | 0.00%      | 0.0THB   | Neutral               | 3.328B              | 172.895BTHB  | 19.88      | 0.76THB    | Finance               | −0.02%            |
+| MTW   | 174.415M | 3.70THB  | 6.32%      | 0.22THB  | —                     | 645.337M            | 1.173BTHB    | —          | —          | Consumer Non-Durables | −0.20%            |
+| PTT   | 112.613M | 32.25THB | −1.53%     | −0.50THB | Strong Sell           | 3.632B              | 935.438BTHB  | 9.26       | 3.54THB    | Energy Minerals       | −1.04%            |
+| TTB   | 107.916M | 1.38THB  | 0.00%      | 0.00THB  | Buy                   | 148.925M            | 133.34BTHB   | 10.21      | 0.14THB    | Finance               | −0.02%            |
+| BEM   | 107.008M | 9.45THB  | 2.72%      | 0.25THB  | Strong Buy            | 1.011B              | 140.622BTHB  | 63.10      | 0.15THB    | Transportation        | +0.39%            |
+| NUSA  | 102.225M | 1.14THB  | −5.00%     | −0.06THB | Buy                   | 116.537M            | 13.97BTHB    | —          | −0.06THB   | Finance               | −0.02%            |
+| IRPC  | 97.516M  | 3.00THB  | 0.00%      | 0.00THB  | Sell                  | 292.549M            | 61.232BTHB   | 12.30      | 0.24THB    | Energy Minerals       | −1.04%            |
+| BANPU | 91.798M  | 13.4THB  | −0.74%     | −0.1THB  | Buy                   | 1.23B               | 91.342BTHB   | 2.56       | 6.54THB    | Energy Minerals       | −1.04%            |
