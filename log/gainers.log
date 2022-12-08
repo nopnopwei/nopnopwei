@@ -635,3 +635,16 @@
 | SPI    | 5.97%      | 71.00THB | 4.00THB  | Buy                   | 53.8K    | 3.82M               | 38.317BTHB   | 12.66      | 5.29THB    | Finance               | −0.02%            |
 | AKP    | 5.70%      | 2.04THB  | 0.11THB  | Buy                   | 13.086M  | 26.696M             | 779.72MTHB   | 21.98      | 0.09THB    | Industrial Services   | +0.43%            |
 | SCAP   | 5.66%      | 28.00THB | 1.50THB  | Strong Buy            | 1.006M   | 28.181M             | 14.608BTHB   | 34.49      | 0.77THB    | Finance               | −0.02%            |
+2022-12-08 11:12:20.915 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|------------|---------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| TMC   | 14.81%     | 2.48THB | 0.32THB  | Strong Buy            | 27.704M  | 68.706M             | 990.951MTHB  | 14.32      | 0.15THB    | Producer Manufacturing | +0.71%            |
+| Q-CON | 12.43%     | 9.50THB | 1.05THB  | Buy                   | 36.183M  | 343.734M            | 3.38BTHB     | 15.53      | 0.54THB    | Non-Energy Minerals    | +0.71%            |
+| TPBI  | 12.00%     | 5.60THB | 0.60THB  | Strong Buy            | 12.89M   | 72.182M             | 2.084BTHB    | 12.41      | 0.40THB    | Process Industries     | −0.08%            |
+| TKT   | 9.52%      | 2.76THB | 0.24THB  | Strong Buy            | 37.193M  | 102.652M            | 599.206MTHB  | 18.72      | 0.14THB    | Producer Manufacturing | +0.71%            |
+| ROCK  | 8.28%      | 8.50THB | 0.65THB  | Buy                   | 100      | 850                 | 157MTHB      | —          | −0.80THB   | Producer Manufacturing | +0.71%            |
+| KWI   | 7.94%      | 2.72THB | 0.20THB  | Sell                  | 3.67M    | 9.981M              | 5.152BTHB    | —          | −0.08THB   | Finance                | +0.06%            |
+| PRI   | 7.58%      | 22.7THB | 1.6THB   | —                     | 27.246M  | 618.488M            | 6.752BTHB    | —          | —          | Finance                | +0.06%            |
+| TFM   | 7.26%      | 9.60THB | 0.65THB  | Buy                   | 1.404M   | 13.477M             | 4.475BTHB    | 33.88      | 0.26THB    | Process Industries     | −0.08%            |
+| AAI   | 6.04%      | 7.90THB | 0.45THB  | Buy                   | 44.837M  | 354.213M            | —            | —          | —          | Consumer Non-Durables  | −0.22%            |
+| MTW   | 5.95%      | 3.92THB | 0.22THB  | —                     | 109.392M | 428.817M            | 1.247BTHB    | —          | —          | Consumer Non-Durables  | −0.22%            |

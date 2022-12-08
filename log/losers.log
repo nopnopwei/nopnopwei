@@ -635,3 +635,16 @@
 | TKT   | −5.26%     | 2.52THB | −0.14THB | Neutral               | 5.551M   | 13.988M             | 632.495MTHB  | 19.76      | 0.14THB    | Producer Manufacturing | −0.61%            |
 | SE    | −5.04%     | 1.32THB | −0.07THB | Neutral               | 8.052M   | 10.629M             | 910.712MTHB  | 13.72      | 0.10THB    | Producer Manufacturing | −0.61%            |
 | NUSA  | −5.00%     | 1.14THB | −0.06THB | Buy                   | 102.225M | 116.537M            | 13.97BTHB    | —          | −0.06THB   | Finance                | −0.02%            |
+2022-12-08 11:12:20.923 | INFO     | __main__:log_table:140 - 
+ |         | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|---------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| FVC     | −5.45%     | 9.6THB   | −0.6THB  | Sell                  | 3.119M   | 29.787M             | 5.555BTHB    | 23.31      | 0.43THB    | Retail Trade           | −0.12%            |
+| S&amp;J | −5.41%     | 35.00THB | −2.00THB | Sell                  | 500      | 17.5K               | 4.44BTHB     | 54.26      | 0.68THB    | Consumer Non-Durables  | −0.22%            |
+| AUCT    | −5.30%     | 31.25THB | −1.75THB | Sell                  | 51.1K    | 1.597M              | 4.685BTHB    | 10.25      | 3.22THB    | Consumer Non-Durables  | −0.22%            |
+| WACOAL  | −5.00%     | 1.90THB  | −0.10THB | Strong Sell           | 21.2K    | 40.28K              | 2.29BTHB     | —          | −0.01THB   | Energy Minerals        | −1.52%            |
+| URBNPF  | −4.76%     | 5.00THB  | −0.25THB | Strong Sell           | 88.095K  | 440.475K            | 1.283BTHB    | 34.49      | 0.15THB    | Consumer Non-Durables  | −0.22%            |
+| UMS     | −4.48%     | 1.28THB  | −0.06THB | Sell                  | 7.656M   | 9.8M                | 757.291MTHB  | 18.01      | 0.07THB    | Producer Manufacturing | +0.71%            |
+| NPK     | −4.32%     | 15.5THB  | −0.7THB  | Buy                   | 200      | 3.1K                | 162MTHB      | —          | −3.67THB   | Consumer Non-Durables  | −0.22%            |
+| ESSO    | −4.17%     | 11.5THB  | −0.5THB  | Sell                  | 40.398M  | 464.58M             | 41.53BTHB    | 3.51       | 3.42THB    | Energy Minerals        | −1.52%            |
+| TH      | −4.02%     | 1.67THB  | −0.07THB | Strong Sell           | 927.711K | 1.549M              | 1.116BTHB    | 54.72      | 0.03THB    | Finance                | +0.06%            |
+| INSURE  | −3.91%     | 221THB   | −9THB    | Sell                  | 1.8K     | 397.8K              | 2.3BTHB      | 3.04       | 75.55THB   | Finance                | +0.06%            |

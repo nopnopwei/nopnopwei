@@ -635,3 +635,16 @@
 | NUSA  | 102.225M | 1.14THB  | −5.00%     | −0.06THB | Buy                   | 116.537M            | 13.97BTHB    | —          | −0.06THB   | Finance               | −0.02%            |
 | IRPC  | 97.516M  | 3.00THB  | 0.00%      | 0.00THB  | Sell                  | 292.549M            | 61.232BTHB   | 12.30      | 0.24THB    | Energy Minerals       | −1.04%            |
 | BANPU | 91.798M  | 13.4THB  | −0.74%     | −0.1THB  | Buy                   | 1.23B               | 91.342BTHB   | 2.56       | 6.54THB    | Energy Minerals       | −1.04%            |
+2022-12-08 11:12:20.932 | INFO     | __main__:log_table:140 - 
+ |      | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| SIRI | 533.059M | 1.76THB  | 3.53%      | 0.06THB  | Strong Buy            | 938.184M            | 25.306BTHB   | 10.22      | 0.17THB    | Finance               | +0.06%            |
+| BEM  | 213.538M | 9.60THB  | 1.59%      | 0.15THB  | Strong Buy            | 2.05B               | 144.443BTHB  | 64.81      | 0.15THB    | Transportation        | −0.14%            |
+| VGI  | 122.948M | 4.38THB  | 5.80%      | 0.24THB  | Buy                   | 538.512M            | 46.345BTHB   | —          | −0.01THB   | Commercial Services   | +1.89%            |
+| UBA  | 111.435M | 1.37THB  | −0.72%     | −0.01THB | Neutral               | 152.666M            | 133.34BTHB   | 10.21      | 0.14THB    | Finance               | +0.06%            |
+| MTW  | 109.392M | 3.92THB  | 5.95%      | 0.22THB  | —                     | 428.817M            | 1.247BTHB    | —          | —          | Consumer Non-Durables | −0.22%            |
+| TTB  | 108.993M | 2.28THB  | −2.56%     | −0.06THB | —                     | 248.504M            | —            | —          | —          | —                     | -                 |
+| WHA  | 100.359M | 3.88THB  | −0.51%     | −0.02THB | Buy                   | 389.395M            | 58.293BTHB   | 18.00      | 0.22THB    | Transportation        | −0.14%            |
+| PTT  | 77.593M  | 31.75THB | −1.55%     | −0.50THB | Strong Sell           | 2.464B              | 921.157BTHB  | 9.12       | 3.54THB    | Energy Minerals       | −1.52%            |
+| IRPC | 75.401M  | 28.25THB | −0.88%     | −0.25THB | Sell                  | 2.13B               | 452.922BTHB  | 37.34      | 0.76THB    | Health Services       | −0.90%            |
+| BDMS | 74.123M  | 2.98THB  | −0.67%     | −0.02THB | Strong Sell           | 220.888M            | 61.232BTHB   | 12.30      | 0.24THB    | Energy Minerals       | −1.52%            |
