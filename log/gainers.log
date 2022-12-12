@@ -674,3 +674,16 @@
 | BEC  | 4.81%      | 10.9THB  | 0.5THB   | Buy                   | 22.516M  | 245.43M             | 21.8BTHB     | 27.61      | 0.38THB    | Consumer Services      | +0.17%            |
 | JSP  | 4.76%      | 3.96THB  | 0.18THB  | Buy                   | 4.872M   | 19.292M             | 1.802BTHB    | —          | −0.05THB   | Health Technology      | +1.41%            |
 | NDR  | 4.72%      | 2.22THB  | 0.10THB  | Neutral               | 293.603K | 651.799K            | 770.099MTHB  | 82.49      | 0.03THB    | Distribution Services  | +0.37%            |
+2022-12-12 11:12:20.156 | INFO     | __main__:log_table:140 - 
+ |      | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| VARO | 12.43%     | 9.95THB  | 1.10THB  | Strong Buy            | 8.761M   | 87.174M             | 994.026MTHB  | —          | −0.41THB   | Producer Manufacturing | +0.62%            |
+| YONG | 8.91%      | 2.20THB  | 0.18THB  | Strong Buy            | 48.72M   | 107.183M            | 396MTHB      | 4.91       | 0.41THB    | Non-Energy Minerals    | −0.02%            |
+| TC   | 8.62%      | 12.6THB  | 1.0THB   | Neutral               | 19.7M    | 248.215M            | 4.158BTHB    | 8.25       | 1.41THB    | Consumer Non-Durables  | +0.16%            |
+| JTS  | 7.52%      | 35.75THB | 2.50THB  | Sell                  | 1.491M   | 53.294M             | 25.256BTHB   | 113.95     | 0.29THB    | Technology Services    | +2.50%            |
+| UBA  | 6.14%      | 2.42THB  | 0.14THB  | —                     | 90.399M  | 218.765M            | —            | —          | —          | Industrial Services    | +0.50%            |
+| TMC  | 4.84%      | 2.60THB  | 0.12THB  | Strong Buy            | 102.678M | 266.963M            | 1.193BTHB    | 16.45      | 0.15THB    | Producer Manufacturing | +0.62%            |
+| ILM  | 4.84%      | 19.5THB  | 0.9THB   | Strong Buy            | 2.474M   | 48.244M             | 9.848BTHB    | 14.99      | 1.24THB    | Retail Trade           | −0.53%            |
+| BEC  | 4.81%      | 10.9THB  | 0.5THB   | Buy                   | 22.516M  | 245.43M             | 21.8BTHB     | 27.61      | 0.38THB    | Consumer Services      | +0.17%            |
+| JSP  | 4.76%      | 3.96THB  | 0.18THB  | Buy                   | 4.872M   | 19.292M             | 1.802BTHB    | —          | −0.05THB   | Health Technology      | +1.41%            |
+| NDR  | 4.72%      | 2.22THB  | 0.10THB  | Neutral               | 293.603K | 651.799K            | 770.099MTHB  | 82.49      | 0.03THB    | Distribution Services  | +0.37%            |

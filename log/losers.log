@@ -674,3 +674,16 @@
 | SVI    | −4.50%     | 10.6THB  | −0.5THB  | Buy                   | 10.261M  | 108.762M            | 22.824BTHB   | 12.88      | 0.86THB    | Electronic Technology | +1.95%            |
 | TPA    | −4.10%     | 5.85THB  | −0.25THB | Strong Sell           | 500      | 2.925K              | 710.775MTHB  | —          | −0.16THB   | Process Industries    | +0.60%            |
 | CITY   | −3.70%     | 2.08THB  | −0.08THB | Sell                  | 118.1K   | 245.648K            | 624MTHB      | —          | −0.01THB   | Non-Energy Minerals   | −0.02%            |
+2022-12-12 11:12:20.164 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| TEAM   | −12.43%    | 7.40THB  | −1.05THB | Buy                   | 30.816M  | 228.042M            | 4.714BTHB    | 22.19      | 0.38THB    | Electronic Technology | +1.95%            |
+| THCOM  | −7.41%     | 12.5THB  | −1.0THB  | Buy                   | 73.978M  | 924.726M            | 13.701BTHB   | 36.21      | 0.37THB    | Communications        | −0.20%            |
+| CPANEL | −6.42%     | 10.2THB  | −0.7THB  | Buy                   | 2.409M   | 24.57M              | 1.632BTHB    | 29.28      | 0.38THB    | Non-Energy Minerals   | −0.02%            |
+| TKN    | −5.17%     | 11.0THB  | −0.6THB  | Buy                   | 11.075M  | 121.828M            | 15.18BTHB    | 40.22      | 0.29THB    | Consumer Non-Durables | +0.16%            |
+| AAI    | −5.06%     | 7.50THB  | −0.40THB | Strong Sell           | 40.656M  | 304.919M            | —            | —          | —          | Consumer Non-Durables | +0.16%            |
+| FE     | −5.03%     | 170.0THB | −9.0THB  | Sell                  | 100      | 17K                 | 1.338BTHB    | 21.63      | 7.86THB    | Commercial Services   | −0.52%            |
+| URBNPF | −4.72%     | 2.02THB  | −0.10THB | Strong Sell           | 3K       | 6.06K               | 145.44MTHB   | —          | −0.14THB   | Finance               | −0.00%            |
+| SVI    | −4.50%     | 10.6THB  | −0.5THB  | Buy                   | 10.261M  | 108.762M            | 22.824BTHB   | 12.88      | 0.86THB    | Electronic Technology | +1.95%            |
+| TPA    | −4.10%     | 5.85THB  | −0.25THB | Strong Sell           | 500      | 2.925K              | 710.775MTHB  | —          | −0.16THB   | Process Industries    | +0.60%            |
+| CITY   | −3.70%     | 2.08THB  | −0.08THB | Sell                  | 118.1K   | 245.648K            | 624MTHB      | —          | −0.01THB   | Non-Energy Minerals   | −0.02%            |

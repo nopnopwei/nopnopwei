@@ -50,7 +50,7 @@ The tables below are data of the Thai stock market that is fetched from [Trading
 <hr>
 <div align="center">
 
-README.md last auto updated on: `Sunday 11 December 2022`
+README.md last auto updated on: `Monday 12 December 2022`
 <br>
 </div>
     
