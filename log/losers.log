@@ -687,3 +687,16 @@
 | SVI    | −4.50%     | 10.6THB  | −0.5THB  | Buy                   | 10.261M  | 108.762M            | 22.824BTHB   | 12.88      | 0.86THB    | Electronic Technology | +1.95%            |
 | TPA    | −4.10%     | 5.85THB  | −0.25THB | Strong Sell           | 500      | 2.925K              | 710.775MTHB  | —          | −0.16THB   | Process Industries    | +0.60%            |
 | CITY   | −3.70%     | 2.08THB  | −0.08THB | Sell                  | 118.1K   | 245.648K            | 624MTHB      | —          | −0.01THB   | Non-Energy Minerals   | −0.02%            |
+2022-12-13 11:12:14.388 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| GSC   | −10.74%    | 2.16THB  | −0.26THB | —                     | 130.934M | 282.816M            | —            | —          | —          | Industrial Services   | −0.67%            |
+| NCAP  | −9.72%     | 1.96THB  | −0.22THB | Strong Sell           | 7.089M   | 13.823M             | 864MTHB      | 24.63      | 0.09THB    | Process Industries    | −0.53%            |
+| ABM   | −8.11%     | 2.04THB  | −0.18THB | Strong Sell           | 858K     | 1.75M               | 555MTHB      | 53.62      | 0.04THB    | Commercial Services   | −0.18%            |
+| Q-CON | −8.05%     | 1.37THB  | −0.12THB | Sell                  | 31.789M  | 43.551M             | 1.13BTHB     | —          | −0.29THB   | Finance               | +0.08%            |
+| MTW   | −8.02%     | 3.44THB  | −0.30THB | Neutral               | 22.707M  | 78.111M             | 5.049BTHB    | 22.96      | 0.16THB    | Finance               | +0.08%            |
+| UBA   | −7.85%     | 3.52THB  | −0.30THB | —                     | 25.446M  | 89.57M              | 1.287BTHB    | —          | —          | Consumer Non-Durables | +0.42%            |
+| PRI   | −6.29%     | 33.50THB | −2.25THB | Sell                  | 891.129K | 29.853M             | 25.256BTHB   | 122.52     | 0.29THB    | Technology Services   | −1.67%            |
+| NC    | −5.65%     | 16.7THB  | −1.0THB  | Strong Sell           | 3.619M   | 60.443M             | 14.998BTHB   | 16.67      | 1.06THB    | Distribution Services | −0.44%            |
+| BM    | −5.45%     | 5.20THB  | −0.30THB | Sell                  | 645.941K | 3.359M              | 3.3BTHB      | —          | −0.09THB   | Finance               | +0.08%            |
+| JTS   | −5.43%     | 3.48THB  | −0.20THB | Strong Sell           | 471.115K | 1.639M              | 14.205BTHB   | —          | −0.22THB   | Process Industries    | −0.53%            |
