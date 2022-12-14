@@ -700,3 +700,16 @@
 | NPK    | 5.88%      | 16.2THB  | 0.9THB   | Strong Buy            | 700      | 11.34K              | 153MTHB      | —          | −3.67THB   | Consumer Non-Durables  | +0.42%            |
 | TMC    | 5.38%      | 2.74THB  | 0.14THB  | Strong Buy            | 46.423M  | 127.199M            | 1.193BTHB    | 17.24      | 0.15THB    | Producer Manufacturing | −0.23%            |
 | CPANEL | 4.90%      | 10.7THB  | 0.5THB   | Buy                   | 1.175M   | 12.576M             | 1.632BTHB    | 27.40      | 0.38THB    | Non-Energy Minerals    | −0.47%            |
+2022-12-14 11:12:05.627 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| SIAM   | 29.66%     | 1.88THB  | 0.43THB  | Strong Buy            | 33.324M  | 62.649M             | 860.032MTHB  | —          | −0.03THB   | Producer Manufacturing | +0.03%            |
+| CRANE  | 15.33%     | 1.58THB  | 0.21THB  | Strong Buy            | 39.667M  | 62.673M             | 1.039BTHB    | —          | −0.29THB   | Finance                | +0.17%            |
+| FVC    | 9.09%      | 1.32THB  | 0.11THB  | Sell                  | 9.232M   | 12.186M             | 683.822MTHB  | 16.26      | 0.07THB    | Producer Manufacturing | +0.03%            |
+| SGC    | 8.00%      | 5.40THB  | 0.40THB  | —                     | 498.661M | 2.693B              | —            | —          | —          | Finance                | +0.17%            |
+| BBIK   | 7.41%      | 130.5THB | 9.0THB   | Strong Buy            | 1.097M   | 143.124M            | 12.15BTHB    | 103.31     | 1.18THB    | Commercial Services    | +0.56%            |
+| SENAJ  | 6.48%      | 1.15THB  | 0.07THB  | Neutral               | 23.9M    | 27.485M             | 4.536BTHB    | —          | −0.05THB   | Finance                | +0.17%            |
+| KAMART | 5.88%      | 8.10THB  | 0.45THB  | Buy                   | 10.18M   | 82.459M             | 6.732BTHB    | 25.19      | 0.30THB    | Distribution Services  | +0.40%            |
+| ARIN   | 5.77%      | 5.50THB  | 0.30THB  | Neutral               | 199.5K   | 1.097M              | 3.12BTHB     | —          | −0.09THB   | Finance                | +0.17%            |
+| THCOM  | 5.56%      | 13.3THB  | 0.7THB   | Strong Buy            | 31.889M  | 424.118M            | 13.811BTHB   | 33.80      | 0.37THB    | Communications         | +0.61%            |
+| CMO    | 5.53%      | 4.58THB  | 0.24THB  | Buy                   | 2.21M    | 10.12M              | 1.219BTHB    | —          | −0.20THB   | Commercial Services    | +0.56%            |
