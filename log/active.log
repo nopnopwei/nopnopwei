@@ -713,3 +713,16 @@
 | BEM   | 75.301M  | 9.60THB  | 0.00%      | 0.00THB  | Buy                   | 722.892M            | 146.736BTHB  | 65.84      | 0.15THB    | Transportation      | +0.19%            |
 | VGI   | 75.253M  | 4.60THB  | 2.22%      | 0.10THB  | Buy                   | 346.164M            | 50.375BTHB   | —          | −0.01THB   | Commercial Services | +0.56%            |
 | IRPC  | 66.553M  | 2.98THB  | 0.68%      | 0.02THB  | Sell                  | 198.329M            | 60.415BTHB   | 12.13      | 0.24THB    | Energy Minerals     | +0.05%            |
+2022-12-15 11:12:09.558 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector              | Sector Chg % 1D   |
+|--------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|---------------------|-------------------|
+| DTCENT | 771.756M | 2.48THB  | —          | —        | —                     | 1.914B              | —            | —          | —          | —                   | -                 |
+| SGC    | 256.43M  | 4.95THB  | −8.52%     | −0.45THB | —                     | 1.267B              | 16.35BTHB    | —          | —          | Finance             | −0.32%            |
+| SIRI   | 245.999M | 1.75THB  | −1.13%     | −0.02THB | Buy                   | 430.499M            | 26.348BTHB   | 10.64      | 0.17THB    | Finance             | −0.32%            |
+| GUNKUL | 154.984M | 5.15THB  | −4.63%     | −0.25THB | Strong Sell           | 798.167M            | 47.966BTHB   | 14.41      | 0.37THB    | Utilities           | −0.03%            |
+| TTB    | 150.261M | 1.38THB  | 0.00%      | 0.00THB  | Buy                   | 207.361M            | 133.34BTHB   | 10.21      | 0.14THB    | Finance             | −0.32%            |
+| BLAND  | 139.56M  | 1.05THB  | −0.94%     | −0.01THB | Buy                   | 146.538M            | 18.371BTHB   | 18.09      | 0.06THB    | Finance             | −0.32%            |
+| STARK  | 122.122M | 2.74THB  | −8.67%     | −0.26THB | Strong Sell           | 334.613M            | 35.719BTHB   | 11.43      | 0.26THB    | Finance             | −0.32%            |
+| WHA    | 116.156M | 3.92THB  | −0.51%     | −0.02THB | Buy                   | 455.332M            | 58.891BTHB   | 18.18      | 0.22THB    | Transportation      | −1.23%            |
+| PLANB  | 101.968M | 7.55THB  | −5.03%     | −0.40THB | Sell                  | 769.859M            | 34.021BTHB   | 53.97      | 0.15THB    | Commercial Services | −2.50%            |
+| PTT    | 96.856M  | 31.50THB | −0.79%     | −0.25THB | Strong Sell           | 3.051B              | 906.875BTHB  | 8.98       | 3.54THB    | Energy Minerals     | −0.30%            |

@@ -713,3 +713,16 @@
 | ARIN   | 5.77%      | 5.50THB  | 0.30THB  | Neutral               | 199.5K   | 1.097M              | 3.12BTHB     | —          | −0.09THB   | Finance                | +0.17%            |
 | THCOM  | 5.56%      | 13.3THB  | 0.7THB   | Strong Buy            | 31.889M  | 424.118M            | 13.811BTHB   | 33.80      | 0.37THB    | Communications         | +0.61%            |
 | CMO    | 5.53%      | 4.58THB  | 0.24THB  | Buy                   | 2.21M    | 10.12M              | 1.219BTHB    | —          | −0.20THB   | Commercial Services    | +0.56%            |
+2022-12-15 11:12:09.546 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| IND   | 18.57%     | 1.66THB  | 0.26THB  | Buy                   | 82.226M  | 136.495M            | 486.5MTHB    | 9.00       | 0.16THB    | Industrial Services   | −0.18%            |
+| GIFT  | 12.07%     | 6.50THB  | 0.70THB  | Strong Buy            | 3.694M   | 24.013M             | 1.919BTHB    | —          | −0.06THB   | Distribution Services | +0.27%            |
+| SMK   | 7.24%      | 4.74THB  | 0.32THB  | Sell                  | 896.351K | 4.249M              | 884MTHB      | —          | −167.55THB | Finance               | −0.32%            |
+| BTNC  | 6.56%      | 13.0THB  | 0.8THB   | Buy                   | 1.5K     | 19.5K               | 146.4MTHB    | —          | −0.11THB   | Retail Trade          | −1.12%            |
+| VL    | 6.45%      | 1.65THB  | 0.10THB  | Buy                   | 23.914M  | 39.457M             | 1.579BTHB    | 71.43      | 0.02THB    | Transportation        | −1.23%            |
+| DEMCO | 5.98%      | 6.20THB  | 0.35THB  | Buy                   | 9.506M   | 58.934M             | 4.273BTHB    | —          | −0.11THB   | Industrial Services   | −0.18%            |
+| BBIK  | 5.75%      | 138.0THB | 7.5THB   | Strong Buy            | 1.385M   | 191.076M            | 13.05BTHB    | 110.96     | 1.18THB    | Commercial Services   | −2.50%            |
+| TTT   | 5.58%      | 52.00THB | 2.75THB  | Strong Buy            | 3.162K   | 164.424K            | 2.849BTHB    | 63.69      | 0.77THB    | Process Industries    | +0.77%            |
+| AF    | 5.05%      | 1.04THB  | 0.05THB  | Strong Buy            | 2.592M   | 2.695M              | 1.584BTHB    | 30.56      | 0.03THB    | Retail Trade          | −1.12%            |
+| STI   | 4.85%      | 5.40THB  | 0.25THB  | Strong Buy            | 2.619M   | 14.143M             | 3.105BTHB    | 22.48      | 0.23THB    | Commercial Services   | −2.50%            |

@@ -713,3 +713,16 @@
 | SVT    | −5.13%     | 1.85THB | −0.10THB | Strong Sell           | 7.898M   | 14.611M             | 780MTHB      | 22.23      | 0.09THB    | Process Industries     | +0.71%            |
 | UBA    | −4.92%     | 8.70THB | −0.45THB | Buy                   | 9.06M    | 78.824M             | 3.66BTHB     | 16.82      | 0.54THB    | Non-Energy Minerals    | +1.01%            |
 | ABM    | −4.73%     | 3.22THB | −0.16THB | Strong Sell           | 6.952M   | 22.385M             | 2.366BTHB    | 35.17      | 0.10THB    | Consumer Non-Durables  | +0.42%            |
+2022-12-15 11:12:09.552 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| PROEN  | −15.85%    | 6.90THB  | −1.30THB | Strong Sell           | 66.478M  | 458.697M            | 2.591BTHB    | 45.96      | 0.20THB    | Technology Services    | −0.12%            |
+| STARK  | −8.67%     | 2.74THB  | −0.26THB | Strong Sell           | 122.122M | 334.613M            | 35.719BTHB   | 11.43      | 0.26THB    | Finance                | −0.32%            |
+| SGC    | −8.52%     | 4.95THB  | −0.45THB | —                     | 256.43M  | 1.267B              | 16.35BTHB    | —          | —          | Finance                | −0.32%            |
+| MVP    | −8.26%     | 2.22THB  | −0.20THB | Strong Sell           | 1.143M   | 2.538M              | 743.186MTHB  | —          | −0.02THB   | Commercial Services    | −2.50%            |
+| SINGER | −8.06%     | 28.50THB | −2.50THB | Strong Sell           | 12.997M  | 370.417M            | 25.143BTHB   | 24.25      | 1.29THB    | Distribution Services  | +0.27%            |
+| VARO   | −6.95%     | 8.70THB  | −0.65THB | Buy                   | 1.029M   | 8.956M              | 934.085MTHB  | —          | −0.41THB   | Producer Manufacturing | −0.80%            |
+| NCAP   | −6.94%     | 3.22THB  | −0.24THB | Sell                  | 15.928M  | 51.288M             | 4.671BTHB    | 21.24      | 0.16THB    | Finance                | −0.32%            |
+| TH     | −6.84%     | 2.18THB  | −0.16THB | Strong Sell           | 11.061M  | 24.112M             | 2.258BTHB    | 10.10      | 0.25THB    | Finance                | −0.32%            |
+| UBA    | −6.80%     | 1.92THB  | −0.14THB | —                     | 27.425M  | 52.656M             | —            | —          | —          | Industrial Services    | −0.18%            |
+| TMI    | −6.54%     | 1.43THB  | −0.10THB | Strong Sell           | 3.655M   | 5.227M              | 1.027BTHB    | 40.69      | 0.04THB    | Producer Manufacturing | −0.80%            |
