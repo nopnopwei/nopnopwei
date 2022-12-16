@@ -726,3 +726,16 @@
 | WHA    | 116.156M | 3.92THB  | −0.51%     | −0.02THB | Buy                   | 455.332M            | 58.891BTHB   | 18.18      | 0.22THB    | Transportation      | −1.23%            |
 | PLANB  | 101.968M | 7.55THB  | −5.03%     | −0.40THB | Sell                  | 769.859M            | 34.021BTHB   | 53.97      | 0.15THB    | Commercial Services | −2.50%            |
 | PTT    | 96.856M  | 31.50THB | −0.79%     | −0.25THB | Strong Sell           | 3.051B              | 906.875BTHB  | 8.98       | 3.54THB    | Energy Minerals     | −0.30%            |
+2022-12-16 11:11:26.115 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| STARK  | 591.021M | 2.48THB | −9.49%     | −0.26THB | Strong Sell           | 1.466B              | 32.624BTHB   | 10.44      | 0.26THB    | Finance               | −0.45%            |
+| SIRI   | 487.683M | 1.83THB | 4.57%      | 0.08THB  | Strong Buy            | 892.46M             | 26.05BTHB    | 10.52      | 0.17THB    | Finance               | −0.45%            |
+| AWC    | 241.417M | 6.15THB | 0.00%      | 0.00THB  | Neutral               | 1.485B              | 196.805BTHB  | 57.64      | 0.11THB    | Finance               | −0.45%            |
+| SGC    | 229.978M | 2.92THB | 0.00%      | 0.00THB  | Sell                  | 671.536M            | 33.851BTHB   | —          | −1.10THB   | Transportation        | +0.05%            |
+| DTCENT | 219.077M | 5.00THB | 1.21%      | 0.06THB  | —                     | 1.095B              | 17.658BTHB   | —          | —          | Finance               | −0.45%            |
+| BEM    | 167.616M | 2.28THB | −8.06%     | −0.20THB | —                     | 382.163M            | —            | —          | —          | Technology Services   | +0.66%            |
+| UKEM   | 148.73M  | 9.65THB | 0.52%      | 0.05THB  | Buy                   | 1.435B              | 146.736BTHB  | 65.84      | 0.15THB    | Transportation        | +0.05%            |
+| PLANB  | 113.488M | 1.71THB | 8.23%      | 0.13THB  | Buy                   | 194.064M            | 1.719BTHB    | 93.49      | 0.02THB    | Distribution Services | −0.84%            |
+| CPF    | 108.544M | 15.2THB | −1.30%     | −0.2THB  | Sell                  | 1.65B               | 176.33BTHB   | 20.28      | 0.76THB    | Finance               | −0.45%            |
+| OR     | 107.066M | 1.36THB | −1.45%     | −0.02THB | Sell                  | 145.61M             | 133.34BTHB   | 10.21      | 0.14THB    | Finance               | −0.45%            |

@@ -726,3 +726,16 @@
 | TTT   | 5.58%      | 52.00THB | 2.75THB  | Strong Buy            | 3.162K   | 164.424K            | 2.849BTHB    | 63.69      | 0.77THB    | Process Industries    | +0.77%            |
 | AF    | 5.05%      | 1.04THB  | 0.05THB  | Strong Buy            | 2.592M   | 2.695M              | 1.584BTHB    | 30.56      | 0.03THB    | Retail Trade          | −1.12%            |
 | STI   | 4.85%      | 5.40THB  | 0.25THB  | Strong Buy            | 2.619M   | 14.143M             | 3.105BTHB    | 22.48      | 0.23THB    | Commercial Services   | −2.50%            |
+2022-12-16 11:11:26.103 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| GIFT  | 20.00%     | 7.80THB  | 1.30THB  | Strong Buy            | 22.224M  | 173.345M            | 2.15BTHB     | —          | −0.06THB   | Distribution Services | −0.84%            |
+| UKEM  | 8.23%      | 1.71THB  | 0.13THB  | Buy                   | 113.488M | 194.064M            | 1.719BTHB    | 93.49      | 0.02THB    | Distribution Services | −0.84%            |
+| JTS   | 7.75%      | 34.75THB | 2.50THB  | Sell                  | 1.058M   | 36.755M             | 22.783BTHB   | 110.52     | 0.29THB    | Technology Services   | +0.66%            |
+| TIGER | 7.10%      | 1.81THB  | 0.12THB  | Sell                  | 68.02K   | 123.116K            | 777.4MTHB    | 46.94      | 0.04THB    | Finance               | −0.45%            |
+| AURA  | 6.25%      | 17.0THB  | 1.0THB   | Strong Buy            | 67.608M  | 1.149B              | 21.744BTHB   | —          | —          | Consumer Durables     | −0.20%            |
+| SENAJ | 6.19%      | 1.20THB  | 0.07THB  | Buy                   | 47.667M  | 57.2M               | 4.746BTHB    | —          | −0.05THB   | Finance               | −0.45%            |
+| MENA  | 5.00%      | 1.47THB  | 0.07THB  | Strong Buy            | 36.075M  | 53.03M              | 1.028BTHB    | 23.33      | 0.06THB    | Transportation        | +0.05%            |
+| SIRI  | 4.57%      | 1.83THB  | 0.08THB  | Strong Buy            | 487.683M | 892.46M             | 26.05BTHB    | 10.52      | 0.17THB    | Finance               | −0.45%            |
+| RCL   | 4.35%      | 30.00THB | 1.25THB  | Neutral               | 6.384M   | 191.511M            | 23.827BTHB   | 0.79       | 36.34THB   | Transportation        | +0.05%            |
+| PRI   | 4.27%      | 22.0THB  | 0.9THB   | Neutral               | 3.852M   | 84.746M             | 7.04BTHB     | —          | —          | Finance               | −0.45%            |

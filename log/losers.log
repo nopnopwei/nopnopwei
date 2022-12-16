@@ -726,3 +726,16 @@
 | TH     | −6.84%     | 2.18THB  | −0.16THB | Strong Sell           | 11.061M  | 24.112M             | 2.258BTHB    | 10.10      | 0.25THB    | Finance                | −0.32%            |
 | UBA    | −6.80%     | 1.92THB  | −0.14THB | —                     | 27.425M  | 52.656M             | —            | —          | —          | Industrial Services    | −0.18%            |
 | TMI    | −6.54%     | 1.43THB  | −0.10THB | Strong Sell           | 3.655M   | 5.227M              | 1.027BTHB    | 40.69      | 0.04THB    | Producer Manufacturing | −0.80%            |
+2022-12-16 11:11:26.109 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| STARK  | −9.49%     | 2.48THB  | −0.26THB | Strong Sell           | 591.021M | 1.466B              | 32.624BTHB   | 10.44      | 0.26THB    | Finance                | −0.45%            |
+| SIAM   | −8.11%     | 59.50THB | −5.25THB | Strong Sell           | 3.473M   | 206.663M            | 34.188BTHB   | 129.14     | 0.51THB    | Distribution Services  | −0.84%            |
+| MATI   | −8.06%     | 2.28THB  | −0.20THB | —                     | 167.616M | 382.163M            | —            | —          | —          | Technology Services    | +0.66%            |
+| IND    | −7.30%     | 1.65THB  | −0.13THB | Buy                   | 6.616M   | 10.917M             | 1.056BTHB    | —          | −0.03THB   | Producer Manufacturing | −0.01%            |
+| DITTO  | −7.23%     | 1.54THB  | −0.12THB | Sell                  | 13.205M  | 20.336M             | 490MTHB      | 10.67      | 0.16THB    | Industrial Services    | +0.09%            |
+| TEAM   | −5.94%     | 9.5THB   | −0.6THB  | Sell                  | 2.116M   | 20.104M             | 2.323BTHB    | 44.18      | 0.23THB    | Process Industries     | −0.06%            |
+| DPAINT | −5.47%     | 30.25THB | −1.75THB | Strong Sell           | 3.876M   | 117.24M             | 29.932BTHB   | 37.20      | 0.86THB    | Electronic Technology  | −2.14%            |
+| ADD    | −5.17%     | 11.0THB  | −0.6THB  | Buy                   | 600      | 6.6K                | 173.432MTHB  | 31.35      | 0.37THB    | Retail Trade           | −0.28%            |
+| SECURE | −5.13%     | 14.8THB  | −0.8THB  | Strong Sell           | 592.13K  | 8.764M              | 1.603BTHB    | 43.58      | 0.36THB    | Technology Services    | +0.66%            |
+| DUSIT  | −5.06%     | 7.50THB  | −0.40THB | Neutral               | 13.301M  | 99.761M             | 5.033BTHB    | 20.75      | 0.38THB    | Electronic Technology  | −2.14%            |
