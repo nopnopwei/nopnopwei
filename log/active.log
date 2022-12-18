@@ -752,3 +752,16 @@
 | UKEM   | 113.488M | 1.71THB | 8.23%      | 0.13THB  | Buy                   | 194.064M            | 1.86BTHB     | 93.49      | 0.02THB    | Distribution Services | −1.42%            |
 | TLI    | 108.544M | 15.2THB | −1.30%     | −0.2THB  | Sell                  | 1.65B               | 176.33BTHB   | 20.28      | 0.76THB    | Finance               | −0.12%            |
 | TTB    | 107.066M | 1.36THB | −1.45%     | −0.02THB | Sell                  | 145.61M             | 131.407BTHB  | 10.21      | 0.14THB    | Finance               | −0.12%            |
+2022-12-18 11:10:34.627 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| STARK  | 591.021M | 2.48THB | −9.49%     | −0.26THB | Strong Sell           | 1.466B              | 29.528BTHB   | 10.44      | 0.26THB    | Finance               | −0.11%            |
+| SIRI   | 487.683M | 1.83THB | 4.57%      | 0.08THB  | Strong Buy            | 892.46M             | 27.241BTHB   | 10.52      | 0.17THB    | Finance               | −0.11%            |
+| AWC    | 241.417M | 6.15THB | 0.00%      | 0.00THB  | Neutral               | 1.485B              | 196.805BTHB  | 57.64      | 0.11THB    | Finance               | −0.11%            |
+| AAV    | 229.978M | 2.92THB | 0.00%      | 0.00THB  | Sell                  | 671.536M            | 33.851BTHB   | —          | −1.10THB   | Transportation        | +0.41%            |
+| SGC    | 219.077M | 5.00THB | 1.21%      | 0.06THB  | —                     | 1.095B              | 16.35BTHB    | —          | —          | Finance               | −0.11%            |
+| DTCENT | 167.616M | 2.28THB | −8.06%     | −0.20THB | —                     | 382.163M            | 2.747BTHB    | —          | —          | Technology Services   | +1.10%            |
+| BEM    | 148.73M  | 9.65THB | 0.52%      | 0.05THB  | Buy                   | 1.435B              | 147.5BTHB    | 65.84      | 0.15THB    | Transportation        | +0.41%            |
+| UKEM   | 113.488M | 1.71THB | 8.23%      | 0.13THB  | Buy                   | 194.064M            | 1.86BTHB     | 93.49      | 0.02THB    | Distribution Services | −1.40%            |
+| TLI    | 108.544M | 15.2THB | −1.30%     | −0.2THB  | Sell                  | 1.65B               | 174.04BTHB   | 20.28      | 0.76THB    | Finance               | −0.11%            |
+| TTB    | 107.066M | 1.36THB | −1.45%     | −0.02THB | Sell                  | 145.61M             | 131.407BTHB  | 10.21      | 0.14THB    | Finance               | −0.11%            |
