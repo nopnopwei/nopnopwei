@@ -765,3 +765,16 @@
 | NC     | −5.17%     | 11.0THB  | −0.6THB  | Buy                   | 600      | 6.6K                | 164.461MTHB  | 31.35      | 0.37THB    | Retail Trade           | +0.81%            |
 | SECURE | −5.13%     | 14.8THB  | −0.8THB  | Strong Sell           | 592.13K  | 8.764M              | 1.521BTHB    | 43.58      | 0.36THB    | Technology Services    | +1.10%            |
 | TEAM   | −5.06%     | 7.50THB  | −0.40THB | Neutral               | 13.301M  | 99.761M             | 4.778BTHB    | 20.75      | 0.38THB    | Electronic Technology  | −2.61%            |
+2022-12-19 11:11:42.994 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|---------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| 24CS   | −16.43%    | 5.85THB | −1.15THB | Strong Sell           | 25.24M   | 147.654M            | 2.212BTHB    | 39.24      | 0.20THB    | Technology Services    | +4.55%            |
+| UREKA  | −8.92%     | 2.86THB | −0.28THB | Strong Sell           | 5.041M   | 14.416M             | 1.35BTHB     | —          | —          | Distribution Services  | +0.24%            |
+| WICE   | −8.41%     | 9.8THB  | −0.9THB  | Strong Sell           | 17.572M  | 172.201M            | 6.975BTHB    | 10.93      | 0.98THB    | Transportation         | +0.23%            |
+| SECURE | −8.11%     | 13.6THB | −1.2THB  | Strong Sell           | 1.183M   | 16.09M              | 1.521BTHB    | 41.34      | 0.36THB    | Technology Services    | +4.55%            |
+| STARK  | −8.06%     | 2.28THB | −0.20THB | Strong Sell           | 290.783M | 662.984M            | 29.528BTHB   | 9.45       | 0.26THB    | Finance                | −0.11%            |
+| KK     | −7.21%     | 1.03THB | −0.08THB | Strong Sell           | 18.834M  | 19.399M             | 1.541BTHB    | 14.47      | 0.08THB    | Producer Manufacturing | −0.77%            |
+| ESSO   | −7.14%     | 1.30THB | −0.10THB | Sell                  | 37.5K    | 48.75K              | 947.38MTHB   | 85.89      | 0.02THB    | Producer Manufacturing | −0.77%            |
+| LEO    | −5.98%     | 5.50THB | −0.35THB | Sell                  | 1.152M   | 6.336M              | 6.364BTHB    | 15.05      | 0.39THB    | Distribution Services  | +0.24%            |
+| PTTEP  | −5.76%     | 13.1THB | −0.8THB  | Strong Sell           | 19.517M  | 255.667M            | 28.632BTHB   | 16.88      | 0.82THB    | Health Services        | +0.12%            |
+| SVT    | −5.04%     | 13.2THB | −0.7THB  | Neutral               | 8.31K    | 109.692K            | 333.6MTHB    | —          | −1.33THB   | Consumer Durables      | +0.33%            |

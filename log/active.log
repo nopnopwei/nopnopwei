@@ -765,3 +765,16 @@
 | UKEM   | 113.488M | 1.71THB | 8.23%      | 0.13THB  | Buy                   | 194.064M            | 1.86BTHB     | 93.49      | 0.02THB    | Distribution Services | −1.40%            |
 | TLI    | 108.544M | 15.2THB | −1.30%     | −0.2THB  | Sell                  | 1.65B               | 174.04BTHB   | 20.28      | 0.76THB    | Finance               | −0.11%            |
 | TTB    | 107.066M | 1.36THB | −1.45%     | −0.02THB | Sell                  | 145.61M             | 131.407BTHB  | 10.21      | 0.14THB    | Finance               | −0.11%            |
+2022-12-19 11:11:43.000 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector              | Sector Chg % 1D   |
+|--------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|---------------------|-------------------|
+| SIRI   | 494.204M | 1.80THB | −1.64%     | −0.03THB | Buy                   | 889.568M            | 27.241BTHB   | 11.00      | 0.17THB    | Finance             | −0.11%            |
+| AWC    | 361.41M  | 6.20THB | 0.81%      | 0.05THB  | Buy                   | 2.241B              | 196.805BTHB  | 57.64      | 0.11THB    | Finance             | −0.11%            |
+| STARK  | 290.783M | 2.28THB | −8.06%     | −0.20THB | Strong Sell           | 662.984M            | 29.528BTHB   | 9.45       | 0.26THB    | Finance             | −0.11%            |
+| TTB    | 93.27M   | 1.35THB | −0.74%     | −0.01THB | Sell                  | 125.914M            | 131.407BTHB  | 10.06      | 0.14THB    | Finance             | −0.11%            |
+| IRPC   | 91.399M  | 2.88THB | −1.37%     | −0.04THB | Strong Sell           | 263.228M            | 59.599BTHB   | 11.97      | 0.24THB    | Energy Minerals     | −1.39%            |
+| TRUE   | 84.956M  | 4.78THB | 0.84%      | 0.04THB  | Buy                   | 406.092M            | 158.051BTHB  | —          | −0.15THB   | Communications      | +0.77%            |
+| ECL    | 82.02M   | 2.02THB | 1.00%      | 0.02THB  | Neutral               | 165.681M            | 2.218BTHB    | 10.54      | 0.19THB    | Finance             | −0.11%            |
+| ESSO   | 77.35M   | 11.9THB | −1.65%     | −0.2THB  | Sell                  | 920.46M             | 41.876BTHB   | 3.54       | 3.42THB    | Energy Minerals     | −1.39%            |
+| NUSA   | 76.468M  | 1.21THB | 3.42%      | 0.04THB  | Buy                   | 92.527M             | 13.62BTHB    | —          | −0.06THB   | Finance             | −0.11%            |
+| DTCENT | 66.193M  | 2.20THB | −3.51%     | −0.08THB | —                     | 145.625M            | 2.747BTHB    | —          | —          | Technology Services | +4.55%            |

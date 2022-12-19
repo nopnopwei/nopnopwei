@@ -765,3 +765,16 @@
 | SIRI  | 4.57%      | 1.83THB  | 0.08THB  | Strong Buy            | 487.683M | 892.46M             | 27.241BTHB   | 10.52      | 0.17THB    | Finance               | −0.11%            |
 | RCL   | 4.35%      | 30.00THB | 1.25THB  | Neutral               | 6.384M   | 191.511M            | 24.863BTHB   | 0.79       | 36.34THB   | Transportation        | +0.41%            |
 | PRI   | 4.27%      | 22.0THB  | 0.9THB   | Neutral               | 3.852M   | 84.746M             | 7.04BTHB     | —          | —          | Finance               | −0.11%            |
+2022-12-19 11:11:42.988 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| JTS    | 21.58%     | 42.25THB | 7.50THB  | Buy                   | 5.267M   | 222.533M            | 24.549BTHB   | 119.09     | 0.29THB    | Technology Services    | +4.55%            |
+| SIAM   | 18.18%     | 1.95THB  | 0.30THB  | Strong Buy            | 57.244M  | 111.626M            | 978.658MTHB  | —          | −0.03THB   | Producer Manufacturing | −0.77%            |
+| BRR    | 18.18%     | 8.45THB  | 1.30THB  | Strong Buy            | 28.488M  | 240.72M             | 5.807BTHB    | 6.17       | 1.16THB    | Process Industries     | −0.31%            |
+| Q-CON  | 14.12%     | 10.10THB | 1.25THB  | Strong Buy            | 12.45M   | 125.748M            | 3.54BTHB     | 16.27      | 0.54THB    | Non-Energy Minerals    | −0.03%            |
+| GIFT   | 10.26%     | 8.60THB  | 0.80THB  | Buy                   | 13.16M   | 113.172M            | 2.58BTHB     | —          | −0.06THB   | Distribution Services  | +0.24%            |
+| SCI    | 9.52%      | 1.38THB  | 0.12THB  | Neutral               | 12.127M  | 16.735M             | 945MTHB      | —          | −0.21THB   | Producer Manufacturing | −0.77%            |
+| CRANE  | 7.69%      | 1.68THB  | 0.12THB  | Strong Buy            | 17.262M  | 29.001M             | 1.183BTHB    | —          | −0.29THB   | Finance                | −0.11%            |
+| IND    | 7.14%      | 1.65THB  | 0.11THB  | Buy                   | 15.947M  | 26.312M             | 539MTHB      | 9.90       | 0.16THB    | Industrial Services    | −0.51%            |
+| SINGER | 6.36%      | 29.25THB | 1.75THB  | Sell                  | 10.561M  | 308.906M            | 22.304BTHB   | 21.51      | 1.29THB    | Distribution Services  | +0.24%            |
+| PRI    | 5.91%      | 23.3THB  | 1.3THB   | Strong Buy            | 7.771M   | 181.069M            | 7.04BTHB     | —          | —          | Finance                | −0.11%            |
