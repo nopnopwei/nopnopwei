@@ -778,3 +778,16 @@
 | ESSO   | 77.35M   | 11.9THB | −1.65%     | −0.2THB  | Sell                  | 920.46M             | 41.876BTHB   | 3.54       | 3.42THB    | Energy Minerals     | −1.39%            |
 | NUSA   | 76.468M  | 1.21THB | 3.42%      | 0.04THB  | Buy                   | 92.527M             | 13.62BTHB    | —          | −0.06THB   | Finance             | −0.11%            |
 | DTCENT | 66.193M  | 2.20THB | −3.51%     | −0.08THB | —                     | 145.625M            | 2.747BTHB    | —          | —          | Technology Services | +4.55%            |
+2022-12-20 11:11:43.395 | INFO     | __main__:log_table:140 - 
+ |       | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector             | Sector Chg % 1D   |
+|-------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|--------------------|-------------------|
+| SM    | 1.258B   | 2.20THB  | —          | —        | —                     | 2.768B              | —            | —          | —          | —                  | -                 |
+| SM.R  | 1.258B   | 2.20THB  | —          | —        | —                     | 2.768B              | —            | —          | —          | —                  | -                 |
+| STARK | 339.433M | 2.34THB  | 2.63%      | 0.06THB  | Sell                  | 794.273M            | 27.147BTHB   | 8.69       | 0.26THB    | Finance            | −0.72%            |
+| TTB   | 173.272M | 1.36THB  | 0.74%      | 0.01THB  | Neutral               | 235.65M             | 130.441BTHB  | 9.99       | 0.14THB    | Finance            | −0.72%            |
+| SIRI  | 167.874M | 1.75THB  | −2.78%     | −0.05THB | Buy                   | 293.78M             | 26.795BTHB   | 10.82      | 0.17THB    | Finance            | −0.72%            |
+| JAS   | 106.626M | 2.08THB  | −6.31%     | −0.14THB | Strong Sell           | 221.783M            | 19.076BTHB   | —          | −0.09THB   | Communications     | −0.42%            |
+| SGC   | 93.146M  | 4.75THB  | −5.74%     | −0.30THB | —                     | 443.373M            | 16.35BTHB    | —          | —          | Finance            | −0.72%            |
+| BJC   | 85.058M  | 34.00THB | −2.16%     | −0.75THB | Neutral               | 2.892B              | 139.239BTHB  | 29.23      | 1.19THB    | Process Industries | −0.31%            |
+| IRPC  | 77.466M  | 2.90THB  | 0.69%      | 0.02THB  | Sell                  | 224.65M             | 58.783BTHB   | 11.80      | 0.24THB    | Energy Minerals    | −0.11%            |
+| BANPU | 75.294M  | 13.6THB  | 0.74%      | 0.1THB   | Strong Buy            | 1.024B              | 91.342BTHB   | 2.56       | 6.54THB    | Energy Minerals    | −0.11%            |

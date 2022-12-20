@@ -778,3 +778,16 @@
 | IND    | 7.14%      | 1.65THB  | 0.11THB  | Buy                   | 15.947M  | 26.312M             | 539MTHB      | 9.90       | 0.16THB    | Industrial Services    | −0.51%            |
 | SINGER | 6.36%      | 29.25THB | 1.75THB  | Sell                  | 10.561M  | 308.906M            | 22.304BTHB   | 21.51      | 1.29THB    | Distribution Services  | +0.24%            |
 | PRI    | 5.91%      | 23.3THB  | 1.3THB   | Strong Buy            | 7.771M   | 181.069M            | 7.04BTHB     | —          | —          | Finance                | −0.11%            |
+2022-12-20 11:11:43.382 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| CHOW   | 26.03%     | 3.68THB  | 0.76THB  | Buy                   | 17.595M  | 64.751M             | 2.336BTHB    | 2.29       | 1.28THB    | Non-Energy Minerals    | −0.28%            |
+| PERM   | 13.59%     | 1.17THB  | 0.14THB  | Buy                   | 27.866M  | 32.603M             | 778.014MTHB  | —          | −0.31THB   | Non-Energy Minerals    | −0.28%            |
+| JTS    | 11.24%     | 47.00THB | 4.75THB  | Buy                   | 5.423M   | 254.88M             | 29.848BTHB   | 144.79     | 0.29THB    | Technology Services    | +1.72%            |
+| BROCK  | 7.74%      | 1.67THB  | 0.12THB  | Buy                   | 95.004K  | 158.657K            | 1.589BTHB    | 61.51      | 0.03THB    | Finance                | −0.72%            |
+| SR     | 6.92%      | 1.39THB  | 0.09THB  | Buy                   | 49K      | 68.11K              | 879.71MTHB   | 79.75      | 0.02THB    | Producer Manufacturing | −1.32%            |
+| SAWANG | 4.55%      | 13.8THB  | 0.6THB   | Buy                   | 11.001K  | 151.814K            | 316.8MTHB    | —          | −1.33THB   | Consumer Durables      | −1.31%            |
+| NINE   | 4.26%      | 7.35THB  | 0.30THB  | Strong Buy            | 10.506K  | 77.219K             | 11.206BTHB   | —          | −0.14THB   | Consumer Services      | −0.69%            |
+| TIGER  | 4.02%      | 1.81THB  | 0.07THB  | Neutral               | 36.8K    | 66.608K             | 800.4MTHB    | 48.33      | 0.04THB    | Finance                | −0.72%            |
+| GLAND  | 3.64%      | 2.28THB  | 0.08THB  | Strong Buy            | 56.7K    | 129.276K            | 14.3BTHB     | 26.41      | 0.08THB    | Finance                | −0.72%            |
+| SIAM   | 3.59%      | 2.02THB  | 0.07THB  | Strong Buy            | 42.151M  | 85.145M             | 1.157BTHB    | —          | −0.03THB   | Producer Manufacturing | −1.32%            |

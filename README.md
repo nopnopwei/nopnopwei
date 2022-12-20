@@ -11,46 +11,46 @@ The tables below are data of the Thai stock market that is fetched from [Trading
 ### TOP GAINERS:
 |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
 |--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
-| JTS    | 21.58%     | 42.25THB | 7.50THB  | Buy                   | 5.267M   | 222.533M            | 24.549BTHB   | 119.09     | 0.29THB    | Technology Services    | +4.55%            |
-| SIAM   | 18.18%     | 1.95THB  | 0.30THB  | Strong Buy            | 57.244M  | 111.626M            | 978.658MTHB  | —          | −0.03THB   | Producer Manufacturing | −0.77%            |
-| BRR    | 18.18%     | 8.45THB  | 1.30THB  | Strong Buy            | 28.488M  | 240.72M             | 5.807BTHB    | 6.17       | 1.16THB    | Process Industries     | −0.31%            |
-| Q-CON  | 14.12%     | 10.10THB | 1.25THB  | Strong Buy            | 12.45M   | 125.748M            | 3.54BTHB     | 16.27      | 0.54THB    | Non-Energy Minerals    | −0.03%            |
-| GIFT   | 10.26%     | 8.60THB  | 0.80THB  | Buy                   | 13.16M   | 113.172M            | 2.58BTHB     | —          | −0.06THB   | Distribution Services  | +0.24%            |
-| SCI    | 9.52%      | 1.38THB  | 0.12THB  | Neutral               | 12.127M  | 16.735M             | 945MTHB      | —          | −0.21THB   | Producer Manufacturing | −0.77%            |
-| CRANE  | 7.69%      | 1.68THB  | 0.12THB  | Strong Buy            | 17.262M  | 29.001M             | 1.183BTHB    | —          | −0.29THB   | Finance                | −0.11%            |
-| IND    | 7.14%      | 1.65THB  | 0.11THB  | Buy                   | 15.947M  | 26.312M             | 539MTHB      | 9.90       | 0.16THB    | Industrial Services    | −0.51%            |
-| SINGER | 6.36%      | 29.25THB | 1.75THB  | Sell                  | 10.561M  | 308.906M            | 22.304BTHB   | 21.51      | 1.29THB    | Distribution Services  | +0.24%            |
-| PRI    | 5.91%      | 23.3THB  | 1.3THB   | Strong Buy            | 7.771M   | 181.069M            | 7.04BTHB     | —          | —          | Finance                | −0.11%            |
+| CHOW   | 26.03%     | 3.68THB  | 0.76THB  | Buy                   | 17.595M  | 64.751M             | 2.336BTHB    | 2.29       | 1.28THB    | Non-Energy Minerals    | −0.28%            |
+| PERM   | 13.59%     | 1.17THB  | 0.14THB  | Buy                   | 27.866M  | 32.603M             | 778.014MTHB  | —          | −0.31THB   | Non-Energy Minerals    | −0.28%            |
+| JTS    | 11.24%     | 47.00THB | 4.75THB  | Buy                   | 5.423M   | 254.88M             | 29.848BTHB   | 144.79     | 0.29THB    | Technology Services    | +1.72%            |
+| BROCK  | 7.74%      | 1.67THB  | 0.12THB  | Buy                   | 95.004K  | 158.657K            | 1.589BTHB    | 61.51      | 0.03THB    | Finance                | −0.72%            |
+| SR     | 6.92%      | 1.39THB  | 0.09THB  | Buy                   | 49K      | 68.11K              | 879.71MTHB   | 79.75      | 0.02THB    | Producer Manufacturing | −1.32%            |
+| SAWANG | 4.55%      | 13.8THB  | 0.6THB   | Buy                   | 11.001K  | 151.814K            | 316.8MTHB    | —          | −1.33THB   | Consumer Durables      | −1.31%            |
+| NINE   | 4.26%      | 7.35THB  | 0.30THB  | Strong Buy            | 10.506K  | 77.219K             | 11.206BTHB   | —          | −0.14THB   | Consumer Services      | −0.69%            |
+| TIGER  | 4.02%      | 1.81THB  | 0.07THB  | Neutral               | 36.8K    | 66.608K             | 800.4MTHB    | 48.33      | 0.04THB    | Finance                | −0.72%            |
+| GLAND  | 3.64%      | 2.28THB  | 0.08THB  | Strong Buy            | 56.7K    | 129.276K            | 14.3BTHB     | 26.41      | 0.08THB    | Finance                | −0.72%            |
+| SIAM   | 3.59%      | 2.02THB  | 0.07THB  | Strong Buy            | 42.151M  | 85.145M             | 1.157BTHB    | —          | −0.03THB   | Producer Manufacturing | −1.32%            |
 ### TOP LOSERS:
-|        | Chg % 1D   | Price   | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
-|--------|------------|---------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
-| 24CS   | −16.43%    | 5.85THB | −1.15THB | Strong Sell           | 25.24M   | 147.654M            | 2.212BTHB    | 39.24      | 0.20THB    | Technology Services    | +4.55%            |
-| UREKA  | −8.92%     | 2.86THB | −0.28THB | Strong Sell           | 5.041M   | 14.416M             | 1.35BTHB     | —          | —          | Distribution Services  | +0.24%            |
-| WICE   | −8.41%     | 9.8THB  | −0.9THB  | Strong Sell           | 17.572M  | 172.201M            | 6.975BTHB    | 10.93      | 0.98THB    | Transportation         | +0.23%            |
-| SECURE | −8.11%     | 13.6THB | −1.2THB  | Strong Sell           | 1.183M   | 16.09M              | 1.521BTHB    | 41.34      | 0.36THB    | Technology Services    | +4.55%            |
-| STARK  | −8.06%     | 2.28THB | −0.20THB | Strong Sell           | 290.783M | 662.984M            | 29.528BTHB   | 9.45       | 0.26THB    | Finance                | −0.11%            |
-| KK     | −7.21%     | 1.03THB | −0.08THB | Strong Sell           | 18.834M  | 19.399M             | 1.541BTHB    | 14.47      | 0.08THB    | Producer Manufacturing | −0.77%            |
-| ESSO   | −7.14%     | 1.30THB | −0.10THB | Sell                  | 37.5K    | 48.75K              | 947.38MTHB   | 85.89      | 0.02THB    | Producer Manufacturing | −0.77%            |
-| LEO    | −5.98%     | 5.50THB | −0.35THB | Sell                  | 1.152M   | 6.336M              | 6.364BTHB    | 15.05      | 0.39THB    | Distribution Services  | +0.24%            |
-| PTTEP  | −5.76%     | 13.1THB | −0.8THB  | Strong Sell           | 19.517M  | 255.667M            | 28.632BTHB   | 16.88      | 0.82THB    | Health Services        | +0.12%            |
-| SVT    | −5.04%     | 13.2THB | −0.7THB  | Neutral               | 8.31K    | 109.692K            | 333.6MTHB    | —          | −1.33THB   | Consumer Durables      | +0.33%            |
+|        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| VARO   | −11.63%    | 2.28THB  | −0.30THB | Sell                  | 6.736M   | 15.359M             | 613.472MTHB  | 19.17      | 0.14THB    | Producer Manufacturing | −1.32%            |
+| TKT    | −11.32%    | 9.4THB   | −1.2THB  | Neutral               | 3.675M   | 34.544M             | 1.696BTHB    | 28.47      | 0.38THB    | Non-Energy Minerals    | −0.28%            |
+| CPANEL | −11.30%    | 7.85THB  | −1.00THB | Sell                  | 1.057M   | 8.298M              | 884.134MTHB  | —          | −0.41THB   | Producer Manufacturing | −1.32%            |
+| DTCENT | −10.81%    | 2.64THB  | −0.32THB | Strong Sell           | 2.283M   | 6.026M              | 799.2MTHB    | —          | —          | Retail Trade           | −1.30%            |
+| SPACK  | −9.88%     | 7.75THB  | −0.85THB | Buy                   | 5.548M   | 43.001M             | 2.845BTHB    | —          | −0.06THB   | Distribution Services  | −1.87%            |
+| GIFT   | −9.52%     | 13.3THB  | −1.4THB  | Sell                  | 5.54M    | 73.688M             | 6.345BTHB    | —          | —          | Process Industries     | −0.31%            |
+| MTW    | −8.81%     | 3.52THB  | −0.34THB | Sell                  | 3.163M   | 11.135M             | 1.158BTHB    | 72.69      | 0.05THB    | Commercial Services    | −0.57%            |
+| TEAM   | −8.66%     | 29.00THB | −2.75THB | Sell                  | 799.848K | 23.196M             | 1.27BTHB     | 4.57       | 6.94THB    | Consumer Non-Durables  | −1.90%            |
+| POLY   | −8.54%     | 3.00THB  | −0.28THB | Strong Sell           | 11.334M  | 34.002M             | 1.099BTHB    | —          | —          | Consumer Non-Durables  | −1.90%            |
+| CPH    | −8.18%     | 2.02THB  | −0.18THB | —                     | 64.866M  | 131.028M            | 2.747BTHB    | —          | —          | Technology Services    | +1.72%            |
 ### MOST ACTIVE:
-|        | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector              | Sector Chg % 1D   |
-|--------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|---------------------|-------------------|
-| SIRI   | 494.204M | 1.80THB | −1.64%     | −0.03THB | Buy                   | 889.568M            | 27.241BTHB   | 11.00      | 0.17THB    | Finance             | −0.11%            |
-| AWC    | 361.41M  | 6.20THB | 0.81%      | 0.05THB  | Buy                   | 2.241B              | 196.805BTHB  | 57.64      | 0.11THB    | Finance             | −0.11%            |
-| STARK  | 290.783M | 2.28THB | −8.06%     | −0.20THB | Strong Sell           | 662.984M            | 29.528BTHB   | 9.45       | 0.26THB    | Finance             | −0.11%            |
-| TTB    | 93.27M   | 1.35THB | −0.74%     | −0.01THB | Sell                  | 125.914M            | 131.407BTHB  | 10.06      | 0.14THB    | Finance             | −0.11%            |
-| IRPC   | 91.399M  | 2.88THB | −1.37%     | −0.04THB | Strong Sell           | 263.228M            | 59.599BTHB   | 11.97      | 0.24THB    | Energy Minerals     | −1.39%            |
-| TRUE   | 84.956M  | 4.78THB | 0.84%      | 0.04THB  | Buy                   | 406.092M            | 158.051BTHB  | —          | −0.15THB   | Communications      | +0.77%            |
-| ECL    | 82.02M   | 2.02THB | 1.00%      | 0.02THB  | Neutral               | 165.681M            | 2.218BTHB    | 10.54      | 0.19THB    | Finance             | −0.11%            |
-| ESSO   | 77.35M   | 11.9THB | −1.65%     | −0.2THB  | Sell                  | 920.46M             | 41.876BTHB   | 3.54       | 3.42THB    | Energy Minerals     | −1.39%            |
-| NUSA   | 76.468M  | 1.21THB | 3.42%      | 0.04THB  | Buy                   | 92.527M             | 13.62BTHB    | —          | −0.06THB   | Finance             | −0.11%            |
-| DTCENT | 66.193M  | 2.20THB | −3.51%     | −0.08THB | —                     | 145.625M            | 2.747BTHB    | —          | —          | Technology Services | +4.55%            |
+|       | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector             | Sector Chg % 1D   |
+|-------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|--------------------|-------------------|
+| SM    | 1.258B   | 2.20THB  | —          | —        | —                     | 2.768B              | —            | —          | —          | —                  | -                 |
+| SM.R  | 1.258B   | 2.20THB  | —          | —        | —                     | 2.768B              | —            | —          | —          | —                  | -                 |
+| STARK | 339.433M | 2.34THB  | 2.63%      | 0.06THB  | Sell                  | 794.273M            | 27.147BTHB   | 8.69       | 0.26THB    | Finance            | −0.72%            |
+| TTB   | 173.272M | 1.36THB  | 0.74%      | 0.01THB  | Neutral               | 235.65M             | 130.441BTHB  | 9.99       | 0.14THB    | Finance            | −0.72%            |
+| SIRI  | 167.874M | 1.75THB  | −2.78%     | −0.05THB | Buy                   | 293.78M             | 26.795BTHB   | 10.82      | 0.17THB    | Finance            | −0.72%            |
+| JAS   | 106.626M | 2.08THB  | −6.31%     | −0.14THB | Strong Sell           | 221.783M            | 19.076BTHB   | —          | −0.09THB   | Communications     | −0.42%            |
+| SGC   | 93.146M  | 4.75THB  | −5.74%     | −0.30THB | —                     | 443.373M            | 16.35BTHB    | —          | —          | Finance            | −0.72%            |
+| BJC   | 85.058M  | 34.00THB | −2.16%     | −0.75THB | Neutral               | 2.892B              | 139.239BTHB  | 29.23      | 1.19THB    | Process Industries | −0.31%            |
+| IRPC  | 77.466M  | 2.90THB  | 0.69%      | 0.02THB  | Sell                  | 224.65M             | 58.783BTHB   | 11.80      | 0.24THB    | Energy Minerals    | −0.11%            |
+| BANPU | 75.294M  | 13.6THB  | 0.74%      | 0.1THB   | Strong Buy            | 1.024B              | 91.342BTHB   | 2.56       | 6.54THB    | Energy Minerals    | −0.11%            |
 <hr>
 <div align="center">
 
-README.md last auto updated on: `Monday 19 December 2022`
+README.md last auto updated on: `Tuesday 20 December 2022`
 <br>
 </div>
     
