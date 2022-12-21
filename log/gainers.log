@@ -791,3 +791,16 @@
 | TIGER  | 4.02%      | 1.81THB  | 0.07THB  | Neutral               | 36.8K    | 66.608K             | 800.4MTHB    | 48.33      | 0.04THB    | Finance                | −0.72%            |
 | GLAND  | 3.64%      | 2.28THB  | 0.08THB  | Strong Buy            | 56.7K    | 129.276K            | 14.3BTHB     | 26.41      | 0.08THB    | Finance                | −0.72%            |
 | SIAM   | 3.59%      | 2.02THB  | 0.07THB  | Strong Buy            | 42.151M  | 85.145M             | 1.157BTHB    | —          | −0.03THB   | Producer Manufacturing | −1.32%            |
+2022-12-21 11:11:51.173 | INFO     | __main__:log_table:140 - 
+ |       | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   |   P/E(TTM) | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| JTS   | 21.28%     | 57.00THB | 10.00THB | Buy                   | 12.185M  | 694.552M            | 33.203BTHB   |     161.07 | 0.29THB    | Technology Services    | +4.00%            |
+| NCL   | 13.28%     | 2.90THB  | 0.34THB  | Buy                   | 9.801M   | 28.424M             | 1.352BTHB    |      36.68 | 0.07THB    | Transportation         | −0.39%            |
+| SABUY | 10.68%     | 11.4THB  | 1.1THB   | Buy                   | 36.901M  | 420.668M            | 14.741BTHB   |      13.97 | 0.76THB    | Distribution Services  | +0.35%            |
+| ACC   | 9.62%      | 1.14THB  | 0.10THB  | Sell                  | 19.919M  | 22.708M             | 1.397BTHB    |       8.73 | 0.12THB    | Utilities              | −0.33%            |
+| SPVI  | 8.91%      | 5.50THB  | 0.45THB  | Buy                   | 8.483M   | 46.658M             | 2.02BTHB     |      14    | 0.36THB    | Retail Trade           | +0.05%            |
+| DELTA | 8.46%      | 718THB   | 56THB    | Strong Buy            | 5.094M   | 3.658B              | 825.767BTHB  |      62.33 | 10.62THB   | Electronic Technology  | +6.11%            |
+| CHAYO | 8.23%      | 8.55THB  | 0.65THB  | Buy                   | 16.032M  | 137.074M            | 8.424BTHB    |      40.14 | 0.20THB    | Commercial Services    | −0.14%            |
+| STGT  | 7.51%      | 9.30THB  | 0.65THB  | Sell                  | 19.735M  | 183.537M            | 24.784BTHB   |       7.03 | 1.23THB    | Producer Manufacturing | +0.78%            |
+| MENA  | 6.85%      | 1.56THB  | 0.10THB  | Strong Buy            | 23.294M  | 36.338M             | 1.072BTHB    |      24.33 | 0.06THB    | Transportation         | −0.39%            |
+| AIT   | 5.65%      | 6.55THB  | 0.35THB  | Strong Buy            | 5.951M   | 38.977M             | 8.253BTHB    |      18.04 | 0.45THB    | Technology Services    | +4.00%            |

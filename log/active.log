@@ -791,3 +791,16 @@
 | BJC   | 85.058M  | 34.00THB | −2.16%     | −0.75THB | Neutral               | 2.892B              | 139.239BTHB  | 29.23      | 1.19THB    | Process Industries | −0.31%            |
 | IRPC  | 77.466M  | 2.90THB  | 0.69%      | 0.02THB  | Sell                  | 224.65M             | 58.783BTHB   | 11.80      | 0.24THB    | Energy Minerals    | −0.11%            |
 | BANPU | 75.294M  | 13.6THB  | 0.74%      | 0.1THB   | Strong Buy            | 1.024B              | 91.342BTHB   | 2.56       | 6.54THB    | Energy Minerals    | −0.11%            |
+2022-12-21 11:11:51.185 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price    | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector             | Sector Chg % 1D   |
+|--------|----------|----------|------------|----------|-----------------------|---------------------|--------------|------------|------------|--------------------|-------------------|
+| WARRIX | 285.145M | 6.55THB  | —          | —        | —                     | 1.868B              | —            | —          | —          | —                  | -                 |
+| SM     | 225.233M | 2.96THB  | 1.37%      | 0.04THB  | Neutral               | 666.69M             | 33.851BTHB   | —          | −1.10THB   | Transportation     | −0.39%            |
+| SIRI   | 220.148M | 1.72THB  | −1.71%     | −0.03THB | Buy                   | 378.655M            | 26.05BTHB    | 10.52      | 0.17THB    | Finance            | −0.16%            |
+| TTB    | 196.399M | 1.96THB  | −10.91%    | −0.24THB | —                     | 384.942M            | —            | —          | —          | —                  | -                 |
+| IRPC   | 184.924M | 1.14THB  | 0.88%      | 0.01THB  | Sell                  | 210.814M            | 4.746BTHB    | —          | −0.05THB   | Finance            | −0.16%            |
+| STARK  | 133.318M | 1.36THB  | 0.00%      | 0.00THB  | Neutral               | 181.313M            | 131.407BTHB  | 10.06      | 0.14THB    | Finance            | −0.16%            |
+| SGC    | 115.376M | 2.34THB  | 0.00%      | 0.00THB  | Sell                  | 269.981M            | 27.861BTHB   | 8.92       | 0.26THB    | Finance            | −0.16%            |
+| PTT    | 101.547M | 4.56THB  | −4.20%     | −0.20THB | —                     | 463.052M            | 16.514BTHB   | —          | —          | Finance            | −0.16%            |
+| AWC    | 100.285M | 2.90THB  | 0.00%      | 0.00THB  | Sell                  | 290.827M            | 59.191BTHB   | 11.89      | 0.24THB    | Energy Minerals    | −0.14%            |
+| CHG    | 79.536M  | 33.75THB | −0.74%     | −0.25THB | Sell                  | 2.684B              | 136.234BTHB  | 28.60      | 1.19THB    | Process Industries | −0.12%            |
