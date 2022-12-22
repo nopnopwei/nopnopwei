@@ -804,3 +804,16 @@
 | PTT    | 101.547M | 4.56THB  | −4.20%     | −0.20THB | —                     | 463.052M            | 16.514BTHB   | —          | —          | Finance            | −0.16%            |
 | AWC    | 100.285M | 2.90THB  | 0.00%      | 0.00THB  | Sell                  | 290.827M            | 59.191BTHB   | 11.89      | 0.24THB    | Energy Minerals    | −0.14%            |
 | CHG    | 79.536M  | 33.75THB | −0.74%     | −0.25THB | Sell                  | 2.684B              | 136.234BTHB  | 28.60      | 1.19THB    | Process Industries | −0.12%            |
+2022-12-22 11:12:03.180 | INFO     | __main__:log_table:140 - 
+ |        | Vol 1D   | Price   | Chg % 1D   | Chg 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|----------|---------|------------|----------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| SIRI   | 234.668M | 1.72THB | 0.00%      | 0.00THB  | Buy                   | 403.629M            | 25.604BTHB   | 10.34      | 0.17THB    | Finance               | +0.43%            |
+| STARK  | 191.892M | 2.30THB | −1.71%     | −0.04THB | Sell                  | 441.351M            | 27.861BTHB   | 8.92       | 0.26THB    | Finance               | +0.43%            |
+| SM     | 112.079M | 1.84THB | −6.12%     | −0.12THB | —                     | 206.225M            | —            | —          | —          | Distribution Services | +0.64%            |
+| MOSHI  | 96.912M  | 32.0THB | —          | —        | —                     | 3.101B              | —            | —          | —          | —                     | -                 |
+| PSG    | 80.103M  | 1.37THB | 0.74%      | 0.01THB  | Buy                   | 109.741M            | 131.407BTHB  | 10.06      | 0.14THB    | Finance               | +0.43%            |
+| TTB    | 76.955M  | 9.55THB | 0.53%      | 0.05THB  | Buy                   | 734.922M            | 145.208BTHB  | 65.16      | 0.15THB    | Transportation        | −0.53%            |
+| BEM    | 75.59M   | 1.19THB | −1.65%     | −0.02THB | Sell                  | 89.952M             | 78.641BTHB   | 163.51     | 0.01THB    | Industrial Services   | +0.29%            |
+| WARRIX | 72.274M  | 7.15THB | 9.16%      | 0.60THB  | —                     | 516.756M            | —            | —          | —          | —                     | -                 |
+| BANPU  | 69.165M  | 4.36THB | −4.39%     | −0.20THB | —                     | 301.56M             | 15.565BTHB   | —          | —          | Finance               | +0.43%            |
+| SGC    | 62.947M  | 13.6THB | 0.74%      | 0.1THB   | Strong Buy            | 856.082M            | 91.342BTHB   | 2.56       | 6.54THB    | Energy Minerals       | +1.35%            |

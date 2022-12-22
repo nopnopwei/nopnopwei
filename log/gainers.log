@@ -804,3 +804,16 @@
 | STGT  | 7.51%      | 9.30THB  | 0.65THB  | Sell                  | 19.735M  | 183.537M            | 24.784BTHB   |       7.03 | 1.23THB    | Producer Manufacturing | +0.78%            |
 | MENA  | 6.85%      | 1.56THB  | 0.10THB  | Strong Buy            | 23.294M  | 36.338M             | 1.072BTHB    |      24.33 | 0.06THB    | Transportation         | −0.39%            |
 | AIT   | 5.65%      | 6.55THB  | 0.35THB  | Strong Buy            | 5.951M   | 38.977M             | 8.253BTHB    |      18.04 | 0.45THB    | Technology Services    | +4.00%            |
+2022-12-22 11:12:03.163 | INFO     | __main__:log_table:140 - 
+ |        | Chg % 1D   | Price    | Chg 1D   | Technical Rating 1D   | Vol 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|------------|----------|----------|-----------------------|----------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| SSC    | 19.83%     | 34.75THB | 5.75THB  | Strong Buy            | 17.8K    | 618.55K             | 7.711BTHB    | 609.24     | 0.05THB    | Consumer Non-Durables  | +0.89%            |
+| PTECH  | 14.69%     | 24.2THB  | 3.1THB   | Buy                   | 3.6K     | 87.12K              | 5.171BTHB    | 17.45      | 1.21THB    | Commercial Services    | +0.38%            |
+| WARRIX | 9.16%      | 7.15THB  | 0.60THB  | —                     | 72.274M  | 516.756M            | —            | —          | —          | —                      | -                 |
+| NCL    | 8.28%      | 3.14THB  | 0.24THB  | Buy                   | 14.47M   | 45.437M             | 1.532BTHB    | 41.55      | 0.07THB    | Transportation         | −0.53%            |
+| POLY   | 8.04%      | 12.1THB  | 0.9THB   | Sell                  | 6.979M   | 84.446M             | 5.985BTHB    | —          | —          | Process Industries     | +0.42%            |
+| SR     | 7.97%      | 1.49THB  | 0.11THB  | Strong Buy            | 4.225M   | 6.295M              | 933.846MTHB  | 84.66      | 0.02THB    | Producer Manufacturing | +0.12%            |
+| AIE    | 7.81%      | 2.76THB  | 0.20THB  | Buy                   | 7.357M   | 20.305M             | 3.37BTHB     | 21.49      | 0.14THB    | Process Industries     | +0.42%            |
+| CHOW   | 7.10%      | 3.62THB  | 0.24THB  | Buy                   | 19.75M   | 71.495M             | 2.704BTHB    | 2.65       | 1.28THB    | Non-Energy Minerals    | +0.30%            |
+| VARO   | 6.49%      | 8.20THB  | 0.50THB  | Buy                   | 1.886M   | 15.466M             | 769.246MTHB  | —          | −0.41THB   | Producer Manufacturing | +0.12%            |
+| SE-ED  | 6.31%      | 2.36THB  | 0.14THB  | Buy                   | 1.7K     | 4.012K              | 870.117MTHB  | —          | −0.07THB   | Consumer Services      | −0.19%            |
