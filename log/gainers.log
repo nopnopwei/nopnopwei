@@ -817,3 +817,16 @@
 | CHOW   | 7.10%      | 3.62THB  | 0.24THB  | Buy                   | 19.75M   | 71.495M             | 2.704BTHB    | 2.65       | 1.28THB    | Non-Energy Minerals    | +0.30%            |
 | VARO   | 6.49%      | 8.20THB  | 0.50THB  | Buy                   | 1.886M   | 15.466M             | 769.246MTHB  | —          | −0.41THB   | Producer Manufacturing | +0.12%            |
 | SE-ED  | 6.31%      | 2.36THB  | 0.14THB  | Buy                   | 1.7K     | 4.012K              | 870.117MTHB  | —          | −0.07THB   | Consumer Services      | −0.19%            |
+2022-12-23 11:11:43.594 | INFO     | __main__:log_table:140 - 
+ |       | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| MOSHI | 16.41%        | 37.25THB | 5.25THB     | —                     | 20.497M     | 763.507M            | —            | —          | —          | —                      | -                 |
+| MTW   | 14.94%        | 3.54THB  | 0.46THB     | Strong Buy            | 106.524M    | 377.096M            | 977.3MTHB    | —          | —          | Consumer Non-Durables  | −0.06%            |
+| KBS   | 9.90%         | 5.55THB  | 0.50THB     | Strong Buy            | 7.39M       | 41.014M             | 3.03BTHB     | 6.33       | 0.80THB    | Process Industries     | +0.01%            |
+| TNPF  | 8.79%         | 1.98THB  | 0.16THB     | Strong Buy            | 2.4K        | 4.752K              | 260.653MTHB  | —          | −0.07THB   | Finance                | +0.15%            |
+| 24CS  | 7.35%         | 2.92THB  | 0.20THB     | Sell                  | 4.177M      | 12.198M             | 1.17BTHB     | —          | —          | Distribution Services  | −0.61%            |
+| TKS   | 7.08%         | 12.1THB  | 0.8THB      | Strong Buy            | 17.53M      | 212.113M            | 5.745BTHB    | 7.74       | 1.46THB    | Commercial Services    | −1.66%            |
+| WIN   | 6.06%         | 1.05THB  | 0.06THB     | Buy                   | 3.061M      | 3.214M              | 555.533MTHB  | —          | −0.01THB   | Finance                | +0.15%            |
+| W     | 5.59%         | 1.89THB  | 0.10THB     | Sell                  | 518.1K      | 979.209K            | 1.457BTHB    | —          | −0.46THB   | Consumer Services      | −0.21%            |
+| STGT  | 5.43%         | 9.70THB  | 0.50THB     | Neutral               | 26.863M     | 260.57M             | 26.36BTHB    | 7.47       | 1.23THB    | Producer Manufacturing | +0.35%            |
+| PRIN  | 4.69%         | 2.68THB  | 0.12THB     | Neutral               | 163.509K    | 438.204K            | 3.123BTHB    | 7.90       | 0.32THB    | Consumer Durables      | −0.30%            |
