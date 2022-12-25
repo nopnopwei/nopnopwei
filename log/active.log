@@ -843,3 +843,16 @@
 | AWC  | 67.416M     | 6.05THB | 0.00%         | 0.00THB     | Neutral               | 407.869M            | 193.605BTHB  | 56.70      | 0.11THB    | Finance               | +0.25%            |
 | XPG  | 65.432M     | 1.54THB | 2.67%         | 0.04THB     | Buy                   | 100.765M            | 14.407BTHB   | —          | −0.01THB   | Finance               | +0.25%            |
 | AAV  | 60.913M     | 2.90THB | −3.33%        | −0.10THB    | Sell                  | 176.648M            | 33.619BTHB   | —          | −1.10THB   | Transportation        | −0.16%            |
+2022-12-25 11:10:44.188 | INFO     | __main__:log_table:140 - 
+ |      | Volume 1D   | Price   | Change % 1D   | Change 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|------|-------------|---------|---------------|-------------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| KTMS | 245.057M    | 3.84THB | —             | —           | —                     | 941.018M            | —            | —          | —          | —                     | -                 |
+| SIRI | 185.258M    | 1.76THB | 2.33%         | 0.04THB     | Buy                   | 326.054M            | 26.199BTHB   | 10.34      | 0.17THB    | Finance               | +0.26%            |
+| SM   | 141.672M    | 1.89THB | 2.72%         | 0.05THB     | —                     | 267.76M             | —            | —          | —          | Distribution Services | −0.72%            |
+| SKR  | 127.63M     | 12.7THB | 1.60%         | 0.2THB      | Sell                  | 1.621B              | 26.16BTHB    | 15.18      | 0.82THB    | Health Services       | −0.05%            |
+| MTW  | 106.524M    | 3.54THB | 14.94%        | 0.46THB     | Strong Buy            | 377.096M            | 1.193BTHB    | —          | —          | Consumer Non-Durables | +0.28%            |
+| TTB  | 96.426M     | 1.37THB | 0.00%         | 0.00THB     | Buy                   | 132.104M            | 132.373BTHB  | 10.13      | 0.14THB    | Finance               | +0.26%            |
+| SGC  | 86.662M     | 4.38THB | 0.46%         | 0.02THB     | —                     | 379.578M            | 14.323BTHB   | —          | —          | Finance               | +0.26%            |
+| AWC  | 67.416M     | 6.05THB | 0.00%         | 0.00THB     | Neutral               | 407.869M            | 193.605BTHB  | 56.70      | 0.11THB    | Finance               | +0.26%            |
+| XPG  | 65.432M     | 1.54THB | 2.67%         | 0.04THB     | Buy                   | 100.765M            | 14.407BTHB   | —          | −0.01THB   | Finance               | +0.26%            |
+| AAV  | 60.913M     | 2.90THB | −3.33%        | −0.10THB    | Sell                  | 176.648M            | 33.619BTHB   | —          | −1.10THB   | Transportation        | −0.16%            |

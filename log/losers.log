@@ -843,3 +843,16 @@
 | SIRIP | −4.43%        | 7.55THB  | −0.35THB    | Sell                  | 2.6K        | 19.63K              | 1.284BTHB    | 17.57      | 0.45THB    | Finance                | +0.25%            |
 | TKT   | −4.42%        | 2.16THB  | −0.10THB    | Sell                  | 1.79M       | 3.866M              | 513.605MTHB  | 16.79      | 0.14THB    | Producer Manufacturing | +0.68%            |
 | SIAM  | −4.41%        | 1.96THB  | −0.10THB    | Buy                   | 7.321M      | 14.276M             | 1.157BTHB    | —          | −0.03THB   | Producer Manufacturing | +0.68%            |
+2022-12-25 11:10:44.180 | INFO     | __main__:log_table:140 - 
+ |       | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| JTS   | −11.22%       | 45.50THB | −5.75THB    | Neutral               | 6.648M      | 302.505M            | 32.144BTHB   | 175.63     | 0.29THB    | Technology Services    | −3.43%            |
+| PROEN | −8.62%        | 5.30THB  | −0.50THB    | Sell                  | 15.194M     | 80.527M             | 1.675BTHB    | 32.51      | 0.20THB    | Technology Services    | −3.43%            |
+| PTECH | −7.85%        | 22.3THB  | −1.9THB     | Strong Sell           | 1.705K      | 38.021K             | 5.465BTHB    | 20.01      | 1.21THB    | Commercial Services    | −1.60%            |
+| GIFT  | −7.50%        | 7.40THB  | −0.60THB    | Buy                   | 5.062M      | 37.46M              | 2.448BTHB    | —          | −0.06THB   | Distribution Services  | −0.72%            |
+| AH    | −4.84%        | 29.50THB | −1.50THB    | Sell                  | 6.339M      | 186.991M            | 10.468BTHB   | 7.14       | 4.34THB    | Consumer Durables      | +0.64%            |
+| AKP   | −4.67%        | 2.04THB  | −0.10THB    | Neutral               | 3.766M      | 7.682M              | 824.16MTHB   | 24.37      | 0.09THB    | Industrial Services    | +0.12%            |
+| TCOAT | −4.59%        | 26.00THB | −1.25THB    | Sell                  | 700         | 18.2K               | 273MTHB      | —          | −1.21THB   | Process Industries     | +0.21%            |
+| SIRIP | −4.43%        | 7.55THB  | −0.35THB    | Sell                  | 2.6K        | 19.63K              | 1.284BTHB    | 17.57      | 0.45THB    | Finance                | +0.26%            |
+| TKT   | −4.42%        | 2.16THB  | −0.10THB    | Sell                  | 1.79M       | 3.866M              | 513.605MTHB  | 16.79      | 0.14THB    | Producer Manufacturing | +0.73%            |
+| SIAM  | −4.41%        | 1.96THB  | −0.10THB    | Buy                   | 7.321M      | 14.276M             | 1.157BTHB    | —          | −0.03THB   | Producer Manufacturing | +0.73%            |
