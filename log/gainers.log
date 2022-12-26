@@ -856,3 +856,16 @@
 | W     | 5.59%         | 1.89THB  | 0.10THB     | Sell                  | 518.1K      | 979.209K            | 1.538BTHB    | —          | −0.46THB   | Consumer Services      | −0.33%            |
 | STGT  | 5.43%         | 9.70THB  | 0.50THB     | Neutral               | 26.863M     | 260.57M             | 27.792BTHB   | 7.47       | 1.23THB    | Producer Manufacturing | +0.73%            |
 | PRIN  | 4.69%         | 2.68THB  | 0.12THB     | Neutral               | 163.509K    | 438.204K            | 3.27BTHB     | 7.90       | 0.32THB    | Consumer Durables      | +0.64%            |
+2022-12-26 11:11:20.022 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price     | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|---------------|-----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| NEW    | 15.00%        | 115.00THB | 15.00THB    | Buy                   | 100         | 11.5K               | 1BTHB        | 10.92      | 9.16THB    | Health Services        | +0.12%            |
+| PRECHA | 11.21%        | 1.29THB   | 0.13THB     | Sell                  | 2.88M       | 3.715M              | 389.76MTHB   | —          | −0.09THB   | Finance                | +0.11%            |
+| TPCS   | 10.05%        | 21.9THB   | 2.0THB      | Strong Buy            | 1.052M      | 23.048M             | 2.149BTHB    | 8.25       | 2.41THB    | Process Industries     | +0.27%            |
+| SM     | 8.99%         | 2.06THB   | 0.17THB     | —                     | 149.171M    | 307.292M            | —            | —          | —          | Distribution Services  | +0.46%            |
+| TMI    | 8.39%         | 1.55THB   | 0.12THB     | Sell                  | 5.597M      | 8.675M              | 960.16MTHB   | 38.03      | 0.04THB    | Producer Manufacturing | +0.92%            |
+| CPH    | 7.02%         | 30.50THB  | 2.00THB     | Sell                  | 2.701M      | 82.379M             | 1.14BTHB     | 4.11       | 6.94THB    | Consumer Non-Durables  | +0.64%            |
+| SKR    | 6.30%         | 13.5THB   | 0.8THB      | Neutral               | 584.7K      | 7.893M              | 26.16BTHB    | 15.42      | 0.82THB    | Health Services        | +0.12%            |
+| MNIT   | 6.25%         | 1.70THB   | 0.10THB     | Strong Buy            | 2.3K        | 3.91K               | 220.8MTHB    | 27.21      | 0.06THB    | Finance                | +0.11%            |
+| TH     | 5.71%         | 2.22THB   | 0.12THB     | Sell                  | 12.721M     | 28.24M              | 2.027BTHB    | 9.06       | 0.25THB    | Finance                | +0.11%            |
+| PROEN  | 5.66%         | 5.60THB   | 0.30THB     | Sell                  | 7.692M      | 43.076M             | 1.675BTHB    | 29.71      | 0.20THB    | Technology Services    | −0.62%            |

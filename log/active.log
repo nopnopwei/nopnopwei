@@ -856,3 +856,16 @@
 | AWC  | 67.416M     | 6.05THB | 0.00%         | 0.00THB     | Neutral               | 407.869M            | 193.605BTHB  | 56.70      | 0.11THB    | Finance               | +0.26%            |
 | XPG  | 65.432M     | 1.54THB | 2.67%         | 0.04THB     | Buy                   | 100.765M            | 14.407BTHB   | —          | −0.01THB   | Finance               | +0.26%            |
 | AAV  | 60.913M     | 2.90THB | −3.33%        | −0.10THB    | Sell                  | 176.648M            | 33.619BTHB   | —          | −1.10THB   | Transportation        | −0.16%            |
+2022-12-26 11:11:20.038 | INFO     | __main__:log_table:140 - 
+ |        | Volume 1D   | Price   | Change % 1D   | Change 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|-------------|---------|---------------|-------------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| XPG    | 246.388M    | 1.57THB | 1.95%         | 0.03THB     | Buy                   | 386.829M            | 14.407BTHB   | —          | −0.01THB   | Finance               | +0.11%            |
+| SIRI   | 244.215M    | 1.76THB | 0.00%         | 0.00THB     | Buy                   | 429.818M            | 26.199BTHB   | 10.58      | 0.17THB    | Finance               | +0.11%            |
+| SM     | 149.171M    | 2.06THB | 8.99%         | 0.17THB     | —                     | 307.292M            | —            | —          | —          | Distribution Services | +0.46%            |
+| TTB    | 116.382M    | 1.36THB | −0.73%        | −0.01THB    | Neutral               | 158.279M            | 132.373BTHB  | 10.13      | 0.14THB    | Finance               | +0.11%            |
+| STARK  | 107.447M    | 2.40THB | 4.35%         | 0.10THB     | Sell                  | 257.872M            | 27.385BTHB   | 8.77       | 0.26THB    | Finance               | +0.11%            |
+| WARRIX | 80.778M     | 7.65THB | 3.38%         | 0.25THB     | —                     | 617.95M             | —            | —          | —          | Consumer Non-Durables | +0.64%            |
+| KTMS   | 69.28M      | 4.04THB | 5.21%         | 0.20THB     | —                     | 279.89M             | —            | —          | —          | —                     | -                 |
+| SGC    | 56.897M     | 4.48THB | 2.28%         | 0.10THB     | Strong Sell           | 254.899M            | 14.323BTHB   | —          | —          | Finance               | +0.11%            |
+| BANPU  | 54.412M     | 13.5THB | 0.75%         | 0.1THB      | Buy                   | 734.562M            | 90.666BTHB   | 2.54       | 6.54THB    | Energy Minerals       | +1.76%            |
+| MTW    | 46.328M     | 3.72THB | 5.08%         | 0.18THB     | Strong Buy            | 172.34M             | 1.193BTHB    | —          | —          | Consumer Non-Durables | +0.64%            |

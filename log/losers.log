@@ -856,3 +856,16 @@
 | SIRIP | −4.43%        | 7.55THB  | −0.35THB    | Sell                  | 2.6K        | 19.63K              | 1.284BTHB    | 17.57      | 0.45THB    | Finance                | +0.26%            |
 | TKT   | −4.42%        | 2.16THB  | −0.10THB    | Sell                  | 1.79M       | 3.866M              | 513.605MTHB  | 16.79      | 0.14THB    | Producer Manufacturing | +0.73%            |
 | SIAM  | −4.41%        | 1.96THB  | −0.10THB    | Buy                   | 7.321M      | 14.276M             | 1.157BTHB    | —          | −0.03THB   | Producer Manufacturing | +0.73%            |
+2022-12-26 11:11:20.029 | INFO     | __main__:log_table:140 - 
+ |       | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| GIFT  | −13.51%       | 6.40THB  | −1.00THB    | Buy                   | 4.728M      | 30.26M              | 2.448BTHB    | —          | −0.06THB   | Distribution Services  | +0.46%            |
+| ZEN   | −4.65%        | 16.4THB  | −0.8THB     | Sell                  | 523.409K    | 8.584M              | 5.16BTHB     | 47.55      | 0.36THB    | Consumer Services      | +0.95%            |
+| SIAM  | −4.62%        | 1.86THB  | −0.09THB    | Buy                   | 5.737M      | 10.671M             | 1.157BTHB    | —          | −0.03THB   | Producer Manufacturing | +0.92%            |
+| NKI   | −4.29%        | 33.50THB | −1.50THB    | Sell                  | 1.6K        | 53.6K               | 1.296BTHB    | 28.59      | 1.22THB    | Finance                | +0.11%            |
+| CNT   | −2.86%        | 1.36THB  | −0.04THB    | Sell                  | 452.8K      | 615.808K            | 1.439BTHB    | —          | −0.10THB   | Industrial Services    | +1.20%            |
+| TPLAS | −2.76%        | 2.82THB  | −0.08THB    | Strong Sell           | 766.401K    | 2.161M              | 783MTHB      | 21.72      | 0.13THB    | Process Industries     | +0.27%            |
+| PPM   | −2.75%        | 2.12THB  | −0.06THB    | Strong Sell           | 650.701K    | 1.379M              | 919.96MTHB   | 68.99      | 0.03THB    | Non-Energy Minerals    | +0.33%            |
+| SMK   | −2.67%        | 4.38THB  | −0.12THB    | Sell                  | 162.735K    | 712.779K            | 900MTHB      | —          | −167.55THB | Finance                | +0.11%            |
+| 2S    | −2.58%        | 3.02THB  | −0.08THB    | Sell                  | 211.187K    | 637.785K            | 1.705BTHB    | —          | −0.15THB   | Non-Energy Minerals    | +0.33%            |
+| PERM  | −2.56%        | 1.14THB  | −0.03THB    | Sell                  | 1.311M      | 1.495M              | 883.764MTHB  | —          | −0.31THB   | Non-Energy Minerals    | +0.33%            |
