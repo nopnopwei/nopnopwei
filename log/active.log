@@ -869,3 +869,16 @@
 | SGC    | 56.897M     | 4.48THB | 2.28%         | 0.10THB     | Strong Sell           | 254.899M            | 14.323BTHB   | —          | —          | Finance               | +0.11%            |
 | BANPU  | 54.412M     | 13.5THB | 0.75%         | 0.1THB      | Buy                   | 734.562M            | 90.666BTHB   | 2.54       | 6.54THB    | Energy Minerals       | +1.76%            |
 | MTW    | 46.328M     | 3.72THB | 5.08%         | 0.18THB     | Strong Buy            | 172.34M             | 1.193BTHB    | —          | —          | Consumer Non-Durables | +0.64%            |
+2022-12-27 11:11:25.565 | INFO     | __main__:log_table:140 - 
+ |        | Volume 1D   | Price    | Change % 1D   | Change 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector          | Sector Chg % 1D   |
+|--------|-------------|----------|---------------|-------------|-----------------------|---------------------|--------------|------------|------------|-----------------|-------------------|
+| TTB    | 284.621M    | 1.37THB  | 0.74%         | 0.01THB     | Buy                   | 389.931M            | 131.407BTHB  | 10.06      | 0.14THB    | Finance         | +0.74%            |
+| SIRI   | 173.946M    | 1.78THB  | 1.14%         | 0.02THB     | Buy                   | 309.624M            | 26.199BTHB   | 10.58      | 0.17THB    | Finance         | +0.74%            |
+| AAV    | 145.646M    | 3.02THB  | 4.86%         | 0.14THB     | Buy                   | 439.851M            | 33.387BTHB   | —          | −1.10THB   | Transportation  | +1.86%            |
+| BEAUTY | 104.551M    | 1.39THB  | 12.10%        | 0.15THB     | Strong Buy            | 145.325M            | 3.697BTHB    | —          | −0.02THB   | Retail Trade    | +1.21%            |
+| AWC    | 92.987M     | 6.25THB  | 3.31%         | 0.20THB     | Buy                   | 581.167M            | 193.605BTHB  | 56.70      | 0.11THB    | Finance         | +0.74%            |
+| TH     | 88.844M     | 2.62THB  | 18.02%        | 0.40THB     | Neutral               | 232.772M            | 2.142BTHB    | 9.58       | 0.25THB    | Finance         | +0.74%            |
+| PTT    | 80.83M      | 32.50THB | 0.78%         | 0.25THB     | Neutral               | 2.627B              | 921.157BTHB  | 9.12       | 3.54THB    | Energy Minerals | +1.21%            |
+| IRPC   | 80.196M     | 3.02THB  | 2.03%         | 0.06THB     | Buy                   | 242.192M            | 60.415BTHB   | 12.13      | 0.24THB    | Energy Minerals | +1.21%            |
+| SGC    | 75.331M     | 4.70THB  | 4.91%         | 0.22THB     | Sell                  | 354.056M            | 14.323BTHB   | —          | —          | Finance         | +0.74%            |
+| WHA    | 75.022M     | 3.94THB  | 1.55%         | 0.06THB     | Strong Buy            | 295.588M            | 57.994BTHB   | 17.90      | 0.22THB    | Transportation  | +1.86%            |

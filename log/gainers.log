@@ -869,3 +869,16 @@
 | MNIT   | 6.25%         | 1.70THB   | 0.10THB     | Strong Buy            | 2.3K        | 3.91K               | 220.8MTHB    | 27.21      | 0.06THB    | Finance                | +0.11%            |
 | TH     | 5.71%         | 2.22THB   | 0.12THB     | Sell                  | 12.721M     | 28.24M              | 2.027BTHB    | 9.06       | 0.25THB    | Finance                | +0.11%            |
 | PROEN  | 5.66%         | 5.60THB   | 0.30THB     | Sell                  | 7.692M      | 43.076M             | 1.675BTHB    | 29.71      | 0.20THB    | Technology Services    | −0.62%            |
+2022-12-27 11:11:25.550 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price   | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|---------------|---------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| TKT    | 29.36%        | 2.82THB | 0.64THB     | Strong Buy            | 52.99M      | 149.433M            | 518.36MTHB   | 16.20      | 0.14THB    | Producer Manufacturing | +0.66%            |
+| TH     | 18.02%        | 2.62THB | 0.40THB     | Neutral               | 88.844M     | 232.772M            | 2.142BTHB    | 9.58       | 0.25THB    | Finance                | +0.74%            |
+| TEAM   | 12.50%        | 8.10THB | 0.90THB     | Buy                   | 45.07M      | 365.07M             | 4.587BTHB    | 18.91      | 0.38THB    | Electronic Technology  | −0.73%            |
+| BEAUTY | 12.10%        | 1.39THB | 0.15THB     | Strong Buy            | 104.551M    | 145.325M            | 3.697BTHB    | —          | −0.02THB   | Retail Trade           | +1.21%            |
+| SPA    | 9.82%         | 12.3THB | 1.1THB      | Strong Buy            | 14.955M     | 183.95M             | 9.576BTHB    | —          | −0.17THB   | Consumer Services      | +1.61%            |
+| BRR    | 8.93%         | 9.15THB | 0.75THB     | Strong Buy            | 17.5M       | 160.122M            | 6.822BTHB    | 7.25       | 1.16THB    | Process Industries     | +1.10%            |
+| ASAP   | 8.67%         | 3.26THB | 0.26THB     | Strong Buy            | 3.44M       | 11.213M             | 2.178BTHB    | —          | −0.01THB   | Finance                | +0.74%            |
+| RP     | 8.57%         | 2.28THB | 0.18THB     | Buy                   | 1.442M      | 3.288M              | 421.704MTHB  | —          | −0.37THB   | Transportation         | +1.86%            |
+| TNPC   | 8.25%         | 2.10THB | 0.16THB     | Buy                   | 2.573M      | 5.403M              | 661.187MTHB  | 16.90      | 0.11THB    | Producer Manufacturing | +0.66%            |
+| CSP    | 8.00%         | 1.35THB | 0.10THB     | Buy                   | 1.645M      | 2.22M               | 620.211MTHB  | —          | −0.00THB   | Non-Energy Minerals    | +0.89%            |

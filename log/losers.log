@@ -869,3 +869,16 @@
 | SMK   | −2.67%        | 4.38THB  | −0.12THB    | Sell                  | 162.735K    | 712.779K            | 900MTHB      | —          | −167.55THB | Finance                | +0.11%            |
 | 2S    | −2.58%        | 3.02THB  | −0.08THB    | Sell                  | 211.187K    | 637.785K            | 1.705BTHB    | —          | −0.15THB   | Non-Energy Minerals    | +0.33%            |
 | PERM  | −2.56%        | 1.14THB  | −0.03THB    | Sell                  | 1.311M      | 1.495M              | 883.764MTHB  | —          | −0.31THB   | Non-Energy Minerals    | +0.33%            |
+2022-12-27 11:11:25.558 | INFO     | __main__:log_table:140 - 
+ |       | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| TPCS  | −9.13%        | 19.9THB  | −2.0THB     | Strong Sell           | 35.7K       | 710.43K             | 2.365BTHB    | 9.07       | 2.41THB    | Process Industries    | +1.10%            |
+| TNPF  | −8.59%        | 1.81THB  | −0.17THB    | Sell                  | 200         | 362                 | 289.939MTHB  | —          | −0.07THB   | Finance               | +0.74%            |
+| ABICO | −7.02%        | 4.50THB  | −0.34THB    | Strong Sell           | 212.647K    | 956.912K            | 1.183BTHB    | 31.80      | 0.15THB    | Consumer Non-Durables | +0.88%            |
+| SSC   | −5.76%        | 32.75THB | −2.00THB    | Buy                   | 6.503K      | 212.973K            | 9.24BTHB     | 730.04     | 0.05THB    | Consumer Non-Durables | +0.88%            |
+| KBS   | −5.41%        | 5.25THB  | −0.30THB    | Buy                   | 6.23M       | 32.709M             | 3.33BTHB     | 6.96       | 0.80THB    | Process Industries    | +1.10%            |
+| XPG   | −3.82%        | 1.51THB  | −0.06THB    | Neutral               | 69.782M     | 105.371M            | 14.688BTHB   | —          | −0.01THB   | Finance               | +0.74%            |
+| ASN   | −3.77%        | 3.06THB  | −0.12THB    | Strong Sell           | 73.403K     | 224.613K            | 595.296MTHB  | 62.60      | 0.05THB    | Finance               | +0.74%            |
+| KTMS  | −3.47%        | 3.90THB  | −0.14THB    | —                     | 48.039M     | 187.351M            | 294.285MTHB  | —          | —          | Health Services       | +0.56%            |
+| ADD   | −3.40%        | 10.0THB  | −0.4THB     | Sell                  | 1.069M      | 10.64M              | 1.648BTHB    | 24.01      | 0.43THB    | Technology Services   | +0.00%            |
+| JTS   | −3.37%        | 43.00THB | −1.50THB    | Sell                  | 1.358M      | 58.385M             | 31.437BTHB   | 152.50     | 0.29THB    | Technology Services   | +0.00%            |
