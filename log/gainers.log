@@ -882,3 +882,16 @@
 | RP     | 8.57%         | 2.28THB | 0.18THB     | Buy                   | 1.442M      | 3.288M              | 421.704MTHB  | —          | −0.37THB   | Transportation         | +1.86%            |
 | TNPC   | 8.25%         | 2.10THB | 0.16THB     | Buy                   | 2.573M      | 5.403M              | 661.187MTHB  | 16.90      | 0.11THB    | Producer Manufacturing | +0.66%            |
 | CSP    | 8.00%         | 1.35THB | 0.10THB     | Buy                   | 1.645M      | 2.22M               | 620.211MTHB  | —          | −0.00THB   | Non-Energy Minerals    | +0.89%            |
+2022-12-28 11:11:33.436 | INFO     | __main__:log_table:140 - 
+ |       | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| MVP   | 16.96%        | 2.62THB  | 0.38THB     | Buy                   | 42.479M     | 111.294M            | 687.908MTHB  | —          | −0.02THB   | Commercial Services   | +0.64%            |
+| CRANE | 16.46%        | 1.91THB  | 0.27THB     | Strong Buy            | 100.035M    | 191.066M            | 1.243BTHB    | —          | −0.29THB   | Finance               | +0.30%            |
+| GIFT  | 12.12%        | 7.40THB  | 0.80THB     | Buy                   | 4.542M      | 33.614M             | 2.183BTHB    | —          | −0.06THB   | Distribution Services | +0.46%            |
+| MALEE | 11.11%        | 6.50THB  | 0.65THB     | Strong Buy            | 2.266M      | 14.729M             | 1.638BTHB    | —          | −0.32THB   | Consumer Non-Durables | +0.01%            |
+| KWI   | 11.02%        | 2.82THB  | 0.28THB     | Buy                   | 30.53M      | 86.096M             | 5.193BTHB    | —          | −0.08THB   | Finance               | +0.30%            |
+| Q-CON | 10.88%        | 10.70THB | 1.05THB     | Strong Buy            | 5.871M      | 62.815M             | 3.86BTHB     | 17.74      | 0.54THB    | Non-Energy Minerals   | +0.14%            |
+| MENA  | 10.53%        | 1.68THB  | 0.16THB     | Strong Buy            | 27.812M     | 46.724M             | 1.116BTHB    | 25.33      | 0.06THB    | Transportation        | −0.05%            |
+| NV    | 7.38%         | 2.62THB  | 0.18THB     | Buy                   | 4.389M      | 11.499M             | 1.464BTHB    | —          | −0.09THB   | Health Technology     | +0.08%            |
+| IND   | 6.83%         | 1.72THB  | 0.11THB     | Buy                   | 19.489M     | 33.522M             | 556.5MTHB    | 10.35      | 0.16THB    | Industrial Services   | +0.86%            |
+| AJ    | 6.67%         | 12.8THB  | 0.8THB      | Buy                   | 750.349K    | 9.604M              | 5.28BTHB     | 12.56      | 0.96THB    | Process Industries    | +0.35%            |

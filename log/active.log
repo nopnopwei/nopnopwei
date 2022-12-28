@@ -882,3 +882,16 @@
 | IRPC   | 80.196M     | 3.02THB  | 2.03%         | 0.06THB     | Buy                   | 242.192M            | 60.415BTHB   | 12.13      | 0.24THB    | Energy Minerals | +1.21%            |
 | SGC    | 75.331M     | 4.70THB  | 4.91%         | 0.22THB     | Sell                  | 354.056M            | 14.323BTHB   | —          | —          | Finance         | +0.74%            |
 | WHA    | 75.022M     | 3.94THB  | 1.55%         | 0.06THB     | Strong Buy            | 295.588M            | 57.994BTHB   | 17.90      | 0.22THB    | Transportation  | +1.86%            |
+2022-12-28 11:11:33.451 | INFO     | __main__:log_table:140 - 
+ |       | Volume 1D   | Price    | Change % 1D   | Change 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|-------------|----------|---------------|-------------|-----------------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| WHA   | 209.078M    | 4.10THB  | 4.06%         | 0.16THB     | Strong Buy            | 857.22M             | 58.891BTHB   | 18.18      | 0.22THB    | Transportation         | −0.05%            |
+| AAV   | 112.778M    | 3.06THB  | 1.32%         | 0.04THB     | Strong Buy            | 345.102M            | 35.01BTHB    | —          | −1.10THB   | Transportation         | −0.05%            |
+| SIRI  | 111.961M    | 1.78THB  | 0.00%         | 0.00THB     | Buy                   | 199.29M             | 26.497BTHB   | 10.70      | 0.17THB    | Finance                | +0.30%            |
+| PSG   | 101.861M    | 1.26THB  | 3.28%         | 0.04THB     | Buy                   | 128.345M            | 79.291BTHB   | 164.86     | 0.01THB    | Industrial Services    | +0.86%            |
+| CRANE | 100.035M    | 1.91THB  | 16.46%        | 0.27THB     | Strong Buy            | 191.066M            | 1.243BTHB    | —          | −0.29THB   | Finance                | +0.30%            |
+| TTB   | 96.593M     | 1.38THB  | 0.73%         | 0.01THB     | Buy                   | 133.298M            | 132.373BTHB  | 10.13      | 0.14THB    | Finance                | +0.30%            |
+| NUSA  | 71.18M      | 1.25THB  | 2.46%         | 0.03THB     | Strong Buy            | 88.975M             | 14.202BTHB   | —          | −0.06THB   | Finance                | +0.30%            |
+| TKT   | 70.665M     | 2.84THB  | 0.71%         | 0.02THB     | Strong Buy            | 200.69M             | 670.54MTHB   | 20.95      | 0.14THB    | Producer Manufacturing | +0.12%            |
+| BANPU | 58.997M     | 13.7THB  | 2.24%         | 0.3THB      | Buy                   | 808.257M            | 90.666BTHB   | 2.54       | 6.54THB    | Energy Minerals        | +0.04%            |
+| PTT   | 49.853M     | 32.75THB | 0.77%         | 0.25THB     | Buy                   | 1.633B              | 928.297BTHB  | 9.19       | 3.54THB    | Energy Minerals        | +0.04%            |

@@ -882,3 +882,16 @@
 | KTMS  | −3.47%        | 3.90THB  | −0.14THB    | —                     | 48.039M     | 187.351M            | 294.285MTHB  | —          | —          | Health Services       | +0.56%            |
 | ADD   | −3.40%        | 10.0THB  | −0.4THB     | Sell                  | 1.069M      | 10.64M              | 1.648BTHB    | 24.01      | 0.43THB    | Technology Services   | +0.00%            |
 | JTS   | −3.37%        | 43.00THB | −1.50THB    | Sell                  | 1.358M      | 58.385M             | 31.437BTHB   | 152.50     | 0.29THB    | Technology Services   | +0.00%            |
+2022-12-28 11:11:33.443 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| AMARIN | −4.58%        | 6.25THB  | −0.30THB    | Sell                  | 162.935K    | 1.018M              | 6.539BTHB    | 13.72      | 0.48THB    | Consumer Services      | +0.08%            |
+| JTS    | −4.07%        | 41.25THB | −1.75THB    | Sell                  | 899.933K    | 37.122M             | 30.378BTHB   | 147.36     | 0.29THB    | Technology Services    | −1.06%            |
+| TEAM   | −3.70%        | 7.80THB  | −0.30THB    | Buy                   | 19.712M     | 153.755M            | 5.16BTHB     | 21.27      | 0.38THB    | Electronic Technology  | −0.88%            |
+| SPG    | −3.47%        | 16.7THB  | −0.6THB     | Buy                   | 501         | 8.367K              | 5.968BTHB    | 15.68      | 1.10THB    | Process Industries     | +0.35%            |
+| CFRESH | −3.28%        | 2.36THB  | −0.08THB    | Sell                  | 1.767M      | 4.169M              | 2.262BTHB    | 7.88       | 0.31THB    | Consumer Non-Durables  | +0.01%            |
+| UPOIC  | −3.03%        | 6.40THB  | −0.20THB    | Sell                  | 71.104K     | 455.066K            | 2.139BTHB    | 6.35       | 1.04THB    | Process Industries     | +0.35%            |
+| VARO   | −3.01%        | 8.05THB  | −0.25THB    | Neutral               | 353.305K    | 2.844M              | 829.188MTHB  | —          | −0.41THB   | Producer Manufacturing | +0.12%            |
+| SIS    | −2.88%        | 25.25THB | −0.75THB    | Sell                  | 451.991K    | 11.413M             | 9.105BTHB    | 11.93      | 2.18THB    | Distribution Services  | +0.46%            |
+| TNPC   | −2.86%        | 2.04THB  | −0.06THB    | Neutral               | 3.916M      | 7.988M              | 715.718MTHB  | 18.29      | 0.11THB    | Producer Manufacturing | +0.12%            |
+| CHAYO  | −2.81%        | 8.65THB  | −0.25THB    | Neutral               | 7.911M      | 68.427M             | 9.491BTHB    | 45.22      | 0.20THB    | Commercial Services    | +0.64%            |
