@@ -895,3 +895,16 @@
 | SIS    | −2.88%        | 25.25THB | −0.75THB    | Sell                  | 451.991K    | 11.413M             | 9.105BTHB    | 11.93      | 2.18THB    | Distribution Services  | +0.46%            |
 | TNPC   | −2.86%        | 2.04THB  | −0.06THB    | Neutral               | 3.916M      | 7.988M              | 715.718MTHB  | 18.29      | 0.11THB    | Producer Manufacturing | +0.12%            |
 | CHAYO  | −2.81%        | 8.65THB  | −0.25THB    | Neutral               | 7.911M      | 68.427M             | 9.491BTHB    | 45.22      | 0.20THB    | Commercial Services    | +0.64%            |
+2022-12-29 11:11:52.975 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| A5     | −12.96%       | 3.76THB  | −0.56THB    | Sell                  | 159.987M    | 601.551M            | 5.225BTHB    | 54.41      | 0.08THB    | Finance               | +0.45%            |
+| BRR    | −9.23%        | 8.85THB  | −0.90THB    | Buy                   | 6.189M      | 54.772M             | 7.918BTHB    | 8.41       | 1.16THB    | Process Industries    | +0.25%            |
+| CRANE  | −6.28%        | 1.79THB  | −0.12THB    | Buy                   | 29.468M     | 52.747M             | 1.448BTHB    | —          | −0.29THB   | Finance               | +0.45%            |
+| ABICO  | −6.28%        | 4.18THB  | −0.28THB    | Strong Sell           | 658.261K    | 2.752M              | 1.09BTHB     | 29.30      | 0.15THB    | Consumer Non-Durables | +0.14%            |
+| BROCK  | −5.95%        | 1.58THB  | −0.10THB    | Strong Sell           | 508.903K    | 804.067K            | 1.722BTHB    | 66.67      | 0.03THB    | Finance               | +0.45%            |
+| URBNPF | −5.61%        | 2.02THB  | −0.12THB    | Strong Sell           | 5K          | 10.1K               | 154.08MTHB   | —          | −0.14THB   | Finance               | +0.45%            |
+| MVP    | −5.34%        | 2.48THB  | −0.14THB    | Neutral               | 2.366M      | 5.869M              | 804.606MTHB  | —          | −0.02THB   | Commercial Services   | +0.72%            |
+| NCAP   | −4.79%        | 3.18THB  | −0.16THB    | Sell                  | 21.754M     | 69.176M             | 4.509BTHB    | 20.50      | 0.16THB    | Finance               | +0.45%            |
+| NUSA   | −4.00%        | 1.20THB  | −0.05THB    | Buy                   | 57.851M     | 69.421M             | 14.552BTHB   | —          | −0.06THB   | Finance               | +0.45%            |
+| SSC    | −3.73%        | 32.25THB | −1.25THB    | Buy                   | 1.047K      | 33.766K             | 8.908BTHB    | 703.78     | 0.05THB    | Consumer Non-Durables | +0.14%            |

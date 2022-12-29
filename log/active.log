@@ -895,3 +895,16 @@
 | TKT   | 70.665M     | 2.84THB  | 0.71%         | 0.02THB     | Strong Buy            | 200.69M             | 670.54MTHB   | 20.95      | 0.14THB    | Producer Manufacturing | +0.12%            |
 | BANPU | 58.997M     | 13.7THB  | 2.24%         | 0.3THB      | Buy                   | 808.257M            | 90.666BTHB   | 2.54       | 6.54THB    | Energy Minerals        | +0.04%            |
 | PTT   | 49.853M     | 32.75THB | 0.77%         | 0.25THB     | Buy                   | 1.633B              | 928.297BTHB  | 9.19       | 3.54THB    | Energy Minerals        | +0.04%            |
+2022-12-29 11:11:52.982 | INFO     | __main__:log_table:140 - 
+ |      | Volume 1D   | Price    | Change % 1D   | Change 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|------|-------------|----------|---------------|-------------|-----------------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| TTB  | 271.433M    | 1.39THB  | 0.72%         | 0.01THB     | Strong Buy            | 377.292M            | 133.34BTHB   | 10.21      | 0.14THB    | Finance                | +0.45%            |
+| SIRI | 196.583M    | 1.77THB  | −0.56%        | −0.01THB    | Buy                   | 347.952M            | 26.497BTHB   | 10.70      | 0.17THB    | Finance                | +0.45%            |
+| A5   | 159.987M    | 3.76THB  | −12.96%       | −0.56THB    | Sell                  | 601.551M            | 5.225BTHB    | 54.41      | 0.08THB    | Finance                | +0.45%            |
+| PSG  | 147.158M    | 1.33THB  | 5.56%         | 0.07THB     | Buy                   | 195.721M            | 81.89BTHB    | 170.27     | 0.01THB    | Industrial Services    | +2.38%            |
+| WHA  | 111.955M    | 4.12THB  | 0.49%         | 0.02THB     | Strong Buy            | 461.256M            | 61.282BTHB   | 18.92      | 0.22THB    | Transportation         | +0.21%            |
+| IRPC | 83.568M     | 3.02THB  | −0.66%        | −0.02THB    | Neutral               | 252.377M            | 62.048BTHB   | 12.46      | 0.24THB    | Energy Minerals        | −0.32%            |
+| SM   | 77.862M     | 2.10THB  | 2.94%         | 0.06THB     | —                     | 163.509M            | —            | —          | —          | Distribution Services  | +0.30%            |
+| TKT  | 70.183M     | 2.84THB  | 0.00%         | 0.00THB     | Buy                   | 199.32M             | 675.295MTHB  | 21.10      | 0.14THB    | Producer Manufacturing | +0.05%            |
+| BEM  | 63.524M     | 9.70THB  | −0.51%        | −0.05THB    | Buy                   | 616.185M            | 149.029BTHB  | 66.87      | 0.15THB    | Transportation         | +0.21%            |
+| PTT  | 61.354M     | 32.75THB | 0.00%         | 0.00THB     | Neutral               | 2.009B              | 935.438BTHB  | 9.26       | 3.54THB    | Energy Minerals        | −0.32%            |
