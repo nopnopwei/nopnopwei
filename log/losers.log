@@ -908,3 +908,16 @@
 | NCAP   | −4.79%        | 3.18THB  | −0.16THB    | Sell                  | 21.754M     | 69.176M             | 4.509BTHB    | 20.50      | 0.16THB    | Finance               | +0.45%            |
 | NUSA   | −4.00%        | 1.20THB  | −0.05THB    | Buy                   | 57.851M     | 69.421M             | 14.552BTHB   | —          | −0.06THB   | Finance               | +0.45%            |
 | SSC    | −3.73%        | 32.25THB | −1.25THB    | Buy                   | 1.047K      | 33.766K             | 8.908BTHB    | 703.78     | 0.05THB    | Consumer Non-Durables | +0.14%            |
+2022-12-30 11:11:12.871 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price   | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|---------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| SR     | −7.44%        | 5.60THB | −0.45THB    | Strong Sell           | 10K         | 56K                 | 364.8MTHB    | 19.00      | 0.32THB    | Miscellaneous         | +0.13%            |
+| SUSCO  | −5.63%        | 4.02THB | −0.24THB    | Sell                  | 44.641M     | 179.455M            | 4.686BTHB    | 10.50      | 0.41THB    | Retail Trade          | +0.43%            |
+| SPA    | −4.07%        | 1.65THB | −0.07THB    | Buy                   | 3.388M      | 5.591M              | 602MTHB      | 11.05      | 0.16THB    | Industrial Services   | +0.04%            |
+| SFT    | −4.07%        | 11.8THB | −0.5THB     | Buy                   | 5.067M      | 59.794M             | 10.517BTHB   | —          | −0.17THB   | Consumer Services     | −0.27%            |
+| WARRIX | −4.00%        | 7.20THB | −0.30THB    | —                     | 9.395M      | 67.645M             | —            | —          | —          | Consumer Non-Durables | +0.21%            |
+| NPK    | −3.75%        | 15.4THB | −0.6THB     | Sell                  | 1.401K      | 21.575K             | 160MTHB      | —          | −3.67THB   | Consumer Non-Durables | +0.21%            |
+| NFC    | −3.70%        | 5.20THB | −0.20THB    | Strong Sell           | 591.396K    | 3.075M              | 5.874BTHB    | 13.90      | 0.39THB    | Distribution Services | +0.03%            |
+| BKD    | −3.61%        | 4.80THB | −0.18THB    | Strong Sell           | 415.3K      | 1.993M              | 2.191BTHB    | 28.79      | 0.17THB    | Commercial Services   | +0.05%            |
+| SIAM   | −3.50%        | 1.93THB | −0.07THB    | Sell                  | 29.322M     | 56.592M             | —            | —          | —          | Utilities             | −0.32%            |
+| ESSO   | −3.33%        | 5.80THB | −0.20THB    | Buy                   | 989.101K    | 5.737M              | 1.94BTHB     | 14.61      | 0.41THB    | Distribution Services | +0.03%            |
