@@ -921,3 +921,16 @@
 | SSC    | 8.53%         | 35.00THB | 2.75THB     | Strong Buy            | 25.636K     | 897.26K             | 8.575BTHB    | 677.52     | 0.05THB    | Consumer Non-Durables | +0.21%            |
 | BROCK  | 7.59%         | 1.70THB  | 0.12THB     | Strong Buy            | 70.5K       | 119.85K             | 1.62BTHB     | 62.70      | 0.03THB    | Finance               | +0.11%            |
 | BOL    | 6.73%         | 11.1THB  | 0.7THB      | Buy                   | 2.491M      | 27.654M             | 8.533BTHB    | 32.21      | 0.32THB    | Technology Services   | +3.85%            |
+2022-12-31 11:10:46.087 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| BTNC   | 19.26%        | 16.1THB  | 2.6THB      | Strong Buy            | 13.2K       | 212.52K             | 193.2MTHB    | —          | −0.11THB   | Retail Trade          | +0.03%            |
+| SIRIP  | 16.45%        | 8.85THB  | 1.25THB     | Strong Buy            | 900         | 7.965K              | 1.505BTHB    | 16.90      | 0.45THB    | Finance               | −0.25%            |
+| DELTA  | 14.96%        | 830THB   | 108THB      | Strong Buy            | 23.558M     | 19.553B             | 1.035TTHB    | 67.97      | 10.62THB   | Electronic Technology | +9.85%            |
+| SKY    | 13.39%        | 12.7THB  | 1.5THB      | Strong Buy            | 21.146M     | 268.555M            | 7.827BTHB    | 50.86      | 0.22THB    | Technology Services   | +0.68%            |
+| MALEE  | 12.50%        | 7.20THB  | 0.80THB     | Strong Buy            | 4.78M       | 34.414M             | 2.016BTHB    | —          | −0.32THB   | Consumer Non-Durables | +0.23%            |
+| SFP    | 12.07%        | 130.0THB | 14.0THB     | Buy                   | 1.616K      | 210.08K             | 2.73BTHB     | 12.84      | 9.03THB    | Consumer Non-Durables | +0.23%            |
+| URBNPF | 9.90%         | 2.22THB  | 0.20THB     | Buy                   | 200         | 444                 | 159.84MTHB   | —          | −0.14THB   | Finance               | −0.25%            |
+| SSC    | 8.53%         | 35.00THB | 2.75THB     | Strong Buy            | 25.636K     | 897.26K             | 9.307BTHB    | 677.52     | 0.05THB    | Consumer Non-Durables | +0.23%            |
+| BROCK  | 7.59%         | 1.70THB  | 0.12THB     | Strong Buy            | 70.5K       | 119.85K             | 1.743BTHB    | 62.70      | 0.03THB    | Finance               | −0.25%            |
+| BOL    | 6.73%         | 11.1THB  | 0.7THB      | Buy                   | 2.491M      | 27.654M             | 9.108BTHB    | 32.21      | 0.32THB    | Technology Services   | +0.68%            |
