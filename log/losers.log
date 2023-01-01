@@ -934,3 +934,16 @@
 | SFT    | −3.61%        | 4.80THB | −0.18THB    | Strong Sell           | 415.3K      | 1.993M              | 2.112BTHB    | 28.79      | 0.17THB    | Commercial Services   | +0.75%            |
 | UBA    | −3.50%        | 1.93THB | −0.07THB    | Sell                  | 29.322M     | 56.592M             | —            | —          | —          | Utilities             | −0.48%            |
 | SORKON | −3.33%        | 5.80THB | −0.20THB    | Buy                   | 989.101K    | 5.737M              | 1.876BTHB    | 14.61      | 0.41THB    | Distribution Services | +0.07%            |
+2023-01-01 11:10:56.245 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price   | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|---------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| M-STOR | −7.44%        | 5.60THB | −0.45THB    | Strong Sell           | 10K         | 56K                 | 340.48MTHB   | 19.00      | 0.32THB    | Miscellaneous         | −0.09%            |
+| SUSCO  | −5.63%        | 4.02THB | −0.24THB    | Sell                  | 44.641M     | 179.455M            | 4.422BTHB    | 10.50      | 0.41THB    | Retail Trade          | +0.04%            |
+| IND    | −4.07%        | 1.65THB | −0.07THB    | Buy                   | 3.388M      | 5.591M              | 577.5MTHB    | 11.05      | 0.16THB    | Industrial Services   | −0.81%            |
+| SPA    | −4.07%        | 11.8THB | −0.5THB     | Buy                   | 5.067M      | 59.794M             | 10.089BTHB   | —          | −0.17THB   | Consumer Services     | −0.59%            |
+| WARRIX | −4.00%        | 7.20THB | −0.30THB    | —                     | 9.395M      | 67.645M             | —            | —          | —          | Consumer Non-Durables | +0.25%            |
+| NPK    | −3.75%        | 15.4THB | −0.6THB     | Sell                  | 1.401K      | 21.575K             | 154MTHB      | —          | −3.67THB   | Consumer Non-Durables | +0.25%            |
+| NFC    | −3.70%        | 5.20THB | −0.20THB    | Strong Sell           | 591.396K    | 3.075M              | 5.657BTHB    | 13.90      | 0.39THB    | Distribution Services | +0.09%            |
+| SFT    | −3.61%        | 4.80THB | −0.18THB    | Strong Sell           | 415.3K      | 1.993M              | 2.112BTHB    | 28.79      | 0.17THB    | Commercial Services   | +0.76%            |
+| UBA    | −3.50%        | 1.93THB | −0.07THB    | Sell                  | 29.322M     | 56.592M             | —            | —          | —          | Utilities             | −0.47%            |
+| SORKON | −3.33%        | 5.80THB | −0.20THB    | Buy                   | 989.101K    | 5.737M              | 1.876BTHB    | 14.61      | 0.41THB    | Distribution Services | +0.09%            |
