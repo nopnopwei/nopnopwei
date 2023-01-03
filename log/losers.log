@@ -960,3 +960,16 @@
 | SFT    | −3.61%        | 4.80THB | −0.18THB    | Strong Sell           | 415.3K      | 1.993M              | 2.112BTHB    | 28.79      | 0.17THB    | Commercial Services   | +0.76%            |
 | UBA    | −3.50%        | 1.93THB | −0.07THB    | Sell                  | 29.322M     | 56.592M             | —            | —          | —          | Utilities             | −0.47%            |
 | SORKON | −3.33%        | 5.80THB | −0.20THB    | Buy                   | 989.101K    | 5.737M              | 1.876BTHB    | 14.61      | 0.41THB    | Distribution Services | +0.09%            |
+2023-01-03 11:11:30.194 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| BRR    | −10.40%       | 7.75THB  | −0.90THB    | Neutral               | 23.456M     | 181.784M            | 7.025BTHB    | 7.46       | 1.16THB    | Process Industries    | −0.47%            |
+| UMS    | −10.38%       | 1.64THB  | −0.19THB    | Strong Sell           | 39.7K       | 65.108K             | 2.096BTHB    | —          | −0.01THB   | Energy Minerals       | −1.00%            |
+| XPG    | −7.79%        | 1.42THB  | −0.12THB    | Strong Sell           | 143.234M    | 203.393M            | 14.407BTHB   | —          | −0.01THB   | Finance               | +0.24%            |
+| AS     | −6.90%        | 16.2THB  | −1.2THB     | Sell                  | 19.693M     | 319.032M            | 8.172BTHB    | 20.67      | 0.88THB    | Technology Services   | +2.85%            |
+| SCAP   | −6.54%        | 25.00THB | −1.75THB    | Strong Sell           | 2.182M      | 54.554M             | 14.746BTHB   | 34.82      | 0.77THB    | Finance               | +0.24%            |
+| KLINIQ | −5.81%        | 36.50THB | −2.25THB    | Strong Sell           | 3.164M      | 115.471M            | 8.525BTHB    | 42.78      | 0.91THB    | Health Services       | +0.98%            |
+| TH     | −5.38%        | 2.46THB  | −0.14THB    | Sell                  | 20.551M     | 50.554M             | 2.509BTHB    | 11.22      | 0.25THB    | Finance               | +0.24%            |
+| CSP    | −5.11%        | 1.30THB  | −0.07THB    | Neutral               | 464.072K    | 603.294K            | 679.751MTHB  | —          | −0.00THB   | Non-Energy Minerals   | +0.47%            |
+| W      | −5.05%        | 1.88THB  | −0.10THB    | Strong Sell           | 1.984M      | 3.73M               | 1.612BTHB    | —          | −0.46THB   | Consumer Services     | +1.05%            |
+| ITC    | −5.00%        | 28.50THB | −1.50THB    | Strong Sell           | 6.033M      | 171.942M            | 72BTHB       | —          | —          | Consumer Non-Durables | −0.27%            |
