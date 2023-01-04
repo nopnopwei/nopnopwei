@@ -973,3 +973,16 @@
 | CSP    | −5.11%        | 1.30THB  | −0.07THB    | Neutral               | 464.072K    | 603.294K            | 679.751MTHB  | —          | −0.00THB   | Non-Energy Minerals   | +0.47%            |
 | W      | −5.05%        | 1.88THB  | −0.10THB    | Strong Sell           | 1.984M      | 3.73M               | 1.612BTHB    | —          | −0.46THB   | Consumer Services     | +1.05%            |
 | ITC    | −5.00%        | 28.50THB | −1.50THB    | Strong Sell           | 6.033M      | 171.942M            | 72BTHB       | —          | —          | Consumer Non-Durables | −0.27%            |
+2023-01-04 11:12:12.686 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| NEW    | −23.16%       | 94.0THB  | −28.5THB    | Sell                  | 4.499K      | 421.781K            | 1.22BTHB     | 13.32      | 9.16THB    | Health Services       | +0.52%            |
+| SIRIP  | −12.99%       | 7.70THB  | −1.15THB    | Strong Sell           | 5.601K      | 43.128K             | 1.318BTHB    | 19.68      | 0.45THB    | Finance               | +0.13%            |
+| BTNC   | −11.76%       | 13.5THB  | −1.8THB     | Buy                   | 10.301K     | 139.064K            | 183.6MTHB    | —          | −0.11THB   | Retail Trade          | +0.64%            |
+| B52    | −7.41%        | 2.00THB  | −0.16THB    | Strong Sell           | 574.501K    | 1.149M              | 1.593BTHB    | —          | −0.21THB   | Retail Trade          | +0.64%            |
+| GSC    | −7.18%        | 1.81THB  | −0.14THB    | Sell                  | 630.9K      | 1.142M              | 487.5MTHB    | 47.10      | 0.04THB    | Commercial Services   | −0.40%            |
+| KAMART | −6.92%        | 7.40THB  | −0.55THB    | Sell                  | 21.215M     | 156.995M            | 6.996BTHB    | 26.18      | 0.30THB    | Distribution Services | −0.74%            |
+| COMAN  | −6.00%        | 4.70THB  | −0.30THB    | Sell                  | 489.801K    | 2.302M              | 670MTHB      | —          | −0.29THB   | Technology Services   | −2.31%            |
+| TTI    | −5.83%        | 28.25THB | −1.75THB    | Sell                  | 700         | 19.775K             | 1.5BTHB      | 10.59      | 2.83THB    | Process Industries    | +0.25%            |
+| SPRC   | −5.24%        | 10.0THB  | −0.6THB     | Strong Sell           | 49.976M     | 497.262M            | 45.527BTHB   | 4.91       | 2.14THB    | Energy Minerals       | −2.31%            |
+| JTS    | −5.21%        | 45.50THB | −2.50THB    | Sell                  | 1.868M      | 85.014M             | 33.91BTHB    | 164.50     | 0.29THB    | Technology Services   | −2.31%            |
