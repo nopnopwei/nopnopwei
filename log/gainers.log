@@ -986,3 +986,16 @@
 | MITSIB | 6.61%         | 1.29THB  | 0.08THB     | Strong Buy            | 18.637M     | 24.041M             | 907.953MTHB  | 23.00      | 0.05THB    | Retail Trade          | +0.64%            |
 | MTW    | 6.15%         | 4.14THB  | 0.24THB     | Strong Buy            | 16.539M     | 68.471M             | 1.308BTHB    | —          | —          | Consumer Non-Durables | −0.57%            |
 | JDF    | 6.12%         | 3.12THB  | 0.18THB     | Buy                   | 5.918M      | 18.465M             | 1.764BTHB    | 50.34      | 0.06THB    | Process Industries    | +0.25%            |
+2023-01-05 11:12:24.491 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| K      | 14.39%        | 1.51THB  | 0.19THB     | Buy                   | 29.483M     | 44.52M              | 502.007MTHB  | —          | −0.08THB   | Industrial Services   | −0.80%            |
+| WARRIX | 12.16%        | 8.30THB  | 0.90THB     | Strong Buy            | 45.826M     | 380.352M            | —            | —          | —          | Consumer Non-Durables | −0.71%            |
+| PAF    | 11.94%        | 1.50THB  | 0.16THB     | Buy                   | 21.223M     | 31.834M             | 718.778MTHB  | 29.71      | 0.05THB    | Consumer Non-Durables | −0.71%            |
+| DMT    | 11.11%        | 12.0THB  | 1.2THB      | Strong Buy            | 10.042M     | 120.507M            | 12.757BTHB   | 18.21      | 0.59THB    | Transportation        | +0.49%            |
+| JKN    | 8.33%         | 4.42THB  | 0.34THB     | Buy                   | 66.234M     | 292.755M            | 2.627BTHB    | 22.30      | 0.24THB    | Consumer Services     | +0.30%            |
+| EKH    | 8.28%         | 9.15THB  | 0.70THB     | Strong Buy            | 28.914M     | 264.56M             | 5.273BTHB    | —          | 0.45THB    | Health Services       | +0.39%            |
+| ABM    | 7.87%         | 1.92THB  | 0.14THB     | Buy                   | 29.641M     | 56.911M             | 712MTHB      | 20.30      | 0.09THB    | Process Industries    | +1.01%            |
+| AKP    | 6.67%         | 2.24THB  | 0.14THB     | Buy                   | 6.543M      | 14.656M             | 848.4MTHB    | 23.92      | 0.09THB    | Industrial Services   | −0.80%            |
+| MTW    | 5.80%         | 4.38THB  | 0.24THB     | Buy                   | 12.486M     | 54.69M              | 1.314BTHB    | —          | —          | Consumer Non-Durables | −0.71%            |
+| SIS    | 5.77%         | 27.50THB | 1.50THB     | Buy                   | 1.213M      | 33.347M             | 9.105BTHB    | 11.93      | 2.18THB    | Distribution Services | −0.77%            |
