@@ -1025,3 +1025,16 @@
 | B52    | 6.86%         | 2.18THB  | 0.14THB     | Sell                  | 396.438K    | 864.235K            | 1.607BTHB    | —          | −0.21THB   | Retail Trade          | +0.87%            |
 | KCE    | 6.67%         | 48.00THB | 3.00THB     | Buy                   | 62.866M     | 3.018B              | 56.725BTHB   | 21.13      | 2.13THB    | Electronic Technology | +1.07%            |
 | THCOM  | 6.62%         | 16.1THB  | 1.0THB      | Strong Buy            | 34.752M     | 559.514M            | 17.647BTHB   | 40.50      | 0.37THB    | Communications        | +0.48%            |
+2023-01-08 11:10:55.886 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| HANA   | 14.22%        | 58.25THB | 7.25THB     | Strong Buy            | 53.192M     | 3.098B              | 46.884BTHB   | 42.31      | 1.21THB    | Electronic Technology | +1.07%            |
+| PROEN  | 11.76%        | 6.65THB  | 0.70THB     | Neutral               | 24.272M     | 161.408M            | 2.101BTHB    | 33.35      | 0.20THB    | Technology Services   | +2.21%            |
+| URBNPF | 10.55%        | 2.20THB  | 0.21THB     | Buy                   | 100         | 220                 | 158.4MTHB    | —          | −0.14THB   | Finance               | +1.12%            |
+| SNNP   | 10.50%        | 22.1THB  | 2.1THB      | Strong Buy            | 25.743M     | 568.91M             | 21.216BTHB   | 39.66      | 0.50THB    | Consumer Non-Durables | +1.26%            |
+| MNIT   | 10.12%        | 1.85THB  | 0.17THB     | Strong Buy            | 2.2K        | 4.07K               | 255.3MTHB    | 28.57      | 0.06THB    | Finance               | +1.12%            |
+| PLAT   | 7.26%         | 3.84THB  | 0.26THB     | Strong Buy            | 11.263M     | 43.248M             | 10.752BTHB   | —          | −0.15THB   | Finance               | +1.12%            |
+| TKN    | 6.90%         | 12.4THB  | 0.8THB      | Strong Buy            | 27.373M     | 339.43M             | 17.112BTHB   | 40.22      | 0.29THB    | Consumer Non-Durables | +1.26%            |
+| B52    | 6.86%         | 2.18THB  | 0.14THB     | Sell                  | 396.438K    | 864.235K            | 1.607BTHB    | —          | −0.21THB   | Retail Trade          | +0.88%            |
+| KCE    | 6.67%         | 48.00THB | 3.00THB     | Buy                   | 62.866M     | 3.018B              | 56.725BTHB   | 21.13      | 2.13THB    | Electronic Technology | +1.07%            |
+| THCOM  | 6.62%         | 16.1THB  | 1.0THB      | Strong Buy            | 34.752M     | 559.514M            | 17.647BTHB   | 40.50      | 0.37THB    | Communications        | +0.50%            |

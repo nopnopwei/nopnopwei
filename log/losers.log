@@ -1025,3 +1025,16 @@
 | CHAYO | −3.95%        | 8.50THB  | −0.35THB    | Neutral               | 6.52M       | 55.416M             | 9.064BTHB    | 44.97      | 0.20THB    | Commercial Services   | −0.08%            |
 | BANPU | −3.91%        | 12.3THB  | −0.5THB     | Strong Sell           | 294.714M    | 3.625B              | 83.223BTHB   | 2.42       | 6.54THB    | Energy Minerals       | −0.08%            |
 | MTW   | −3.65%        | 4.22THB  | −0.16THB    | Neutral               | 6.51M       | 27.472M             | 1.422BTHB    | —          | —          | Consumer Non-Durables | +1.15%            |
+2023-01-08 11:10:55.892 | INFO     | __main__:log_table:140 - 
+ |       | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| JKN   | −13.12%       | 3.84THB  | −0.58THB    | Strong Sell           | 92.217M     | 354.112M            | 2.473BTHB    | 24.15      | 0.24THB    | Consumer Services     | +0.83%            |
+| TH    | −9.02%        | 2.22THB  | −0.22THB    | Strong Sell           | 30.498M     | 67.707M             | 2.142BTHB    | 10.53      | 0.25THB    | Finance               | +1.12%            |
+| AAI   | −5.22%        | 6.35THB  | −0.35THB    | Strong Sell           | 19.927M     | 126.537M            | —            | —          | —          | Consumer Non-Durables | +1.26%            |
+| IVL   | −5.03%        | 37.75THB | −2.00THB    | Strong Sell           | 76.125M     | 2.874B              | 211.949BTHB  | 4.72       | 8.43THB    | Process Industries    | −0.67%            |
+| NEW   | −4.49%        | 85.00THB | −4.00THB    | Sell                  | 100         | 8.5K                | 850MTHB      | 9.72       | 9.16THB    | Health Services       | +2.05%            |
+| CSP   | −4.41%        | 1.30THB  | −0.06THB    | Sell                  | 303.6K      | 394.68K             | 645.019MTHB  | —          | −0.00THB   | Non-Energy Minerals   | +0.31%            |
+| TU    | −4.22%        | 15.9THB  | −0.7THB     | Strong Sell           | 74.9M       | 1.191B              | 74.012BTHB   | 10.16      | 1.63THB    | Consumer Non-Durables | +1.26%            |
+| CHAYO | −3.95%        | 8.50THB  | −0.35THB    | Neutral               | 6.52M       | 55.416M             | 9.064BTHB    | 44.97      | 0.20THB    | Commercial Services   | −0.06%            |
+| BANPU | −3.91%        | 12.3THB  | −0.5THB     | Strong Sell           | 294.714M    | 3.625B              | 83.223BTHB   | 2.42       | 6.54THB    | Energy Minerals       | −0.07%            |
+| MTW   | −3.65%        | 4.22THB  | −0.16THB    | Neutral               | 6.51M       | 27.472M             | 1.422BTHB    | —          | —          | Consumer Non-Durables | +1.26%            |
