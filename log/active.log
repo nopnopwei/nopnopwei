@@ -1038,3 +1038,16 @@
 | AAV   | 75.781M     | 3.08THB  | 0.00%         | 0.00THB     | Buy                   | 233.407M            | 35.706BTHB   | —          | −1.10THB   | Transportation        | +0.86%            |
 | TU    | 74.9M       | 15.9THB  | −4.22%        | −0.7THB     | Strong Sell           | 1.191B              | 74.012BTHB   | 10.16      | 1.63THB    | Consumer Non-Durables | +1.26%            |
 | IRPC  | 72.559M     | 2.94THB  | 0.00%         | 0.00THB     | Sell                  | 213.325M            | 60.007BTHB   | 12.05      | 0.24THB    | Energy Minerals       | −0.07%            |
+2023-01-09 11:12:22.478 | INFO     | __main__:log_table:140 - 
+ |        | Volume 1D   | Price    | Change % 1D   | Change 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|-------------|----------|---------------|-------------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| TTB    | 270.597M    | 1.45THB  | 0.00%         | 0.00THB     | Buy                   | 392.366M            | 140.103BTHB  | 10.72      | 0.14THB    | Finance               | +0.96%            |
+| BANPU  | 151.236M    | 12.5THB  | 1.63%         | 0.2THB      | Sell                  | 1.89B               | 83.223BTHB   | 2.33       | 6.54THB    | Energy Minerals       | +0.95%            |
+| SM     | 112.361M    | 2.20THB  | 4.76%         | 0.10THB     | Strong Buy            | 247.193M            | —            | —          | —          | Distribution Services | +0.55%            |
+| SIRI   | 104.318M    | 1.70THB  | 0.00%         | 0.00THB     | Neutral               | 177.34M             | 25.306BTHB   | 10.22      | 0.17THB    | Finance               | +0.96%            |
+| ESSO   | 87.144M     | 11.2THB  | 0.00%         | 0.0THB      | Sell                  | 976.015M            | 38.762BTHB   | 3.28       | 3.42THB    | Energy Minerals       | +0.95%            |
+| PRI    | 77.823M     | 26.3THB  | 13.64%        | 3.2THB      | Strong Buy            | 2.043B              | 7.392BTHB    | —          | —          | Finance               | +0.96%            |
+| NCAP   | 73.872M     | 4.04THB  | 6.32%         | 0.24THB     | Buy                   | 298.442M            | 5.13BTHB     | 23.33      | 0.16THB    | Finance               | +0.96%            |
+| WHA    | 73.517M     | 4.04THB  | −0.49%        | −0.02THB    | Buy                   | 297.007M            | 60.684BTHB   | 18.74      | 0.22THB    | Transportation        | +0.17%            |
+| IRPC   | 61.271M     | 2.98THB  | 1.36%         | 0.04THB     | Neutral               | 182.588M            | 60.007BTHB   | 12.05      | 0.24THB    | Energy Minerals       | +0.95%            |
+| TIDLOR | 58.229M     | 31.75THB | 10.43%        | 3.00THB     | Strong Buy            | 1.849B              | 71.799BTHB   | 19.36      | 1.49THB    | Finance               | +0.96%            |

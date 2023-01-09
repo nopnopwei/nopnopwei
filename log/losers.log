@@ -1038,3 +1038,16 @@
 | CHAYO | −3.95%        | 8.50THB  | −0.35THB    | Neutral               | 6.52M       | 55.416M             | 9.064BTHB    | 44.97      | 0.20THB    | Commercial Services   | −0.06%            |
 | BANPU | −3.91%        | 12.3THB  | −0.5THB     | Strong Sell           | 294.714M    | 3.625B              | 83.223BTHB   | 2.42       | 6.54THB    | Energy Minerals       | −0.07%            |
 | MTW   | −3.65%        | 4.22THB  | −0.16THB    | Neutral               | 6.51M       | 27.472M             | 1.422BTHB    | —          | —          | Consumer Non-Durables | +1.26%            |
+2023-01-09 11:12:22.473 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| JKN    | −11.46%       | 3.40THB  | −0.44THB    | Strong Sell           | 52.169M     | 177.374M            | 2.473BTHB    | 20.98      | 0.24THB    | Consumer Services     | +0.69%            |
+| NEW    | −11.35%       | 1.64THB  | −0.21THB    | Sell                  | 700         | 1.148K              | 255.3MTHB    | 31.46      | 0.06THB    | Finance               | +0.96%            |
+| CHOTI  | −9.71%        | 76.75THB | −8.25THB    | Sell                  | 2.1K        | 161.175K            | 850MTHB      | 9.28       | 9.16THB    | Health Services       | +0.54%            |
+| TAKUNI | −6.01%        | 8.60THB  | −0.55THB    | Strong Sell           | 6.04M       | 51.948M             | 5.032BTHB    | 21.12      | 0.43THB    | Retail Trade          | +0.88%            |
+| PTECH  | −5.79%        | 11.4THB  | −0.7THB     | Strong Sell           | 4.125M      | 47.021M             | 8.228BTHB    | 79.03      | 0.15THB    | Commercial Services   | +1.51%            |
+| SSF    | −5.70%        | 1.49THB  | −0.09THB    | Strong Sell           | 2.043M      | 3.044M              | 1.58BTHB     | —          | −0.12THB   | Process Industries    | +0.40%            |
+| TAE    | −4.93%        | 164.0THB | −8.5THB     | Sell                  | 402         | 65.928K             | 1.294BTHB    | 8.47       | 20.37THB   | Distribution Services | +0.55%            |
+| SFP    | −4.76%        | 3.20THB  | −0.16THB    | Sell                  | 32.543M     | 104.137M            | 2.688BTHB    | 26.79      | 0.13THB    | Retail Trade          | +0.88%            |
+| TEAMG  | −4.64%        | 22.6THB  | −1.1THB     | Sell                  | 9.9K        | 223.74K             | 5.808BTHB    | 19.60      | 1.21THB    | Commercial Services   | +1.51%            |
+| BA     | −4.60%        | 8.30THB  | −0.40THB    | Strong Sell           | 505         | 4.192K              | 2.349BTHB    | 17.92      | 0.49THB    | Consumer Non-Durables | +2.65%            |

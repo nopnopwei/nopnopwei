@@ -1038,3 +1038,16 @@
 | B52    | 6.86%         | 2.18THB  | 0.14THB     | Sell                  | 396.438K    | 864.235K            | 1.607BTHB    | —          | −0.21THB   | Retail Trade          | +0.88%            |
 | KCE    | 6.67%         | 48.00THB | 3.00THB     | Buy                   | 62.866M     | 3.018B              | 56.725BTHB   | 21.13      | 2.13THB    | Electronic Technology | +1.07%            |
 | THCOM  | 6.62%         | 16.1THB  | 1.0THB      | Strong Buy            | 34.752M     | 559.514M            | 17.647BTHB   | 40.50      | 0.37THB    | Communications        | +0.50%            |
+2023-01-09 11:12:22.467 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| IMH    | 17.05%        | 15.1THB  | 2.2THB      | Strong Buy            | 4.38M       | 66.141M             | 2.766BTHB    | 7.69       | 1.68THB    | Health Services       | +0.54%            |
+| PRI    | 13.64%        | 26.3THB  | 3.2THB      | Strong Buy            | 77.823M     | 2.043B              | 7.392BTHB    | —          | —          | Finance               | +0.96%            |
+| PRAPAT | 13.37%        | 2.12THB  | 0.25THB     | Strong Buy            | 50.522M     | 107.107M            | 699.38MTHB   | 101.63     | 0.02THB    | Consumer Non-Durables | +2.65%            |
+| MTC    | 10.81%        | 41.00THB | 4.00THB     | Strong Buy            | 56.8M       | 2.329B              | 78.44BTHB    | 15.50      | 2.39THB    | Finance               | +0.96%            |
+| TIDLOR | 10.43%        | 31.75THB | 3.00THB     | Strong Buy            | 58.229M     | 1.849B              | 71.799BTHB   | 19.36      | 1.49THB    | Finance               | +0.96%            |
+| SINGER | 10.19%        | 29.75THB | 2.75THB     | Neutral               | 15.523M     | 461.795M            | 21.898BTHB   | 21.12      | 1.29THB    | Distribution Services | +0.55%            |
+| SAWAD  | 9.38%         | 52.50THB | 4.50THB     | Strong Buy            | 34.352M     | 1.803B              | 65.911BTHB   | 14.96      | 3.21THB    | Finance               | +0.96%            |
+| MALEE  | 9.09%         | 7.80THB  | 0.65THB     | Strong Buy            | 9.181M      | 71.61M              | 3.902BTHB    | —          | −0.32THB   | Consumer Non-Durables | +2.65%            |
+| AKP    | 8.04%         | 2.42THB  | 0.18THB     | Strong Buy            | 11.912M     | 28.827M             | 904.96MTHB   | 25.51      | 0.09THB    | Industrial Services   | +0.73%            |
+| CWT    | 8.00%         | 2.70THB  | 0.20THB     | Buy                   | 8.803M      | 23.768M             | 1.575BTHB    | 6.74       | 0.37THB    | Process Industries    | +0.40%            |
