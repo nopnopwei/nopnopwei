@@ -1051,3 +1051,16 @@
 | SFP    | −4.76%        | 3.20THB  | −0.16THB    | Sell                  | 32.543M     | 104.137M            | 2.688BTHB    | 26.79      | 0.13THB    | Retail Trade          | +0.88%            |
 | TEAMG  | −4.64%        | 22.6THB  | −1.1THB     | Sell                  | 9.9K        | 223.74K             | 5.808BTHB    | 19.60      | 1.21THB    | Commercial Services   | +1.51%            |
 | BA     | −4.60%        | 8.30THB  | −0.40THB    | Strong Sell           | 505         | 4.192K              | 2.349BTHB    | 17.92      | 0.49THB    | Consumer Non-Durables | +2.65%            |
+2023-01-10 11:12:25.485 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| HEMP   | −9.86%        | 3.84THB  | −0.42THB    | Strong Sell           | 558.575K    | 2.145M              | 1.604BTHB    | —          | −0.11THB   | Consumer Services     | +0.00%            |
+| GSC    | −8.79%        | 70.00THB | −6.75THB    | Sell                  | 900         | 63K                 | 767.5MTHB    | 9.28       | 9.16THB    | Health Services       | +0.31%            |
+| PRI    | −8.19%        | 24.00THB | −2.25THB    | Neutral               | 21.466M     | 517.323M            | 8.4BTHB      | —          | —          | Finance               | −0.44%            |
+| NINE   | −7.06%        | 1.58THB  | −0.12THB    | Sell                  | 8.562M      | 13.528M             | 425MTHB      | 41.06      | 0.04THB    | Commercial Services   | +0.09%            |
+| GLOBAL | −6.14%        | 10.7THB  | −0.7THB     | Sell                  | 8.471M      | 90.634M             | 7.752BTHB    | 74.46      | 0.15THB    | Commercial Services   | +0.09%            |
+| DITTO  | −6.12%        | 6.90THB  | −0.45THB    | Sell                  | 96.211K     | 663.856K            | 11.683BTHB   | —          | −0.14THB   | Consumer Services     | +0.00%            |
+| TEAMG  | −5.80%        | 21.1THB  | −1.3THB     | Neutral               | 45.153M     | 952.729M            | 107.559BTHB  | 28.63      | 0.78THB    | Retail Trade          | −1.11%            |
+| NPK    | −5.29%        | 53.75THB | −3.00THB    | Strong Sell           | 2.619M      | 140.794M            | 29.964BTHB   | 113.18     | 0.51THB    | Distribution Services | +0.91%            |
+| PICO   | −4.48%        | 6.40THB  | −0.30THB    | Sell                  | 26.699M     | 170.873M            | 2.117BTHB    | 37.56      | 0.20THB    | Technology Services   | +0.63%            |
+| PRAPAT | −4.24%        | 15.8THB  | −0.7THB     | Buy                   | 200         | 3.16K               | 165MTHB      | —          | −3.67THB   | Consumer Non-Durables | +0.40%            |

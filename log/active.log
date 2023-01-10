@@ -1051,3 +1051,16 @@
 | WHA    | 73.517M     | 4.04THB  | −0.49%        | −0.02THB    | Buy                   | 297.007M            | 60.684BTHB   | 18.74      | 0.22THB    | Transportation        | +0.17%            |
 | IRPC   | 61.271M     | 2.98THB  | 1.36%         | 0.04THB     | Neutral               | 182.588M            | 60.007BTHB   | 12.05      | 0.24THB    | Energy Minerals       | +0.95%            |
 | TIDLOR | 58.229M     | 31.75THB | 10.43%        | 3.00THB     | Strong Buy            | 1.849B              | 71.799BTHB   | 19.36      | 1.49THB    | Finance               | +0.96%            |
+2023-01-10 11:12:25.492 | INFO     | __main__:log_table:140 - 
+ |       | Volume 1D   | Price    | Change % 1D   | Change 1D   | Technical Rating 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|-------|-------------|----------|---------------|-------------|-----------------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| IRPC  | 274.815M    | 3.10THB  | 4.03%         | 0.12THB     | Buy                   | 851.926M            | 60.824BTHB   | 12.21      | 0.24THB    | Energy Minerals       | +0.59%            |
+| TTB   | 228.85M     | 1.46THB  | 0.69%         | 0.01THB     | Buy                   | 334.121M            | 140.103BTHB  | 10.72      | 0.14THB    | Finance               | −0.44%            |
+| WHA   | 176.125M    | 3.96THB  | −1.98%        | −0.08THB    | Neutral               | 697.453M            | 60.385BTHB   | 18.64      | 0.22THB    | Transportation        | −0.43%            |
+| SIRI  | 169.722M    | 1.74THB  | 2.35%         | 0.04THB     | Buy                   | 295.316M            | 25.306BTHB   | 10.22      | 0.17THB    | Finance               | −0.44%            |
+| BANPU | 104.568M    | 12.5THB  | 0.00%         | 0.0THB      | Sell                  | 1.307B              | 84.576BTHB   | 2.37       | 6.54THB    | Energy Minerals       | +0.59%            |
+| BEM   | 104.333M    | 9.60THB  | 0.00%         | 0.00THB     | Neutral               | 1.002B              | 146.736BTHB  | 65.84      | 0.15THB    | Transportation        | −0.43%            |
+| ESSO  | 96.147M     | 11.4THB  | 1.79%         | 0.2THB      | Sell                  | 1.096B              | 38.762BTHB   | 3.28       | 3.42THB    | Energy Minerals       | +0.59%            |
+| TH    | 82.743M     | 2.48THB  | 5.98%         | 0.14THB     | Buy                   | 205.202M            | 2.258BTHB    | 10.10      | 0.25THB    | Finance               | −0.44%            |
+| PTTGC | 70.792M     | 50.25THB | 5.79%         | 2.75THB     | Strong Buy            | 3.557B              | 214.17BTHB   | —          | −1.01THB   | Energy Minerals       | +0.59%            |
+| SABUY | 69.668M     | 12.1THB  | 8.04%         | 0.9THB      | Buy                   | 842.987M            | 16.029BTHB   | 15.19      | 0.76THB    | Distribution Services | +0.91%            |

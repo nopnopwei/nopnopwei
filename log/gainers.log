@@ -1051,3 +1051,16 @@
 | MALEE  | 9.09%         | 7.80THB  | 0.65THB     | Strong Buy            | 9.181M      | 71.61M              | 3.902BTHB    | —          | −0.32THB   | Consumer Non-Durables | +2.65%            |
 | AKP    | 8.04%         | 2.42THB  | 0.18THB     | Strong Buy            | 11.912M     | 28.827M             | 904.96MTHB   | 25.51      | 0.09THB    | Industrial Services   | +0.73%            |
 | CWT    | 8.00%         | 2.70THB  | 0.20THB     | Buy                   | 8.803M      | 23.768M             | 1.575BTHB    | 6.74       | 0.37THB    | Process Industries    | +0.40%            |
+2023-01-10 11:12:25.479 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| IT     | 19.29%        | 5.76THB  | 0.94THB     | Strong Buy            | 6.871M      | 39.507M             | 1.766BTHB    | 14.00      | 0.34THB    | Retail Trade           | −1.11%            |
+| CFRESH | 16.67%        | 2.80THB  | 0.40THB     | Buy                   | 38.864M     | 108.818M            | 2.225BTHB    | 7.75       | 0.31THB    | Consumer Non-Durables  | +0.40%            |
+| CNT    | 12.14%        | 1.57THB  | 0.17THB     | Buy                   | 19.665M     | 30.875M             | 1.439BTHB    | —          | −0.10THB   | Industrial Services    | −0.15%            |
+| FSMART | 11.72%        | 14.3THB  | 1.5THB      | Buy                   | 21.753M     | 311.066M            | 9.384BTHB    | 29.37      | 0.44THB    | Finance                | −0.44%            |
+| STPI   | 11.27%        | 4.74THB  | 0.48THB     | Strong Buy            | 31.424M     | 148.951M            | 6.81BTHB     | 617.39     | 0.01THB    | Producer Manufacturing | +1.21%            |
+| MNIT   | 10.37%        | 1.81THB  | 0.17THB     | Strong Buy            | 1.165K      | 2.109K              | 226.32MTHB   | 27.89      | 0.06THB    | Finance                | −0.44%            |
+| FORTH  | 10.00%        | 35.75THB | 3.25THB     | Buy                   | 9.433M      | 337.242M            | 30.4BTHB     | 37.79      | 0.86THB    | Electronic Technology  | −0.90%            |
+| ADD    | 9.90%         | 11.1THB  | 1.0THB      | Neutral               | 2.364M      | 26.235M             | 1.616BTHB    | 23.54      | 0.43THB    | Technology Services    | +0.63%            |
+| SABUY  | 8.04%         | 12.1THB  | 0.9THB      | Buy                   | 69.668M     | 842.987M            | 16.029BTHB   | 15.19      | 0.76THB    | Distribution Services  | +0.91%            |
+| CAZ    | 7.80%         | 4.42THB  | 0.32THB     | Buy                   | 5.921M      | 26.172M             | 1.205BTHB    | 5.48       | 0.75THB    | Industrial Services    | −0.15%            |
