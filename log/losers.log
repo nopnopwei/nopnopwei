@@ -1064,3 +1064,16 @@
 | NPK    | −5.29%        | 53.75THB | −3.00THB    | Strong Sell           | 2.619M      | 140.794M            | 29.964BTHB   | 113.18     | 0.51THB    | Distribution Services | +0.91%            |
 | PICO   | −4.48%        | 6.40THB  | −0.30THB    | Sell                  | 26.699M     | 170.873M            | 2.117BTHB    | 37.56      | 0.20THB    | Technology Services   | +0.63%            |
 | PRAPAT | −4.24%        | 15.8THB  | −0.7THB     | Buy                   | 200         | 3.16K               | 165MTHB      | —          | −3.67THB   | Consumer Non-Durables | +0.40%            |
+2023-01-11 11:12:21.649 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| Q-CON  | −16.67%       | 9.5THB   | −1.9THB     | Neutral               | 6.115M      | 58.092M             | 4.56BTHB     | 20.95      | 0.54THB    | Non-Energy Minerals   | +0.13%            |
+| PRAPAT | −6.67%        | 1.96THB  | −0.14THB    | Buy                   | 10.839M     | 21.244M             | 785.4MTHB    | 114.13     | 0.02THB    | Consumer Non-Durables | −0.02%            |
+| IMH    | −6.12%        | 13.8THB  | −0.9THB     | Buy                   | 3.389M      | 46.774M             | 3.152BTHB    | 8.76       | 1.68THB    | Health Services       | −0.67%            |
+| KLINIQ | −6.08%        | 34.75THB | −2.25THB    | Strong Sell           | 5.262M      | 182.842M            | 8.14BTHB     | 40.85      | 0.91THB    | Health Services       | −0.67%            |
+| GSC    | −5.06%        | 1.50THB  | −0.08THB    | Strong Sell           | 6.612M      | 9.918M              | 395MTHB      | 38.16      | 0.04THB    | Commercial Services   | +1.07%            |
+| PJW    | −4.50%        | 4.24THB  | −0.20THB    | Neutral               | 5.001M      | 21.206M             | 2.676BTHB    | 23.87      | 0.20THB    | Process Industries    | −0.26%            |
+| WARRIX | −4.40%        | 8.70THB  | −0.40THB    | Sell                  | 12.881M     | 112.068M            | —            | —          | —          | Consumer Non-Durables | −0.02%            |
+| AIRA   | −4.37%        | 1.98THB  | −0.10THB    | Sell                  | 26.4K       | 52.008K             | 13.009BTHB   | 170.25     | 0.01THB    | Finance               | −0.35%            |
+| MATI   | −4.19%        | 8.00THB  | −0.35THB    | Strong Sell           | 1.1K        | 8.8K                | 1.548BTHB    | 20.33      | 0.41THB    | Consumer Services     | +0.06%            |
+| BUI    | −3.91%        | 17.2THB  | −0.7THB     | Strong Sell           | 1.025K      | 17.63K              | 536.996MTHB  | 14.47      | 1.24THB    | Finance               | −0.35%            |

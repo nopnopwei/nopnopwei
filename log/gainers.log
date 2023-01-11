@@ -1064,3 +1064,16 @@
 | ADD    | 9.90%         | 11.1THB  | 1.0THB      | Neutral               | 2.364M      | 26.235M             | 1.616BTHB    | 23.54      | 0.43THB    | Technology Services    | +0.63%            |
 | SABUY  | 8.04%         | 12.1THB  | 0.9THB      | Buy                   | 69.668M     | 842.987M            | 16.029BTHB   | 15.19      | 0.76THB    | Distribution Services  | +0.91%            |
 | CAZ    | 7.80%         | 4.42THB  | 0.32THB     | Buy                   | 5.921M      | 26.172M             | 1.205BTHB    | 5.48       | 0.75THB    | Industrial Services    | −0.15%            |
+2023-01-11 11:12:21.643 | INFO     | __main__:log_table:140 - 
+ |       | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| CPL   | 29.73%        | 2.88THB  | 0.66THB     | Strong Buy            | 12.954M     | 37.307M             | 976.454MTHB  | 20.59      | 0.11THB    | Process Industries     | −0.26%            |
+| CPR   | 29.20%        | 6.16THB  | 1.40THB     | Strong Buy            | 8.389M      | 51.595M             | 947.24MTHB   | 15.14      | 0.31THB    | Producer Manufacturing | +0.62%            |
+| CPH   | 24.00%        | 38.75THB | 7.50THB     | Strong Buy            | 15.343M     | 594.525M            | 1.25BTHB     | 4.50       | 6.94THB    | Consumer Non-Durables  | −0.02%            |
+| CMO   | 10.41%        | 4.88THB  | 0.46THB     | Buy                   | 13.111M     | 63.981M             | 1.242BTHB    | —          | −0.20THB   | Commercial Services    | +1.07%            |
+| NFC   | 10.38%        | 5.85THB  | 0.55THB     | Buy                   | 12.109M     | 70.837M             | 5.766BTHB    | 13.64      | 0.39THB    | Distribution Services  | +0.28%            |
+| AFC   | 10.17%        | 9.75THB  | 0.90THB     | Buy                   | 1.737M      | 16.931M             | 403.332MTHB  | 19.66      | 0.45THB    | Process Industries     | −0.26%            |
+| YUASA | 8.89%         | 14.7THB  | 1.2THB      | Strong Buy            | 2.746M      | 40.36M              | 1.453BTHB    | 13.85      | 0.97THB    | Producer Manufacturing | +0.62%            |
+| SENAJ | 8.85%         | 1.23THB  | 0.10THB     | Strong Buy            | 53.196M     | 65.431M             | 4.746BTHB    | —          | −0.05THB   | Finance                | −0.35%            |
+| AIE   | 8.70%         | 3.00THB  | 0.24THB     | Buy                   | 16.531M     | 49.594M             | 3.633BTHB    | 23.17      | 0.14THB    | Process Industries     | −0.26%            |
+| JTS   | 8.65%         | 50.25THB | 4.00THB     | Buy                   | 4.682M      | 235.284M            | 32.674BTHB   | 158.50     | 0.29THB    | Technology Services    | +3.19%            |
