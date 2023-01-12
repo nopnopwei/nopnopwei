@@ -1077,3 +1077,16 @@
 | SENAJ | 8.85%         | 1.23THB  | 0.10THB     | Strong Buy            | 53.196M     | 65.431M             | 4.746BTHB    | —          | −0.05THB   | Finance                | −0.35%            |
 | AIE   | 8.70%         | 3.00THB  | 0.24THB     | Buy                   | 16.531M     | 49.594M             | 3.633BTHB    | 23.17      | 0.14THB    | Process Industries     | −0.26%            |
 | JTS   | 8.65%         | 50.25THB | 4.00THB     | Buy                   | 4.682M      | 235.284M            | 32.674BTHB   | 158.50     | 0.29THB    | Technology Services    | +3.19%            |
+2023-01-12 11:16:48.278 | INFO     | __main__:log_table:140 - 
+ |       | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                 | Sector Chg % 1D   |
+|-------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|------------------------|-------------------|
+| NEW   | 17.49%        | 89.00THB | 13.25THB    | Neutral               | 3.351K      | 298.239K            | 757.5MTHB    | 8.27       | 9.16THB    | Health Services        | −0.83%            |
+| IRCP  | 15.84%        | 1.17THB  | 0.16THB     | Buy                   | 41.807M     | 48.914M             | 426.282MTHB  | 35.31      | 0.03THB    | Technology Services    | −1.85%            |
+| SIMAT | 12.75%        | 2.30THB  | 0.26THB     | Buy                   | 8.994M      | 20.686M             | 1.323BTHB    | 21.52      | 0.10THB    | Commercial Services    | +1.12%            |
+| CMO   | 9.63%         | 5.36THB  | 0.48THB     | Buy                   | 17.07M      | 91.323M             | 1.371BTHB    | —          | −0.20THB   | Commercial Services    | +1.12%            |
+| OTO   | 9.33%         | 16.4THB  | 1.4THB      | Strong Buy            | 10.081M     | 165.326M            | 8.4BTHB      | —          | −0.20THB   | Commercial Services    | +1.12%            |
+| PERM  | 8.77%         | 1.24THB  | 0.10THB     | Buy                   | 11.318M     | 14.034M             | 861.103MTHB  | —          | −0.31THB   | Non-Energy Minerals    | +0.64%            |
+| BCP   | 8.66%         | 34.50THB | 2.75THB     | Strong Buy            | 51.676M     | 1.783B              | 42.503BTHB   | 3.23       | 9.84THB    | Energy Minerals        | −0.31%            |
+| TC    | 8.26%         | 13.1THB  | 1.0THB      | Buy                   | 6.355M      | 83.254M             | 3.993BTHB    | 8.61       | 1.41THB    | Consumer Non-Durables  | +0.35%            |
+| STPI  | 7.45%         | 5.06THB  | 0.36THB     | Strong Buy            | 24.901M     | 125.752M            | 7.514BTHB    | 681.16     | 0.01THB    | Producer Manufacturing | +0.74%            |
+| SCM   | 7.08%         | 6.05THB  | 0.40THB     | Buy                   | 907.704K    | 5.492M              | 3.39BTHB     | 16.52      | 0.34THB    | Retail Trade           | −1.96%            |

@@ -1077,3 +1077,16 @@
 | AIRA   | −4.37%        | 1.98THB  | −0.10THB    | Sell                  | 26.4K       | 52.008K             | 13.009BTHB   | 170.25     | 0.01THB    | Finance               | −0.35%            |
 | MATI   | −4.19%        | 8.00THB  | −0.35THB    | Strong Sell           | 1.1K        | 8.8K                | 1.548BTHB    | 20.33      | 0.41THB    | Consumer Services     | +0.06%            |
 | BUI    | −3.91%        | 17.2THB  | −0.7THB     | Strong Sell           | 1.025K      | 17.63K              | 536.996MTHB  | 14.47      | 1.24THB    | Finance               | −0.35%            |
+2023-01-12 11:16:48.284 | INFO     | __main__:log_table:140 - 
+ |        | Change % 1D   | Price    | Change 1D   | Technical Rating 1D   | Volume 1D   | Volume * Price 1D   | Market cap   | P/E(TTM)   | EPS(TTM)   | Sector                | Sector Chg % 1D   |
+|--------|---------------|----------|-------------|-----------------------|-------------|---------------------|--------------|------------|------------|-----------------------|-------------------|
+| ESSO   | −17.12%       | 9.2THB   | −1.9THB     | Strong Sell           | 308.237M    | 2.836B              | 38.416BTHB   | 3.25       | 3.42THB    | Energy Minerals       | −0.31%            |
+| MNIT   | −7.73%        | 1.67THB  | −0.14THB    | Sell                  | 6.802K      | 11.359K             | 249.78MTHB   | 30.78      | 0.06THB    | Finance               | −0.07%            |
+| JTS    | −6.47%        | 47.00THB | −3.25THB    | Neutral               | 2.474M      | 116.269M            | 35.499BTHB   | 172.21     | 0.29THB    | Technology Services   | −1.85%            |
+| HEMP   | −6.32%        | 3.56THB  | −0.24THB    | Sell                  | 2.542M      | 9.05M               | 1.431BTHB    | —          | −0.11THB   | Consumer Services     | +0.56%            |
+| THCOM  | −6.02%        | 15.6THB  | −1.0THB     | Buy                   | 32.229M     | 502.767M            | 18.195BTHB   | 44.53      | 0.37THB    | Communications        | +0.84%            |
+| CPH    | −5.16%        | 36.75THB | −2.00THB    | Buy                   | 4.116M      | 151.249M            | 1.55BTHB     | 5.58       | 6.94THB    | Consumer Non-Durables | +0.35%            |
+| MOSHI  | −4.22%        | 39.75THB | −1.75THB    | Sell                  | 3.267M      | 129.86M             | 12.45BTHB    | —          | —          | Distribution Services | −0.15%            |
+| AFC    | −4.10%        | 9.35THB  | −0.40THB    | Neutral               | 263.018K    | 2.459M              | 444.349MTHB  | 21.66      | 0.45THB    | Process Industries    | −0.07%            |
+| TCMC   | −3.95%        | 1.70THB  | −0.07THB    | Sell                  | 4.536M      | 7.711M              | 1.351BTHB    | —          | −0.04THB   | Consumer Durables     | +4.01%            |
+| GRAMMY | −3.81%        | 10.1THB  | −0.4THB     | Sell                  | 4.525K      | 45.703K             | 8.609BTHB    | 458.52     | 0.02THB    | Consumer Services     | +0.56%            |
